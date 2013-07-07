@@ -1,0 +1,13 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1373209401000 125 fae9d1b71d520745438010c9ca7cde9c81dfefac /Users/Radsen/AndroidStudioProjects/AndroidARProject/AndroidAR/build/res/all/debug/values-sw720dp-land/values.xml
+1373209401000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /Users/Radsen/AndroidStudioProjects/AndroidARProject/AndroidAR/build/res/all/debug/menu/aarmain.xml
+1373209401000 203 19aedb7cdc3386344e36087b035a0a6b2b91d4cd /Users/Radsen/AndroidStudioProjects/AndroidARProject/AndroidAR/build/res/all/debug/values-v11/values.xml
+1373209401000 787 5777952af943eded64c32573a44c3d400871de8d /Users/Radsen/AndroidStudioProjects/AndroidARProject/AndroidAR/build/res/all/debug/values/values.xml
+1373209401000 3115 3a3ab01f024b05b2fe74788d80586b966b6ff27a /Users/Radsen/AndroidStudioProjects/AndroidARProject/AndroidAR/build/res/all/debug/drawable-mdpi/ic_launcher.png
+1373209401000 217 f02e000d05a079992d2dba18039216c1e6b8784f /Users/Radsen/AndroidStudioProjects/AndroidARProject/AndroidAR/build/res/all/debug/values-v14/values.xml
+1373209401000 11336 abd8076a9842130182c4796aca7f8761235c20c9 /Users/Radsen/AndroidStudioProjects/AndroidARProject/AndroidAR/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
+1373209401000 6993 7f91e3b33762fd638c3933ada8290036b1c26df5 /Users/Radsen/AndroidStudioProjects/AndroidARProject/AndroidAR/build/res/all/debug/drawable-xhdpi/ic_launcher.png
+1373209401000 5047 59c8b1a316b1cf9104c4ed6d01258a09b54563bb /Users/Radsen/AndroidStudioProjects/AndroidARProject/AndroidAR/build/res/all/debug/drawable-hdpi/ic_launcher.png
+1373209401000 652 b3a0ee138f3ec9a2f9f6834bd2c0ddace823ae1e /Users/Radsen/AndroidStudioProjects/AndroidARProject/AndroidAR/build/res/all/debug/layout/android_ar_main.xml
