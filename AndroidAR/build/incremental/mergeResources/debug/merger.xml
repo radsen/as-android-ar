@@ -29,6 +29,16 @@
                 qualifiers=""
                 type="layout" />
             <file
+                name="hw_tester_fragment"
+                path="/Users/Radsen/AndroidStudioProjects/AndroidARProject/AndroidAR/src/main/res/layout/hw_tester_fragment.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main_list_fragment"
+                path="/Users/Radsen/AndroidStudioProjects/AndroidARProject/AndroidAR/src/main/res/layout/main_list_fragment.xml"
+                qualifiers=""
+                type="layout" />
+            <file
                 name="aarmain"
                 path="/Users/Radsen/AndroidStudioProjects/AndroidARProject/AndroidAR/src/main/res/menu/aarmain.xml"
                 qualifiers=""
@@ -104,6 +114,11 @@
                     <!-- API 14 theme customizations can go here. -->
                 </style>
             </file>
+            <file
+                name="hardware"
+                path="/Users/Radsen/AndroidStudioProjects/AndroidARProject/AndroidAR/src/main/res/layout/hardware.xml"
+                qualifiers=""
+                type="layout" />
         </source>
         <source path="/Users/Radsen/AndroidStudioProjects/AndroidARProject/AndroidAR/build/res/rs/debug" />
     </dataSet>

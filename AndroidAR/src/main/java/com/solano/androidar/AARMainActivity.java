@@ -1,10 +1,19 @@
 package com.solano.androidar;
 
 import android.os.Bundle;
-import android.app.Activity;
+import android.support.v4.app.FragmentActivity;
+import android.support.v4.app.Fragment;
+import android.util.Log;
 import android.view.Menu;
+import android.content.Intent;
 
-public class AARMainActivity extends Activity {
+import com.solano.androidar.hardware.AARHwTestFragment;
+import com.solano.androidar.hardware.AARHwTesterActivity;
+import com.solano.androidar.interfaces.OnSelectedListener;
+
+public class AARMainActivity extends FragmentActivity implements OnSelectedListener {
+
+    private static final String TAG = AARMainActivity.class.getName();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -19,5 +28,19 @@ public class AARMainActivity extends Activity {
         getMenuInflater().inflate(R.menu.aarmain, menu);
         return true;
     }
-    
+
+    @Override
+    public void onSelectedItem(String item)
+    {
+        Fragment viewer =  getSupportFragmentManager().findFragmentById(R.id.hw_fragment);
+
+        if(viewer == null || !viewer.isInLayout())
+        {
+            Intent intent = new Intent(getApplicationContext(), AARHwTesterActivity.class);
+
+            startActivity(intent);
+        }
+
+        Log.d(TAG, item);
+    }
 }
