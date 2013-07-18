@@ -12,12 +12,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d26ac188-32ef-4a3c-9a33-604741a22469" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/hardware/AARHwTesterAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/model/Hardware.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AndroidAR/src/main/res/layout/hardwareItem.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/hardware/AARHwTestFragment.java" afterPath="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/hardware/AARHwTestFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/src/main/res/layout/hardware.xml" afterPath="$PROJECT_DIR$/AndroidAR/src/main/res/layout/hardware.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AndroidAR/src/main/res/drawable-xhdpi/icn_audio_96.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AndroidAR/src/main/res/drawable-xhdpi/icn_camera_96.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AndroidAR/src/main/res/drawable-xhdpi/icn_magnetometer_96.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AndroidAR/src/main/res/drawable-xhdpi/icn_video_96.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/hardware/AARHwTesterAdapter.java" afterPath="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/hardware/AARHwTesterAdapter.java" />
     </list>
     <ignored path="AndroidAR.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -96,10 +95,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AARHwTesterAdapter.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="AARHwTesterAdapter.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/hardware/AARHwTesterAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="0" selection-start="1232" selection-end="1232" vertical-scroll-proportion="0.0" vertical-offset="293" max-vertical-offset="1005">
+            <state line="49" column="45" selection-start="1298" selection-end="1298" vertical-scroll-proportion="0.6207865" vertical-offset="293" max-vertical-offset="1035">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -119,10 +118,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AARHwTestFragment.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="AARHwTestFragment.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/hardware/AARHwTestFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="5" selection-start="749" selection-end="749" vertical-scroll-proportion="0.4002809" vertical-offset="0" max-vertical-offset="712">
+            <state line="29" column="0" selection-start="752" selection-end="752" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
               <folding />
             </state>
           </provider>
@@ -383,6 +382,66 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable-xhdpi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AndroidAR" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AndroidARProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AndroidAR" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable-hdpi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AndroidAR" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AndroidARProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AndroidAR" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -520,6 +579,10 @@
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/AndroidAR/src/main/res/drawable-xhdpi" />
+      <recent name="$PROJECT_DIR$/AndroidAR/src/main/res/drawable-hdpi" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.solano.androidar" />
     </key>
@@ -892,15 +955,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/hardware/AARHwTesterAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="0" selection-start="1232" selection-end="1232" vertical-scroll-proportion="0.0" vertical-offset="293" max-vertical-offset="1005">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/hardware/AARHwTesterActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="13" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
@@ -910,8 +964,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/hardware/AARHwTestFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="5" selection-start="749" selection-end="749" vertical-scroll-proportion="0.4002809" vertical-offset="0" max-vertical-offset="712">
+        <state line="29" column="0" selection-start="752" selection-end="752" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/hardware/AARHwTesterAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="45" selection-start="1298" selection-end="1298" vertical-scroll-proportion="0.6207865" vertical-offset="293" max-vertical-offset="1035">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -42,15 +42,17 @@ public class AARHwTesterAdapter extends BaseAdapter {
         LayoutInflater inflater = (LayoutInflater)ctx.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
 
         View view;
+        Hardware hw;
         if(convertView == null){
             view = new View(ctx);
 
             inflater.inflate(R.layout.hardwareItem, null);
+            hw = (Hardware)getItem(position);
 
             ImageView imgView = (ImageView) view.findViewById(R.id.ivwHwItem);
-            imgView.setImageResource(R.drawable.ic_launcher);
+            imgView.setImageResource(hw.getHardwareImageResource());
             TextView tvName = (TextView) view.findViewById(R.id.tvwHwItem);
-            tvName.setText(R.string.app_name);
+            tvName.setText(hw.getHardwareName());
 
         }else{
             view = convertView;
