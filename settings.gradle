@@ -1,1 +1,1 @@
-include ':AndroidAR'
+include ':AndroidAR', ':Gms'

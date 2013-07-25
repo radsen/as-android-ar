@@ -25,6 +25,9 @@
         <activity
                 android:name="com.solano.androidar.hardware.AARHwTesterActivity" >
         </activity>
+        <activity
+                android:name="com.solano.androidar.location.AARLocationActivity" >
+        </activity>
     </application>
 
 </manifest>

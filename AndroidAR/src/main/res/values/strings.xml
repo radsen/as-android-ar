@@ -5,4 +5,8 @@
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
 
+    <string name="loc_gps_title">First View</string>
+    <string name="loc_gps_description">Small View</string>
+
+
 </resources>

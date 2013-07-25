@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidAR/AndroidAR.iml" filepath="$PROJECT_DIR$/AndroidAR/AndroidAR.iml" />
       <module fileurl="file://$PROJECT_DIR$/AndroidARProject.iml" filepath="$PROJECT_DIR$/AndroidARProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gms/Gms.iml" filepath="$PROJECT_DIR$/Gms/Gms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/as-android-ar.iml" filepath="$PROJECT_DIR$/as-android-ar.iml" />
     </modules>
   </component>
 </project>

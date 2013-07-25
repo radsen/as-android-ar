@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/ivwHwItem"
+            android:layout_gravity="center"
+            android:src="@drawable/ic_launcher"/>
+
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/tvwHwItem"
+            android:gravity="center"
+            android:hint="Item"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"/>
+</RelativeLayout><!-- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/src/main/res/layout/hardware_item.xml -->

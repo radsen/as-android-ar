@@ -20,10 +20,13 @@ public class AARHwTesterAdapter extends BaseAdapter {
 
     private Context ctx = null;
     private ArrayList<Hardware> hwList = null;
+    LayoutInflater inflater = null;
 
     public AARHwTesterAdapter(Context ctx, ArrayList<Hardware> hwList){
         this.ctx = ctx;
         this.hwList = hwList;
+
+        inflater = (LayoutInflater)ctx.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
     }
 
     public int getCount(){
@@ -39,25 +42,30 @@ public class AARHwTesterAdapter extends BaseAdapter {
     }
 
     public View getView(int position, View convertView, ViewGroup parent){
-        LayoutInflater inflater = (LayoutInflater)ctx.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
 
-        View view;
-        Hardware hw;
+        ViewHolder holder;
+        Hardware hw = (Hardware)getItem(position);
+
         if(convertView == null){
-            view = new View(ctx);
+            convertView = inflater.inflate(R.layout.hardware_item, null);
+            holder = new ViewHolder();
 
-            inflater.inflate(R.layout.hardwareItem, null);
-            hw = (Hardware)getItem(position);
-
-            ImageView imgView = (ImageView) view.findViewById(R.id.ivwHwItem);
-            imgView.setImageResource(hw.getHardwareImageResource());
-            TextView tvName = (TextView) view.findViewById(R.id.tvwHwItem);
-            tvName.setText(hw.getHardwareName());
-
+            holder.imgView = (ImageView) convertView.findViewById(R.id.ivwHwItem);
+            holder.tvName = (TextView) convertView.findViewById(R.id.tvwHwItem);
+            convertView.setTag(holder);
         }else{
-            view = convertView;
+            holder = (ViewHolder)convertView.getTag();
         }
 
-        return view;
+        holder.imgView.setImageResource(hw.getHardwareImageResource());
+        holder.tvName.setText(hw.getHardwareName());
+
+        return convertView;
+    }
+
+    static class ViewHolder
+    {
+        ImageView imgView;
+        TextView tvName;
     }
 }

@@ -7,9 +7,10 @@ import android.util.Log;
 import android.view.Menu;
 import android.content.Intent;
 
-import com.solano.androidar.hardware.AARHwTestFragment;
 import com.solano.androidar.hardware.AARHwTesterActivity;
 import com.solano.androidar.interfaces.OnSelectedListener;
+import com.solano.androidar.location.AARLocationActivity;
+import com.solano.androidar.utils.AARMainMenu;
 
 public class AARMainActivity extends FragmentActivity implements OnSelectedListener {
 
@@ -30,17 +31,21 @@ public class AARMainActivity extends FragmentActivity implements OnSelectedListe
     }
 
     @Override
-    public void onSelectedItem(String item)
+    public void onSelectedItem(int index)
     {
-        Fragment viewer =  getSupportFragmentManager().findFragmentById(R.id.hw_fragment);
-
-        if(viewer == null || !viewer.isInLayout())
-        {
-            Intent intent = new Intent(getApplicationContext(), AARHwTesterActivity.class);
-
-            startActivity(intent);
+        Intent intent = null;
+        switch (index){
+            case AARMainMenu.HARDWARE_MENU:
+                intent = new Intent(getApplicationContext(), AARHwTesterActivity.class);
+                break;
+            case AARMainMenu.LOCATION_MENU:
+                intent = new Intent(getApplicationContext(), AARLocationActivity.class);
+                break;
         }
 
-        Log.d(TAG, item);
+        startActivity(intent);
+
+        Log.d(TAG, "" + index);
     }
+
 }

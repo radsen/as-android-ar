@@ -6,7 +6,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.os.Bundle;
 import android.widget.AdapterView;
-import android.widget.AdapterView.OnItemSelectedListener;
 import android.widget.ArrayAdapter;
 import android.widget.LinearLayout;
 import android.widget.ListView;
@@ -45,7 +44,7 @@ public class AARMainListFragment extends Fragment{
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
-                itemSelectedListener.onSelectedItem(options[i]);
+                itemSelectedListener.onSelectedItem(i);
             }
         });
 
