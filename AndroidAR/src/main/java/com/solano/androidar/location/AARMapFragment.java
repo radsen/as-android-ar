@@ -20,7 +20,8 @@ public class AARMapFragment extends SupportMapFragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)
     {
         View view = super.onCreateView(inflater, container, savedInstanceState);
-        //mMap = ((SupportMapFragment) getSupportFragmentManager().findFragmentById(R.id.map_frag)).getMap();
+
+        //mMap = ((SupportMapFragment) getActivity().getSupportFragmentManager().findFragmentById(R.id.map_frag)).getMap();
 
         return view;
     }

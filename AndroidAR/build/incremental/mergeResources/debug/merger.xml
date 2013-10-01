@@ -5054,9 +5054,13 @@
                 </string>
                 <string name="app_name" >AndroidAR
                 </string>
+                <string name="th_loc_01" >Location
+                </string>
                 <string name="hello_world" >Hello world!
                 </string>
                 <string name="loc_gps_description" >Small View
+                </string>
+                <string name="th_map_02" >Map
                 </string>
                 <string name="loc_gps_title" >First View
                 </string>
@@ -5083,9 +5087,6 @@
                     <!-- All customizations that are NOT specific to a particular API-level can go here. -->
                 </style>
             </file>
-            <file
-                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/src/main/res/values-sw600dp/dimens.xml"
-                qualifiers="sw600dp" />
             <file
                 path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/src/main/res/values-sw720dp-land/dimens.xml"
                 qualifiers="sw720dp-land" >

@@ -296,6 +296,8 @@ containing a value of this type.
         public static final int hello_world=0x7f070017;
         public static final int loc_gps_description=0x7f070018;
         public static final int loc_gps_title=0x7f070019;
+        public static final int th_loc_01=0x7f07001a;
+        public static final int th_map_02=0x7f07001b;
     }
     public static final class style {
         /**  From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/src/main/res/values/styles.xml 
