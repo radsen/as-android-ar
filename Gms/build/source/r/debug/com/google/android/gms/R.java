@@ -129,7 +129,7 @@ containing a value of this type.
         public static int zOrderOnTop=0x7f01000d;
     }
     public static final class color {
-        /**  From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values/colors.xml 
+        /**  From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values/colors.xml 
          */
         public static int common_action_bar_splitter=0x7f030000;
         public static int common_signin_btn_dark_text_default=0x7f030001;
@@ -178,56 +178,56 @@ containing a value of this type.
         public static int terrain=0x7f040003;
     }
     public static final class string {
-        /**  From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-af/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-am/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-ar/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-be/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-bg/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-ca/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-cs/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-da/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-de/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-el/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-en-rGB/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-es/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-es-rUS/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-et/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-fa/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-fi/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-fr/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-hi/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-hr/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-hu/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-in/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-it/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-iw/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-ja/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-ko/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-lt/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-lv/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-ms/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-nb/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-nl/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-pl/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-pt/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-pt-rBR/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-pt-rPT/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-ro/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-ru/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-sk/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-sl/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-sr/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-sv/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-sw/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-th/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-tl/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-tr/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-uk/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-vi/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-zh-rCN/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-zh-rTW/strings.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-zu/strings.xml 
+        /**  From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-af/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-am/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-ar/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-be/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-bg/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-ca/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-cs/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-da/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-de/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-el/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-en-rGB/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-es/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-es-rUS/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-et/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-fa/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-fi/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-fr/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-hi/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-hr/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-hu/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-in/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-it/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-iw/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-ja/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-ko/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-lt/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-lv/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-ms/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-nb/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-nl/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-pl/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-pt/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-pt-rBR/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-pt-rPT/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-ro/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-ru/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-sk/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-sl/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-sr/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-sv/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-sw/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-th/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-tl/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-tr/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-uk/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-vi/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-zh-rCN/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-zh-rTW/strings.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-zu/strings.xml 
          */
         public static int auth_client_needs_enabling_title=0x7f050000;
         public static int auth_client_needs_installation_title=0x7f050001;
@@ -252,7 +252,7 @@ containing a value of this type.
         public static int common_signin_button_text_long=0x7f050014;
     }
     public static final class styleable {
-        /**  From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values/maps_attrs.xml 
+        /**  From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values/maps_attrs.xml 
            <p>Includes the following attributes:</p>
            <table>
            <colgroup align="left" />

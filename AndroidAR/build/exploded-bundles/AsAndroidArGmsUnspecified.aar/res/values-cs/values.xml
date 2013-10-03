@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
 
-    <!-- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-cs/strings.xml -->
+    <!-- From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/Gms/src/main/res/values-cs/strings.xml -->
     <string name="auth_client_needs_enabling_title" msgid="3983201110833868073">"Aplikace vyžaduje aktivované Služby Google Play."</string>
     <string name="auth_client_needs_installation_title" msgid="7999585836145154206">"Aplikace vyžaduje instalaci Služeb Google Play."</string>
     <string name="auth_client_needs_update_title" msgid="6488605506794595966">"Aplikace vyžaduje aktualizaci Služeb Google Play."</string>

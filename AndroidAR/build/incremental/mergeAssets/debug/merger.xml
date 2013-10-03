@@ -2,13 +2,13 @@
 <merger>
 
     <dataSet config="AsAndroidArGmsUnspecified.aar" >
-        <source path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/assets" />
+        <source path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/assets" />
     </dataSet>
     <dataSet config="main" >
-        <source path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/src/main/assets" />
+        <source path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/src/main/assets" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/src/debug/assets" />
+        <source path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/src/debug/assets" />
     </dataSet>
 
 </merger>
