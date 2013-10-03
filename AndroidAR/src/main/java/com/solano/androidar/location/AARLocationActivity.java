@@ -21,6 +21,7 @@ public class AARLocationActivity extends FragmentActivity implements TabHost.OnT
     private TabHost locTabHost;
     private FragmentManager fragmentManager;
     private AARLocationFragment locationFragment;
+    private AARMapFragment mapFragment;
 
     @Override
     public void onCreate(Bundle savedInstanceState)
@@ -33,6 +34,7 @@ public class AARLocationActivity extends FragmentActivity implements TabHost.OnT
 
         fragmentManager = getSupportFragmentManager();
         locationFragment = (AARLocationFragment) fragmentManager.findFragmentById(R.id.gps_frag);
+        mapFragment = (AARMapFragment) fragmentManager.findFragmentById(R.id.map_frag);
 
         locTabHost = (TabHost) findViewById(R.id.tabHost);
         setupTabs();
@@ -49,7 +51,9 @@ public class AARLocationActivity extends FragmentActivity implements TabHost.OnT
 
     @Override
     public void onTabChanged(String tabId){
-
+        if (locTabHost.getCurrentTab() == 1){
+            mapFragment.setLocation(mGps.getLocation());
+        }
     }
 
     private void setupTabs() {
