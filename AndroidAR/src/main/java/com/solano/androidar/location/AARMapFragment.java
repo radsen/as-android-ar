@@ -1,8 +1,12 @@
 package com.solano.androidar.location;
 
+import android.location.Geocoder;
+import android.location.Address;
+import java.util.List;
 import android.location.Location;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -17,10 +21,14 @@ import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 import com.solano.androidar.R;
 
+import java.io.IOException;
+
 /**
  * Created by Radsen on 7/23/13.
  */
 public class AARMapFragment extends Fragment implements View.OnClickListener{
+
+    private static final String TAG = AARMapFragment.class.getSimpleName();
 
     GoogleMap mMap = null;
 
@@ -54,7 +62,34 @@ public class AARMapFragment extends Fragment implements View.OnClickListener{
 
     public void setLocation(Location location){
         LatLng latLng = new LatLng(location.getLatitude(), location.getLongitude());
-        mMap.addMarker(new MarkerOptions().position(latLng));
+
+        Geocoder geocoder = new Geocoder(getActivity());
+        Address address = null;
+
+        try{
+            List<Address> reverseGeocodeList =  geocoder.getFromLocation(latLng.latitude, latLng.longitude, 1);
+
+            if(reverseGeocodeList.size() > 0){
+                address = reverseGeocodeList.get(0);
+            }
+
+        }catch (IOException ioex){
+            Log.d(TAG, ioex.getMessage());
+            address = null;
+        }
+
+        String title = "N/A";
+        String addr = "N/A";
+
+        if(address != null){
+            title = address.getFeatureName();
+            addr = address.getAddressLine(0);
+        }
+
+        mMap.addMarker(new MarkerOptions()
+                .position(latLng)
+                .title(title)
+                .snippet(addr));
 
         CameraPosition cameraPosition = new CameraPosition.Builder()
                 .target(latLng)
