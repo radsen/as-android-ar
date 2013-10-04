@@ -37,6 +37,13 @@ public class AARMapFragment extends Fragment implements View.OnClickListener{
     {
         RelativeLayout relativeLayout = (RelativeLayout) inflater.inflate(R.layout.loc_map_fragment, container, false);
 
+        Button btnStandard = (Button) relativeLayout.findViewById(R.id.btnStandard);
+        btnStandard.setOnClickListener(this);
+        Button btnSatellite = (Button) relativeLayout.findViewById(R.id.btnSatellite);
+        btnSatellite.setOnClickListener(this);
+        Button btnHybrid = (Button) relativeLayout.findViewById(R.id.btnHybrid);
+        btnHybrid.setOnClickListener(this);
+
         mMap = ((SupportMapFragment) getActivity().getSupportFragmentManager().findFragmentById(R.id.map)).getMap();
 
         return relativeLayout;
@@ -48,11 +55,11 @@ public class AARMapFragment extends Fragment implements View.OnClickListener{
             Button button = (Button) view;
             int mapType = 0;
 
-            if(button.getText().toString().equalsIgnoreCase(getString(R.string.sb_btn_txt_std))){
+            if(button.getText().toString().equals(getString(R.string.sb_btn_txt_std))){
                 mapType = GoogleMap.MAP_TYPE_NORMAL;
-            }else if(button.getText().toString().equalsIgnoreCase(getString(R.string.sb_btn_txt_sat))){
+            }else if(button.getText().toString().equals(getString(R.string.sb_btn_txt_sat))){
                 mapType = GoogleMap.MAP_TYPE_SATELLITE;
-            }else if(button.getText().toString().equalsIgnoreCase(getString(R.string.sb_btn_txt_hyd))){
+            }else if(button.getText().toString().equals(getString(R.string.sb_btn_txt_hyd))){
                 mapType = GoogleMap.MAP_TYPE_HYBRID;
             }
 

@@ -2,348 +2,348 @@
 <merger xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" >
 
     <dataSet config="AsAndroidArGmsUnspecified.aar" >
-        <source path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res" >
+        <source path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res" >
             <file
                 name="common_signin_btn_text_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/color/common_signin_btn_text_dark.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/color/common_signin_btn_text_dark.xml"
                 qualifiers=""
                 type="color" />
             <file
                 name="common_signin_btn_text_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/color/common_signin_btn_text_light.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/color/common_signin_btn_text_light.xml"
                 qualifiers=""
                 type="color" />
             <file
                 name="common_signin_btn_icon_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable/common_signin_btn_icon_dark.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable/common_signin_btn_icon_dark.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable/common_signin_btn_icon_light.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable/common_signin_btn_icon_light.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="common_signin_btn_text_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable/common_signin_btn_text_dark.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable/common_signin_btn_text_dark.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="common_signin_btn_text_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable/common_signin_btn_text_light.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable/common_signin_btn_text_light.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_icon_disabled_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_icon_disabled_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_icon_disabled_focus_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_icon_disabled_focus_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_icon_disabled_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_icon_disabled_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_icon_focus_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_icon_focus_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_icon_focus_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_icon_focus_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_icon_normal_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_icon_normal_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_icon_normal_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_icon_normal_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_icon_pressed_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_icon_pressed_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_icon_pressed_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_icon_pressed_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_text_disabled_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_text_disabled_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_text_disabled_focus_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_text_disabled_focus_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_text_disabled_focus_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_text_disabled_focus_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_text_disabled_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_text_disabled_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_text_focus_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_text_focus_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_text_focus_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_text_focus_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_text_normal_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_text_normal_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_text_normal_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_text_normal_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_text_pressed_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_text_pressed_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_text_pressed_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_text_pressed_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-mdpi/common_signin_btn_icon_disabled_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-mdpi/common_signin_btn_icon_disabled_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-mdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-mdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-mdpi/common_signin_btn_icon_disabled_focus_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-mdpi/common_signin_btn_icon_disabled_focus_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-mdpi/common_signin_btn_icon_disabled_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-mdpi/common_signin_btn_icon_disabled_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-mdpi/common_signin_btn_icon_focus_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-mdpi/common_signin_btn_icon_focus_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-mdpi/common_signin_btn_icon_focus_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-mdpi/common_signin_btn_icon_focus_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-mdpi/common_signin_btn_icon_normal_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-mdpi/common_signin_btn_icon_normal_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-mdpi/common_signin_btn_icon_normal_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-mdpi/common_signin_btn_icon_normal_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-mdpi/common_signin_btn_icon_pressed_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-mdpi/common_signin_btn_icon_pressed_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-mdpi/common_signin_btn_icon_pressed_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-mdpi/common_signin_btn_icon_pressed_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-mdpi/common_signin_btn_text_disabled_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-mdpi/common_signin_btn_text_disabled_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-mdpi/common_signin_btn_text_disabled_focus_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-mdpi/common_signin_btn_text_disabled_focus_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-mdpi/common_signin_btn_text_disabled_focus_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-mdpi/common_signin_btn_text_disabled_focus_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-mdpi/common_signin_btn_text_disabled_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-mdpi/common_signin_btn_text_disabled_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-mdpi/common_signin_btn_text_focus_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-mdpi/common_signin_btn_text_focus_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-mdpi/common_signin_btn_text_focus_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-mdpi/common_signin_btn_text_focus_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-mdpi/common_signin_btn_text_normal_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-mdpi/common_signin_btn_text_normal_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-mdpi/common_signin_btn_text_normal_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-mdpi/common_signin_btn_text_normal_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-mdpi/common_signin_btn_text_pressed_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-mdpi/common_signin_btn_text_pressed_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-mdpi/common_signin_btn_text_pressed_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-mdpi/common_signin_btn_text_pressed_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-xhdpi/common_signin_btn_icon_disabled_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-xhdpi/common_signin_btn_icon_disabled_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-xhdpi/common_signin_btn_icon_disabled_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-xhdpi/common_signin_btn_icon_disabled_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-xhdpi/common_signin_btn_icon_focus_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-xhdpi/common_signin_btn_icon_focus_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-xhdpi/common_signin_btn_icon_focus_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-xhdpi/common_signin_btn_icon_focus_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-xhdpi/common_signin_btn_icon_normal_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-xhdpi/common_signin_btn_icon_normal_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-xhdpi/common_signin_btn_icon_normal_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-xhdpi/common_signin_btn_icon_normal_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-xhdpi/common_signin_btn_icon_pressed_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-xhdpi/common_signin_btn_icon_pressed_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-xhdpi/common_signin_btn_icon_pressed_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-xhdpi/common_signin_btn_icon_pressed_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-xhdpi/common_signin_btn_text_disabled_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-xhdpi/common_signin_btn_text_disabled_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-xhdpi/common_signin_btn_text_disabled_focus_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-xhdpi/common_signin_btn_text_disabled_focus_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-xhdpi/common_signin_btn_text_disabled_focus_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-xhdpi/common_signin_btn_text_disabled_focus_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-xhdpi/common_signin_btn_text_disabled_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-xhdpi/common_signin_btn_text_disabled_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-xhdpi/common_signin_btn_text_focus_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-xhdpi/common_signin_btn_text_focus_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-xhdpi/common_signin_btn_text_focus_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-xhdpi/common_signin_btn_text_focus_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-xhdpi/common_signin_btn_text_normal_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-xhdpi/common_signin_btn_text_normal_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-xhdpi/common_signin_btn_text_normal_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-xhdpi/common_signin_btn_text_normal_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-xhdpi/common_signin_btn_text_pressed_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-xhdpi/common_signin_btn_text_pressed_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-xhdpi/common_signin_btn_text_pressed_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-xhdpi/common_signin_btn_text_pressed_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values/values.xml"
                 qualifiers="" >
                 <color name="common_signin_btn_light_text_pressed" >@android:color/white
                 </color>
                 <color name="common_signin_btn_dark_text_focused" >@android:color/white
                 </color>
 
-                <string name="auth_client_needs_enabling_title" >      An application requires Google Play Services to be enabled.
-                </string>
                 <string name="common_google_play_services_unsupported_text" >Google Play services, which some of your applications rely on, is not supported by your device. Please contact the manufacturer for assistance.
+                </string>
+                <string name="auth_client_needs_enabling_title" >      An application requires Google Play Services to be enabled.
                 </string>
                 <string name="auth_client_using_bad_version_title" >      An application attempted to use a bad version of Google Play Services.
                 </string>
@@ -352,9 +352,9 @@
                     msgid="7215213145546190223" >Get Google Play services
                 </string>
 
-                <color name="common_signin_btn_dark_text_default" >@android:color/white
-                </color>
                 <color name="common_signin_btn_light_text_disabled" >#FFAAAAAA
+                </color>
+                <color name="common_signin_btn_dark_text_default" >@android:color/white
                 </color>
 
                 <string name="common_signin_button_text" >Sign in
@@ -477,15 +477,13 @@
                     name="common_google_play_services_install_text_phone"
                     msgid="2122112764540849864" >This app won\'t run without Google Play services, which are missing from your phone.
                 </string>
-
-                <color name="common_signin_btn_dark_text_pressed" >@android:color/white
-                </color>
-
                 <string
                     name="common_google_play_services_enable_button"
                     msgid="2523291102206661146" >Enable Google Play services
                 </string>
 
+                <color name="common_signin_btn_dark_text_pressed" >@android:color/white
+                </color>
                 <color name="common_signin_btn_light_text_focused" >#FF737373
                 </color>
                 <color name="common_action_bar_splitter" >#d2d2d2
@@ -494,7 +492,7 @@
                 </color>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-af/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-af/values.xml"
                 qualifiers="af" >
                 <string
                     name="auth_client_needs_update_title"
@@ -556,28 +554,28 @@
                     msgid="2429381841831957106" >"Meld aan met Google"
                 </string>
                 <string
-                    name="common_google_play_services_enable_button"
-                    msgid="4181637455539816337" >"Aktiveer Google Play-dienste"
-                </string>
-                <string
                     name="common_google_play_services_update_title"
                     msgid="6006316683626838685" >"Dateer Google Play-dienste op"
                 </string>
                 <string
-                    name="auth_client_needs_installation_title"
-                    msgid="7999585836145154206" >"\'n Program vereis dat Google Play-dienste geïnstalleer word."
+                    name="common_google_play_services_enable_button"
+                    msgid="4181637455539816337" >"Aktiveer Google Play-dienste"
                 </string>
                 <string
                     name="common_google_play_services_unsupported_title"
                     msgid="6334768798839376943" >"Google Play-dienste"
                 </string>
                 <string
-                    name="common_google_play_services_install_text_phone"
-                    msgid="8685301130651051380" >"Hierdie program sal nie loop sonder Google Play-dienste nie, wat nie op jou foon is nie."
+                    name="auth_client_needs_installation_title"
+                    msgid="7999585836145154206" >"\'n Program vereis dat Google Play-dienste geïnstalleer word."
                 </string>
                 <string
                     name="common_google_play_services_enable_title"
                     msgid="529078775174559253" >"Aktiveer Google Play-dienste"
+                </string>
+                <string
+                    name="common_google_play_services_install_text_phone"
+                    msgid="8685301130651051380" >"Hierdie program sal nie loop sonder Google Play-dienste nie, wat nie op jou foon is nie."
                 </string>
                 <string
                     name="common_google_play_services_unknown_issue"
@@ -585,7 +583,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-am/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-am/values.xml"
                 qualifiers="am" >
                 <string
                     name="common_google_play_services_update_title"
@@ -647,20 +645,20 @@
                     msgid="7999585836145154206" >"መተግበሪያው Google Play አገልግሎቶች እንዲጫኑ ይፈልጋል።"
                 </string>
                 <string
-                    name="auth_client_needs_enabling_title"
-                    msgid="3983201110833868073" >"መተግበሪያው Google Play አገልግሎቶች እንዲነቁ ይፈልጋል።"
-                </string>
-                <string
                     name="common_signin_button_text"
                     msgid="9071884888741449141" >"ግባ"
                 </string>
                 <string
-                    name="common_google_play_services_unknown_issue"
-                    msgid="4762332809710093730" >"በGoogle Play አገልግሎቶች ላይ ያልታወቀ ችግር።"
+                    name="auth_client_needs_enabling_title"
+                    msgid="3983201110833868073" >"መተግበሪያው Google Play አገልግሎቶች እንዲነቁ ይፈልጋል።"
                 </string>
                 <string
                     name="common_google_play_services_update_button"
                     msgid="8932944190611227642" >"ያዘምኑ"
+                </string>
+                <string
+                    name="common_google_play_services_unknown_issue"
+                    msgid="4762332809710093730" >"በGoogle Play አገልግሎቶች ላይ ያልታወቀ ችግር።"
                 </string>
                 <string
                     name="common_google_play_services_install_title"
@@ -676,7 +674,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ar/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ar/values.xml"
                 qualifiers="ar" >
                 <string
                     name="common_google_play_services_update_text"
@@ -734,40 +732,40 @@
                     msgid="7627896071867667758" >"لن يعمل هذا التطبيق ما لم يتم تمكين خدمات Google Play."
                 </string>
                 <string
-                    name="common_google_play_services_enable_title"
-                    msgid="529078775174559253" >"تمكين خدمات Google Play"
-                </string>
-                <string
                     name="common_google_play_services_enable_button"
                     msgid="4181637455539816337" >"تمكين خدمات Google Play"
                 </string>
                 <string
-                    name="common_google_play_services_install_button"
-                    msgid="8515591849428043265" >"الحصول على خدمات Google Play"
+                    name="common_google_play_services_enable_title"
+                    msgid="529078775174559253" >"تمكين خدمات Google Play"
                 </string>
                 <string
                     name="common_google_play_services_unknown_issue"
                     msgid="4762332809710093730" >"حدثت مشكلة غير معروفة في خدمات Google Play."
                 </string>
                 <string
-                    name="common_google_play_services_install_text_tablet"
-                    msgid="1589957570365247855" >"لن يتم تشغيل هذا التطبيق بدون خدمات Google Play، والتي لا تتوفر في جهازك اللوحي."
+                    name="common_google_play_services_install_button"
+                    msgid="8515591849428043265" >"الحصول على خدمات Google Play"
                 </string>
                 <string
                     name="common_google_play_services_update_button"
                     msgid="8932944190611227642" >"تحديث"
                 </string>
                 <string
-                    name="auth_client_needs_update_title"
-                    msgid="6488605506794595966" >"يتطلب أحد التطبيقات تحديث خدمات Google Play."
+                    name="common_google_play_services_install_text_tablet"
+                    msgid="1589957570365247855" >"لن يتم تشغيل هذا التطبيق بدون خدمات Google Play، والتي لا تتوفر في جهازك اللوحي."
                 </string>
                 <string
                     name="auth_client_needs_enabling_title"
                     msgid="3983201110833868073" >"يتطلب أحد التطبيقات تمكين خدمات Google Play."
                 </string>
+                <string
+                    name="auth_client_needs_update_title"
+                    msgid="6488605506794595966" >"يتطلب أحد التطبيقات تحديث خدمات Google Play."
+                </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-be/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-be/values.xml"
                 qualifiers="be" >
                 <string
                     name="common_google_play_services_update_title"
@@ -858,7 +856,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-bg/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-bg/values.xml"
                 qualifiers="bg" >
                 <string
                     name="common_google_play_services_enable_title"
@@ -909,16 +907,12 @@
                     msgid="4181637455539816337" >"Услуги за Google Play: Актив."
                 </string>
                 <string
-                    name="auth_client_needs_installation_title"
-                    msgid="7999585836145154206" >"Приложение изисква инсталирането на услугите за Google Play."
-                </string>
-                <string
                     name="auth_client_needs_enabling_title"
                     msgid="3983201110833868073" >"Приложение изисква активирането на услугите за Google Play."
                 </string>
                 <string
-                    name="common_google_play_services_install_title"
-                    msgid="26645092511305524" >"Изтегляне на услугите за Google Play"
+                    name="auth_client_needs_installation_title"
+                    msgid="7999585836145154206" >"Приложение изисква инсталирането на услугите за Google Play."
                 </string>
                 <string
                     name="auth_client_requested_by_msg"
@@ -928,12 +922,16 @@
                     </ns1:g>"
                 </string>
                 <string
-                    name="common_google_play_services_enable_text"
-                    msgid="7627896071867667758" >"Това приложение няма да работи, освен ако не активирате услугите за Google Play."
+                    name="common_google_play_services_install_title"
+                    msgid="26645092511305524" >"Изтегляне на услугите за Google Play"
                 </string>
                 <string
                     name="common_google_play_services_unsupported_title"
                     msgid="6334768798839376943" >"Услуги за Google Play"
+                </string>
+                <string
+                    name="common_google_play_services_enable_text"
+                    msgid="7627896071867667758" >"Това приложение няма да работи, освен ако не активирате услугите за Google Play."
                 </string>
                 <string
                     name="auth_client_needs_update_title"
@@ -949,7 +947,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ca/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ca/values.xml"
                 qualifiers="ca" >
                 <string
                     name="auth_client_needs_installation_title"
@@ -1015,12 +1013,12 @@
                     msgid="7627896071867667758" >"Aquesta aplicació no funcionarà si no actives els serveis de Google Play."
                 </string>
                 <string
-                    name="common_google_play_services_enable_button"
-                    msgid="4181637455539816337" >"Activa els serveis de Google Play"
-                </string>
-                <string
                     name="common_google_play_services_unknown_issue"
                     msgid="4762332809710093730" >"Error desconegut relacionat amb els serveis de Google Play."
+                </string>
+                <string
+                    name="common_google_play_services_enable_button"
+                    msgid="4181637455539816337" >"Activa els serveis de Google Play"
                 </string>
                 <string
                     name="common_google_play_services_install_text_phone"
@@ -1031,16 +1029,16 @@
                     msgid="8515591849428043265" >"Baixa els serveis de Google Play"
                 </string>
                 <string
-                    name="common_google_play_services_update_button"
-                    msgid="8932944190611227642" >"Actualitza"
-                </string>
-                <string
                     name="common_signin_button_text_long"
                     msgid="2429381841831957106" >"Inicia sessió amb Google"
                 </string>
+                <string
+                    name="common_google_play_services_update_button"
+                    msgid="8932944190611227642" >"Actualitza"
+                </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-cs/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-cs/values.xml"
                 qualifiers="cs" >
                 <string
                     name="common_signin_button_text_long"
@@ -1102,24 +1100,24 @@
                     </ns1:g>"
                 </string>
                 <string
-                    name="common_google_play_services_enable_button"
-                    msgid="4181637455539816337" >"Aktivovat služby Google Play"
-                </string>
-                <string
                     name="common_google_play_services_unsupported_text"
                     msgid="3542578567569488671" >"Některé vaše aplikace vyžadují služby Google Play, které ve vašem zařízení nejsou podporovány. S žádostí o pomoc se prosím obraťte na výrobce."
+                </string>
+                <string
+                    name="common_google_play_services_enable_button"
+                    msgid="4181637455539816337" >"Aktivovat služby Google Play"
                 </string>
                 <string
                     name="common_google_play_services_install_button"
                     msgid="8515591849428043265" >"Instalovat služby Google Play"
                 </string>
                 <string
-                    name="common_google_play_services_enable_title"
-                    msgid="529078775174559253" >"Aktivovat služby Google Play"
-                </string>
-                <string
                     name="common_signin_button_text"
                     msgid="9071884888741449141" >"Přihlásit se"
+                </string>
+                <string
+                    name="common_google_play_services_enable_title"
+                    msgid="529078775174559253" >"Aktivovat služby Google Play"
                 </string>
                 <string
                     name="common_google_play_services_install_title"
@@ -1131,7 +1129,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-da/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-da/values.xml"
                 qualifiers="da" >
                 <string
                     name="auth_client_play_services_err_notification_msg"
@@ -1177,6 +1175,10 @@
                     msgid="4762332809710093730" >"Ukendt problem med Google Play-tjenester."
                 </string>
                 <string
+                    name="common_signin_button_text_long"
+                    msgid="2429381841831957106" >"Log ind med Google"
+                </string>
+                <string
                     name="common_google_play_services_unsupported_text"
                     msgid="3542578567569488671" >"Google Play-tjenester, som nogle af dine applikationer er afhængige af, understøttes ikke af din enhed. Kontakt producenten for at få hjælp."
                 </string>
@@ -1189,10 +1191,6 @@
                     msgid="4181637455539816337" >"Aktivér Google Play-tjenester"
                 </string>
                 <string
-                    name="common_signin_button_text_long"
-                    msgid="2429381841831957106" >"Log ind med Google"
-                </string>
-                <string
                     name="common_google_play_services_install_button"
                     msgid="8515591849428043265" >"Hent Google Play-tjenester"
                 </string>
@@ -1201,12 +1199,12 @@
                     msgid="6006316683626838685" >"Opdater Google Play-tjenester"
                 </string>
                 <string
-                    name="common_google_play_services_install_title"
-                    msgid="26645092511305524" >"Hent Google Play-tjenester"
-                </string>
-                <string
                     name="common_google_play_services_install_text_tablet"
                     msgid="1589957570365247855" >"Denne app kan ikke køre uden Google Play-tjenester, som mangler på din tablet."
+                </string>
+                <string
+                    name="common_google_play_services_install_title"
+                    msgid="26645092511305524" >"Hent Google Play-tjenester"
                 </string>
                 <string
                     name="common_signin_button_text"
@@ -1222,7 +1220,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-de/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-de/values.xml"
                 qualifiers="de" >
                 <string
                     name="common_google_play_services_unsupported_title"
@@ -1277,20 +1275,20 @@
                     msgid="1589957570365247855" >"Zur Nutzung dieser App sind Google Play-Dienste erforderlich, die auf Ihrem Tablet nicht installiert sind."
                 </string>
                 <string
-                    name="auth_client_needs_enabling_title"
-                    msgid="3983201110833868073" >"Anwendung erfordert aktivierte Google Play-Dienste"
-                </string>
-                <string
                     name="common_google_play_services_unknown_issue"
                     msgid="4762332809710093730" >"Unbekanntes Problem mit Google Play-Diensten"
                 </string>
                 <string
-                    name="common_google_play_services_install_button"
-                    msgid="8515591849428043265" >"Google Play-Dienste installieren"
+                    name="auth_client_needs_enabling_title"
+                    msgid="3983201110833868073" >"Anwendung erfordert aktivierte Google Play-Dienste"
                 </string>
                 <string
                     name="auth_client_needs_update_title"
                     msgid="6488605506794595966" >"Anwendung erfordert ein Update für Google Play-Dienste"
+                </string>
+                <string
+                    name="common_google_play_services_install_button"
+                    msgid="8515591849428043265" >"Google Play-Dienste installieren"
                 </string>
                 <string
                     name="common_signin_button_text_long"
@@ -1313,7 +1311,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-el/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-el/values.xml"
                 qualifiers="el" >
                 <string
                     name="common_google_play_services_enable_text"
@@ -1372,8 +1370,8 @@
                     msgid="7999585836145154206" >"Μια εφαρμογή απαιτεί την εγκατάσταση των Υπηρεσιών Google Play."
                 </string>
                 <string
-                    name="common_google_play_services_install_text_tablet"
-                    msgid="1589957570365247855" >"Αυτή η εφαρμογή δεν θα εκτελεστεί χωρίς τις υπηρεσίες Google Play, οι οποίες λείπουν από το tablet σας."
+                    name="auth_client_needs_update_title"
+                    msgid="6488605506794595966" >"Μια εφαρμογή απαιτεί μια ενημέρωση για τις Υπηρεσίες Google Play."
                 </string>
                 <string
                     name="auth_client_requested_by_msg"
@@ -1383,8 +1381,8 @@
                     </ns1:g>"
                 </string>
                 <string
-                    name="auth_client_needs_update_title"
-                    msgid="6488605506794595966" >"Μια εφαρμογή απαιτεί μια ενημέρωση για τις Υπηρεσίες Google Play."
+                    name="common_google_play_services_install_text_tablet"
+                    msgid="1589957570365247855" >"Αυτή η εφαρμογή δεν θα εκτελεστεί χωρίς τις υπηρεσίες Google Play, οι οποίες λείπουν από το tablet σας."
                 </string>
                 <string
                     name="common_google_play_services_install_text_phone"
@@ -1395,16 +1393,16 @@
                     msgid="3983201110833868073" >"Μια εφαρμογή απαιτεί τις Υπηρεσίες Google Play για ενεργοποίηση."
                 </string>
                 <string
-                    name="common_google_play_services_enable_title"
-                    msgid="529078775174559253" >"Ενεργοποίηση υπηρεσιών Google Play"
-                </string>
-                <string
                     name="common_google_play_services_unknown_issue"
                     msgid="4762332809710093730" >"Άγνωστο πρόβλημα με τις υπηρεσίες Google Play."
                 </string>
+                <string
+                    name="common_google_play_services_enable_title"
+                    msgid="529078775174559253" >"Ενεργοποίηση υπηρεσιών Google Play"
+                </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-en-rGB/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-en-rGB/values.xml"
                 qualifiers="en-rGB" >
                 <string
                     name="common_google_play_services_unsupported_text"
@@ -1462,40 +1460,40 @@
                     msgid="2429381841831957106" >"Sign in with Google"
                 </string>
                 <string
-                    name="common_google_play_services_enable_text"
-                    msgid="7627896071867667758" >"This app won\'t work unless you enable Google Play services."
-                </string>
-                <string
-                    name="auth_client_needs_update_title"
-                    msgid="6488605506794595966" >"An application requires an update for Google Play Services."
-                </string>
-                <string
-                    name="common_google_play_services_update_text"
-                    msgid="448354684997260580" >"This app won\'t run unless you update Google Play services."
+                    name="common_signin_button_text"
+                    msgid="9071884888741449141" >"Sign in"
                 </string>
                 <string
                     name="common_google_play_services_update_title"
                     msgid="6006316683626838685" >"Update Google Play services"
                 </string>
                 <string
-                    name="common_signin_button_text"
-                    msgid="9071884888741449141" >"Sign in"
+                    name="common_google_play_services_update_text"
+                    msgid="448354684997260580" >"This app won\'t run unless you update Google Play services."
+                </string>
+                <string
+                    name="auth_client_needs_update_title"
+                    msgid="6488605506794595966" >"An application requires an update for Google Play Services."
+                </string>
+                <string
+                    name="common_google_play_services_enable_text"
+                    msgid="7627896071867667758" >"This app won\'t work unless you enable Google Play services."
                 </string>
                 <string
                     name="common_google_play_services_unsupported_title"
                     msgid="6334768798839376943" >"Google Play services"
                 </string>
                 <string
-                    name="common_google_play_services_install_text_tablet"
-                    msgid="1589957570365247855" >"This app won\'t run without Google Play services, which are missing from your tablet."
-                </string>
-                <string
                     name="auth_client_play_services_err_notification_msg"
                     msgid="3635065018897986478" >"Google Play services error"
                 </string>
+                <string
+                    name="common_google_play_services_install_text_tablet"
+                    msgid="1589957570365247855" >"This app won\'t run without Google Play services, which are missing from your tablet."
+                </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-es/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-es/values.xml"
                 qualifiers="es" >
                 <string
                     name="auth_client_requested_by_msg"
@@ -1586,7 +1584,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-es-rUS/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-es-rUS/values.xml"
                 qualifiers="es-rUS" >
                 <string
                     name="common_google_play_services_install_text_phone"
@@ -1657,15 +1655,15 @@
                     msgid="8515591849428043265" >"Descargar Google Play Services"
                 </string>
                 <string
+                    name="common_signin_button_text"
+                    msgid="9071884888741449141" >"Acceder"
+                </string>
+                <string
                     name="auth_client_requested_by_msg"
                     msgid="6304135633531965756" >"Solicitada por 
 <ns1:g id="APP_NAME" >
 %1$s
                     </ns1:g>"
-                </string>
-                <string
-                    name="common_signin_button_text"
-                    msgid="9071884888741449141" >"Acceder"
                 </string>
                 <string
                     name="common_google_play_services_unknown_issue"
@@ -1677,7 +1675,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-et/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-et/values.xml"
                 qualifiers="et" >
                 <string
                     name="common_google_play_services_enable_title"
@@ -1739,20 +1737,20 @@
                     msgid="2534454398764507874" >"Rakendus püüdis kasutada Google Play teenuste sobimatut versiooni."
                 </string>
                 <string
-                    name="common_google_play_services_install_title"
-                    msgid="26645092511305524" >"Hankige Google Play teenused"
-                </string>
-                <string
                     name="auth_client_play_services_err_notification_msg"
                     msgid="3635065018897986478" >"Viga Google Play teenustes"
                 </string>
                 <string
-                    name="common_google_play_services_install_text_tablet"
-                    msgid="1589957570365247855" >"Selle rakenduse käitamiseks on vaja Google Play teenuseid, mida teie tahvelarvutis pole."
+                    name="common_google_play_services_install_title"
+                    msgid="26645092511305524" >"Hankige Google Play teenused"
                 </string>
                 <string
                     name="common_signin_button_text"
                     msgid="9071884888741449141" >"Logi sisse"
+                </string>
+                <string
+                    name="common_google_play_services_install_text_tablet"
+                    msgid="1589957570365247855" >"Selle rakenduse käitamiseks on vaja Google Play teenuseid, mida teie tahvelarvutis pole."
                 </string>
                 <string
                     name="common_google_play_services_update_text"
@@ -1768,7 +1766,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-fa/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-fa/values.xml"
                 qualifiers="fa" >
                 <string
                     name="auth_client_using_bad_version_title"
@@ -1823,15 +1821,15 @@
                     msgid="8515591849428043265" >"دریافت خدمات Google Play"
                 </string>
                 <string
+                    name="auth_client_needs_enabling_title"
+                    msgid="3983201110833868073" >"برنامه‌ای به فعال کردن خدمات Google Play نیاز دارد."
+                </string>
+                <string
                     name="auth_client_requested_by_msg"
                     msgid="6304135633531965756" >"درخواست توسط 
 <ns1:g id="APP_NAME" >
 %1$s
                     </ns1:g>"
-                </string>
-                <string
-                    name="auth_client_needs_enabling_title"
-                    msgid="3983201110833868073" >"برنامه‌ای به فعال کردن خدمات Google Play نیاز دارد."
                 </string>
                 <string
                     name="common_google_play_services_install_text_tablet"
@@ -1859,7 +1857,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-fi/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-fi/values.xml"
                 qualifiers="fi" >
                 <string
                     name="common_google_play_services_unsupported_text"
@@ -1918,14 +1916,6 @@
                     msgid="4762332809710093730" >"Tuntematon ongelma käytettäessä Google Play -palveluita."
                 </string>
                 <string
-                    name="common_google_play_services_install_text_tablet"
-                    msgid="1589957570365247855" >"Tämä sovellus ei toimi ilman Google Play -palveluita, jotka puuttuvat tablet-laitteesta."
-                </string>
-                <string
-                    name="auth_client_using_bad_version_title"
-                    msgid="2534454398764507874" >"Sovellus yritti käyttää virheellistä Google Play -palveluiden versiota"
-                </string>
-                <string
                     name="auth_client_requested_by_msg"
                     msgid="6304135633531965756" >"Pyynnön teki 
 <ns1:g id="APP_NAME" >
@@ -1933,16 +1923,24 @@
                     </ns1:g>"
                 </string>
                 <string
-                    name="common_google_play_services_install_button"
-                    msgid="8515591849428043265" >"Asenna Google Play -palvelut"
+                    name="auth_client_using_bad_version_title"
+                    msgid="2534454398764507874" >"Sovellus yritti käyttää virheellistä Google Play -palveluiden versiota"
+                </string>
+                <string
+                    name="common_google_play_services_install_text_tablet"
+                    msgid="1589957570365247855" >"Tämä sovellus ei toimi ilman Google Play -palveluita, jotka puuttuvat tablet-laitteesta."
+                </string>
+                <string
+                    name="auth_client_needs_installation_title"
+                    msgid="7999585836145154206" >"Asenna Google Play -palvelut, jotta sovellus toimii."
                 </string>
                 <string
                     name="common_google_play_services_enable_title"
                     msgid="529078775174559253" >"Ota Google Play -palvelut käyttöön"
                 </string>
                 <string
-                    name="auth_client_needs_installation_title"
-                    msgid="7999585836145154206" >"Asenna Google Play -palvelut, jotta sovellus toimii."
+                    name="common_google_play_services_install_button"
+                    msgid="8515591849428043265" >"Asenna Google Play -palvelut"
                 </string>
                 <string
                     name="common_google_play_services_update_title"
@@ -1950,7 +1948,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-fr/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-fr/values.xml"
                 qualifiers="fr" >
                 <string
                     name="common_google_play_services_unsupported_title"
@@ -2016,32 +2014,32 @@
                     msgid="6488605506794595966" >"Une application requiert la mise à jour des services Google Play"
                 </string>
                 <string
-                    name="common_google_play_services_install_button"
-                    msgid="8515591849428043265" >"Installer services Google Play"
-                </string>
-                <string
-                    name="auth_client_needs_installation_title"
-                    msgid="7999585836145154206" >"Une application requiert l\'installation des services Google Play"
+                    name="common_signin_button_text_long"
+                    msgid="2429381841831957106" >"Se connecter avec Google"
                 </string>
                 <string
                     name="common_google_play_services_update_title"
                     msgid="6006316683626838685" >"Mettre à jour les services Google Play"
                 </string>
                 <string
-                    name="common_signin_button_text_long"
-                    msgid="2429381841831957106" >"Se connecter avec Google"
+                    name="auth_client_needs_installation_title"
+                    msgid="7999585836145154206" >"Une application requiert l\'installation des services Google Play"
                 </string>
                 <string
-                    name="auth_client_using_bad_version_title"
-                    msgid="2534454398764507874" >"Une application requiert une version valide des services Google Play"
+                    name="common_google_play_services_install_button"
+                    msgid="8515591849428043265" >"Installer services Google Play"
                 </string>
                 <string
                     name="common_signin_button_text"
                     msgid="9071884888741449141" >"Connexion"
                 </string>
+                <string
+                    name="auth_client_using_bad_version_title"
+                    msgid="2534454398764507874" >"Une application requiert une version valide des services Google Play"
+                </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-hi/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-hi/values.xml"
                 qualifiers="hi" >
                 <string
                     name="common_google_play_services_install_button"
@@ -2115,16 +2113,16 @@
                     msgid="3983201110833868073" >"एप्लिकेशन के लिए Google Play सेवाओं को सक्षम किए जाने की आवश्यकता है."
                 </string>
                 <string
-                    name="auth_client_play_services_err_notification_msg"
-                    msgid="3635065018897986478" >"Google Play सेवाएं त्रुटि"
+                    name="common_google_play_services_update_button"
+                    msgid="8932944190611227642" >"अपडेट करें"
                 </string>
                 <string
                     name="auth_client_needs_update_title"
                     msgid="6488605506794595966" >"एप्लिकेशन के लिए Google Play सेवाओं में अपडेट की आवश्यकता है."
                 </string>
                 <string
-                    name="common_google_play_services_update_button"
-                    msgid="8932944190611227642" >"अपडेट करें"
+                    name="auth_client_play_services_err_notification_msg"
+                    msgid="3635065018897986478" >"Google Play सेवाएं त्रुटि"
                 </string>
                 <string
                     name="common_google_play_services_install_title"
@@ -2132,7 +2130,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-hr/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-hr/values.xml"
                 qualifiers="hr" >
                 <string
                     name="common_google_play_services_update_button"
@@ -2186,16 +2184,16 @@
                     msgid="529078775174559253" >"Omogući usluge za Google Play"
                 </string>
                 <string
-                    name="common_google_play_services_install_text_tablet"
-                    msgid="1589957570365247855" >"Ova aplikacija neće funkcionirati bez usluga za Google Play, koje nisu instalirane na vašem tabletnom računalu."
+                    name="common_signin_button_text_long"
+                    msgid="2429381841831957106" >"Prijava uslugom Google"
                 </string>
                 <string
                     name="common_google_play_services_install_button"
                     msgid="8515591849428043265" >"Preuzmi usluge za Google Play"
                 </string>
                 <string
-                    name="common_signin_button_text_long"
-                    msgid="2429381841831957106" >"Prijava uslugom Google"
+                    name="common_google_play_services_install_text_tablet"
+                    msgid="1589957570365247855" >"Ova aplikacija neće funkcionirati bez usluga za Google Play, koje nisu instalirane na vašem tabletnom računalu."
                 </string>
                 <string
                     name="common_google_play_services_install_title"
@@ -2210,12 +2208,12 @@
                     msgid="3635065018897986478" >"Pogreška usluga za Google Play"
                 </string>
                 <string
-                    name="common_google_play_services_enable_button"
-                    msgid="4181637455539816337" >"Omogući usluge za Google Play"
-                </string>
-                <string
                     name="common_google_play_services_unsupported_title"
                     msgid="6334768798839376943" >"Usluge za Google Play"
+                </string>
+                <string
+                    name="common_google_play_services_enable_button"
+                    msgid="4181637455539816337" >"Omogući usluge za Google Play"
                 </string>
                 <string
                     name="common_google_play_services_install_text_phone"
@@ -2223,7 +2221,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-hu/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-hu/values.xml"
                 qualifiers="hu" >
                 <string
                     name="auth_client_using_bad_version_title"
@@ -2274,16 +2272,16 @@
                     msgid="4762332809710093730" >"Ismeretlen hiba a Google Play Szolgáltatásokban."
                 </string>
                 <string
-                    name="common_google_play_services_install_text_phone"
-                    msgid="8685301130651051380" >"Az alkalmazás működéséhez a Google Play Szolgáltatások szükségesek, ezek nincsenek telepítve a telefonon."
+                    name="common_google_play_services_update_title"
+                    msgid="6006316683626838685" >"Play Szolgáltatások frissítése"
                 </string>
                 <string
                     name="common_google_play_services_unsupported_title"
                     msgid="6334768798839376943" >"Google Play Szolgáltatások"
                 </string>
                 <string
-                    name="common_google_play_services_update_title"
-                    msgid="6006316683626838685" >"Play Szolgáltatások frissítése"
+                    name="common_google_play_services_install_text_phone"
+                    msgid="8685301130651051380" >"Az alkalmazás működéséhez a Google Play Szolgáltatások szükségesek, ezek nincsenek telepítve a telefonon."
                 </string>
                 <string
                     name="common_google_play_services_enable_button"
@@ -2294,15 +2292,15 @@
                     msgid="3542578567569488671" >"A Google Play Szolgáltatásokat, amelyre egyes alkalmazások támaszkodnak, nem támogatja az eszköz. Segítségért forduljon az eszköz gyártójához."
                 </string>
                 <string
+                    name="common_google_play_services_update_button"
+                    msgid="8932944190611227642" >"Frissítés"
+                </string>
+                <string
                     name="auth_client_requested_by_msg"
                     msgid="6304135633531965756" >"Igénylő: 
 <ns1:g id="APP_NAME" >
 %1$s
                     </ns1:g>"
-                </string>
-                <string
-                    name="common_google_play_services_update_button"
-                    msgid="8932944190611227642" >"Frissítés"
                 </string>
                 <string
                     name="auth_client_needs_enabling_title"
@@ -2314,7 +2312,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-in/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-in/values.xml"
                 qualifiers="in" >
                 <string
                     name="common_google_play_services_install_button"
@@ -2368,12 +2366,12 @@
                     </ns1:g>"
                 </string>
                 <string
-                    name="common_google_play_services_install_text_tablet"
-                    msgid="1589957570365247855" >"Aplikasi ini tidak akan berjalan tanpa layanan Google Play, yang tidak ada di tablet Anda."
-                </string>
-                <string
                     name="auth_client_needs_enabling_title"
                     msgid="3983201110833868073" >"Aplikasi membutuhkan Layanan Google Play untuk dapat diaktifkan."
+                </string>
+                <string
+                    name="common_google_play_services_install_text_tablet"
+                    msgid="1589957570365247855" >"Aplikasi ini tidak akan berjalan tanpa layanan Google Play, yang tidak ada di tablet Anda."
                 </string>
                 <string
                     name="common_google_play_services_update_text"
@@ -2405,7 +2403,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-it/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-it/values.xml"
                 qualifiers="it" >
                 <string
                     name="common_signin_button_text"
@@ -2459,12 +2457,12 @@
                     msgid="1589957570365247855" >"L\'app non funzionerà senza Google Play Services, non presente sul tuo tablet."
                 </string>
                 <string
-                    name="common_google_play_services_install_button"
-                    msgid="8515591849428043265" >"Installa Google Play Services"
-                </string>
-                <string
                     name="common_signin_button_text_long"
                     msgid="2429381841831957106" >"Accedi con Google"
+                </string>
+                <string
+                    name="common_google_play_services_install_button"
+                    msgid="8515591849428043265" >"Installa Google Play Services"
                 </string>
                 <string
                     name="common_google_play_services_unknown_issue"
@@ -2496,7 +2494,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-iw/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-iw/values.xml"
                 qualifiers="iw" >
                 <string
                     name="common_google_play_services_install_text_tablet"
@@ -2563,20 +2561,16 @@
                     msgid="3983201110833868073" >"יש אפליקציה המחייבת הפעלה של שירותי Google Play."
                 </string>
                 <string
-                    name="common_google_play_services_enable_title"
-                    msgid="529078775174559253" >"הפעלת שירותי Google Play"
-                </string>
-                <string
                     name="auth_client_using_bad_version_title"
                     msgid="2534454398764507874" >"יש אפליקציה שניסתה להשתמש בגרסה שגויה של שירותי Google Play."
                 </string>
                 <string
-                    name="common_google_play_services_enable_text"
-                    msgid="7627896071867667758" >"יישום זה לא יעבוד אם לא תפעיל את שירותי Google Play."
+                    name="common_google_play_services_enable_title"
+                    msgid="529078775174559253" >"הפעלת שירותי Google Play"
                 </string>
                 <string
-                    name="common_google_play_services_install_text_phone"
-                    msgid="8685301130651051380" >"יישום זה לא יפעל ללא שירותי Google Play, החסרים בטלפון שלך."
+                    name="common_google_play_services_enable_text"
+                    msgid="7627896071867667758" >"יישום זה לא יעבוד אם לא תפעיל את שירותי Google Play."
                 </string>
                 <string
                     name="auth_client_requested_by_msg"
@@ -2585,9 +2579,13 @@
 %1$s
                     </ns1:g>"
                 </string>
+                <string
+                    name="common_google_play_services_install_text_phone"
+                    msgid="8685301130651051380" >"יישום זה לא יפעל ללא שירותי Google Play, החסרים בטלפון שלך."
+                </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ja/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ja/values.xml"
                 qualifiers="ja" >
                 <string
                     name="common_google_play_services_install_button"
@@ -2630,6 +2628,10 @@
                     msgid="6006316683626838685" >"Play開発者サービスの更新"
                 </string>
                 <string
+                    name="common_google_play_services_unknown_issue"
+                    msgid="4762332809710093730" >"Google Play開発者サービスで原因不明の問題が発生しました。"
+                </string>
+                <string
                     name="auth_client_requested_by_msg"
                     msgid="6304135633531965756" >"
 <ns1:g id="APP_NAME" >
@@ -2645,28 +2647,24 @@
                     msgid="26645092511305524" >"Play開発者サービスの入手"
                 </string>
                 <string
-                    name="common_google_play_services_unknown_issue"
-                    msgid="4762332809710093730" >"Google Play開発者サービスで原因不明の問題が発生しました。"
-                </string>
-                <string
                     name="auth_client_needs_update_title"
                     msgid="6488605506794595966" >"アプリではGoogle Play開発者サービスをアップデートする必要があります。"
-                </string>
-                <string
-                    name="common_google_play_services_unsupported_text"
-                    msgid="3542578567569488671" >"一部のアプリが使用しているGoogle Play開発者サービスは、お使いの端末ではサポートされていません。詳しくは、端末メーカーまでお問い合わせください。"
                 </string>
                 <string
                     name="common_google_play_services_unsupported_title"
                     msgid="6334768798839376943" >"Google Play開発者サービス"
                 </string>
                 <string
-                    name="common_google_play_services_enable_button"
-                    msgid="4181637455539816337" >"Play開発者サービスの有効化"
+                    name="common_google_play_services_unsupported_text"
+                    msgid="3542578567569488671" >"一部のアプリが使用しているGoogle Play開発者サービスは、お使いの端末ではサポートされていません。詳しくは、端末メーカーまでお問い合わせください。"
                 </string>
                 <string
                     name="common_google_play_services_update_button"
                     msgid="8932944190611227642" >"更新"
+                </string>
+                <string
+                    name="common_google_play_services_enable_button"
+                    msgid="4181637455539816337" >"Play開発者サービスの有効化"
                 </string>
                 <string
                     name="auth_client_play_services_err_notification_msg"
@@ -2678,7 +2676,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ko/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ko/values.xml"
                 qualifiers="ko" >
                 <string
                     name="common_google_play_services_install_title"
@@ -2744,32 +2742,32 @@
                     msgid="8685301130651051380" >"휴대전화에 Google Play 서비스가 설치되어 있어야 이 앱이 실행됩니다."
                 </string>
                 <string
-                    name="common_google_play_services_install_text_tablet"
-                    msgid="1589957570365247855" >"태블릿에 Google Play 서비스가 설치되어 있어야 이 앱이 실행됩니다."
-                </string>
-                <string
                     name="common_google_play_services_update_title"
                     msgid="6006316683626838685" >"Google Play 서비스 업데이트"
                 </string>
                 <string
-                    name="auth_client_using_bad_version_title"
-                    msgid="2534454398764507874" >"애플리케이션에서 잘못된 버전의 Google Play 서비스를 사용하려고 했습니다."
+                    name="common_google_play_services_install_text_tablet"
+                    msgid="1589957570365247855" >"태블릿에 Google Play 서비스가 설치되어 있어야 이 앱이 실행됩니다."
                 </string>
                 <string
                     name="common_google_play_services_unsupported_title"
                     msgid="6334768798839376943" >"Google Play 서비스"
                 </string>
                 <string
-                    name="common_google_play_services_enable_text"
-                    msgid="7627896071867667758" >"Google Play 서비스를 사용하도록 설정해야 이 앱이 작동합니다."
+                    name="auth_client_using_bad_version_title"
+                    msgid="2534454398764507874" >"애플리케이션에서 잘못된 버전의 Google Play 서비스를 사용하려고 했습니다."
                 </string>
                 <string
                     name="common_google_play_services_enable_button"
                     msgid="4181637455539816337" >"Google Play 서비스 사용"
                 </string>
+                <string
+                    name="common_google_play_services_enable_text"
+                    msgid="7627896071867667758" >"Google Play 서비스를 사용하도록 설정해야 이 앱이 작동합니다."
+                </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-lt/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-lt/values.xml"
                 qualifiers="lt" >
                 <string
                     name="common_google_play_services_enable_button"
@@ -2851,16 +2849,16 @@
                     msgid="9071884888741449141" >"Prisij."
                 </string>
                 <string
-                    name="common_google_play_services_install_title"
-                    msgid="26645092511305524" >"Gauti „Google Play“ paslaugų"
-                </string>
-                <string
                     name="common_google_play_services_update_text"
                     msgid="448354684997260580" >"Ši programa neveiks, jei neatnaujinsite „Google Play“ paslaugų."
                 </string>
+                <string
+                    name="common_google_play_services_install_title"
+                    msgid="26645092511305524" >"Gauti „Google Play“ paslaugų"
+                </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-lv/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-lv/values.xml"
                 qualifiers="lv" >
                 <string
                     name="common_google_play_services_enable_text"
@@ -2918,32 +2916,32 @@
                     msgid="2534454398764507874" >"Lietojumpr. mēģināja izmantot nederīgu Google Play pakalp. versiju."
                 </string>
                 <string
-                    name="common_google_play_services_enable_button"
-                    msgid="4181637455539816337" >"Iespējot Google Play pakalpojumus"
-                </string>
-                <string
                     name="common_google_play_services_unsupported_text"
                     msgid="3542578567569488671" >"Jūsu ierīce neatbalsta Google Play pakalpojumus, kuri nepieciešami dažu jūsu lietojumprogrammu darbībai. Lūdzu, sazinieties ar ražotāju, lai saņemtu palīdzību."
+                </string>
+                <string
+                    name="common_google_play_services_enable_button"
+                    msgid="4181637455539816337" >"Iespējot Google Play pakalpojumus"
                 </string>
                 <string
                     name="common_signin_button_text"
                     msgid="9071884888741449141" >"Pierakst."
                 </string>
                 <string
-                    name="common_google_play_services_install_button"
-                    msgid="8515591849428043265" >"Iegūt Google Play pakalpojumus"
-                </string>
-                <string
                     name="auth_client_needs_enabling_title"
                     msgid="3983201110833868073" >"Lai lietojumprogramma darbotos, ir jāiespējo Google Play pakalpojumi."
                 </string>
                 <string
-                    name="auth_client_needs_installation_title"
-                    msgid="7999585836145154206" >"Lai lietojumprogramma darbotos, ir jāinstalē Google Play pakalpojumi."
+                    name="common_google_play_services_install_button"
+                    msgid="8515591849428043265" >"Iegūt Google Play pakalpojumus"
                 </string>
                 <string
                     name="common_google_play_services_unsupported_title"
                     msgid="6334768798839376943" >"Google Play pakalpojumi"
+                </string>
+                <string
+                    name="auth_client_needs_installation_title"
+                    msgid="7999585836145154206" >"Lai lietojumprogramma darbotos, ir jāinstalē Google Play pakalpojumi."
                 </string>
                 <string
                     name="common_google_play_services_update_title"
@@ -2951,7 +2949,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ms/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ms/values.xml"
                 qualifiers="ms" >
                 <string
                     name="auth_client_needs_update_title"
@@ -3025,24 +3023,24 @@
                     msgid="26645092511305524" >"Dapatkan perkhidmatan Google Play"
                 </string>
                 <string
-                    name="common_google_play_services_install_text_phone"
-                    msgid="8685301130651051380" >"Apl ini tidak akan berfungsi tanpa perkhidmatan Google Play dan apl ini tiada pada telefon anda."
-                </string>
-                <string
                     name="common_google_play_services_unsupported_title"
                     msgid="6334768798839376943" >"Perkhidmatan Google Play"
                 </string>
                 <string
-                    name="auth_client_using_bad_version_title"
-                    msgid="2534454398764507874" >"Aplikasi cuba menggunakan versi Perkhidmatan Google Play yang rosak."
+                    name="common_google_play_services_install_text_phone"
+                    msgid="8685301130651051380" >"Apl ini tidak akan berfungsi tanpa perkhidmatan Google Play dan apl ini tiada pada telefon anda."
                 </string>
                 <string
                     name="auth_client_needs_enabling_title"
                     msgid="3983201110833868073" >"Perkhidmatan Google Play perlu didayakan untuk menggunakan aplikasi."
                 </string>
+                <string
+                    name="auth_client_using_bad_version_title"
+                    msgid="2534454398764507874" >"Aplikasi cuba menggunakan versi Perkhidmatan Google Play yang rosak."
+                </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-nb/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-nb/values.xml"
                 qualifiers="nb" >
                 <string
                     name="common_google_play_services_install_text_phone"
@@ -3133,7 +3131,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-nl/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-nl/values.xml"
                 qualifiers="nl" >
                 <string
                     name="auth_client_needs_enabling_title"
@@ -3199,12 +3197,12 @@
                     msgid="3635065018897986478" >"Fout met Google Play-services"
                 </string>
                 <string
-                    name="common_google_play_services_install_text_tablet"
-                    msgid="1589957570365247855" >"Deze app kan niet worden uitgevoerd zonder Google Play-services die ontbreken op uw tablet."
-                </string>
-                <string
                     name="auth_client_needs_installation_title"
                     msgid="7999585836145154206" >"Google Play-services moet zijn geïnstalleerd voor een applicatie."
+                </string>
+                <string
+                    name="common_google_play_services_install_text_tablet"
+                    msgid="1589957570365247855" >"Deze app kan niet worden uitgevoerd zonder Google Play-services die ontbreken op uw tablet."
                 </string>
                 <string
                     name="common_google_play_services_unsupported_text"
@@ -3224,7 +3222,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-pl/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-pl/values.xml"
                 qualifiers="pl" >
                 <string
                     name="auth_client_needs_enabling_title"
@@ -3275,12 +3273,8 @@
                     msgid="3542578567569488671" >"Usługi Google Play, od których zależy działanie niektórych aplikacji, nie są obsługiwane na Twoim urządzeniu. Skontaktuj się z producentem, by uzyskać pomoc."
                 </string>
                 <string
-                    name="common_google_play_services_install_text_tablet"
-                    msgid="1589957570365247855" >"Ta aplikacja nie będzie działać bez Usług Google Play, których nie masz na tablecie."
-                </string>
-                <string
-                    name="common_google_play_services_enable_button"
-                    msgid="4181637455539816337" >"Włącz Usługi Google Play"
+                    name="common_google_play_services_unsupported_title"
+                    msgid="6334768798839376943" >"Usługi Google Play"
                 </string>
                 <string
                     name="auth_client_requested_by_msg"
@@ -3290,8 +3284,12 @@
                     </ns1:g>"
                 </string>
                 <string
-                    name="common_google_play_services_unsupported_title"
-                    msgid="6334768798839376943" >"Usługi Google Play"
+                    name="common_google_play_services_enable_button"
+                    msgid="4181637455539816337" >"Włącz Usługi Google Play"
+                </string>
+                <string
+                    name="common_google_play_services_install_text_tablet"
+                    msgid="1589957570365247855" >"Ta aplikacja nie będzie działać bez Usług Google Play, których nie masz na tablecie."
                 </string>
                 <string
                     name="common_google_play_services_enable_title"
@@ -3315,7 +3313,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-pt/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-pt/values.xml"
                 qualifiers="pt" >
                 <string
                     name="auth_client_needs_update_title"
@@ -3397,16 +3395,16 @@
                     msgid="8685301130651051380" >"Este aplicativo não funciona sem o Google Play Services, que não está instalado em seu telefone."
                 </string>
                 <string
-                    name="common_google_play_services_unknown_issue"
-                    msgid="4762332809710093730" >"Problema desconhecido com o Google Play Services."
-                </string>
-                <string
                     name="common_signin_button_text"
                     msgid="9071884888741449141" >"Login"
                 </string>
+                <string
+                    name="common_google_play_services_unknown_issue"
+                    msgid="4762332809710093730" >"Problema desconhecido com o Google Play Services."
+                </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-pt-rBR/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-pt-rBR/values.xml"
                 qualifiers="pt-rBR" >
                 <string
                     name="common_google_play_services_enable_button"
@@ -3497,7 +3495,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-pt-rPT/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-pt-rPT/values.xml"
                 qualifiers="pt-rPT" >
                 <string
                     name="common_google_play_services_install_text_phone"
@@ -3563,12 +3561,12 @@
                     msgid="4762332809710093730" >"Problema desconhecido nos serviços do Google Play."
                 </string>
                 <string
-                    name="common_google_play_services_enable_title"
-                    msgid="529078775174559253" >"Ativar serviços do Google Play"
-                </string>
-                <string
                     name="auth_client_needs_installation_title"
                     msgid="7999585836145154206" >"Uma aplicação necessita da instalação dos Serviços do Google Play."
+                </string>
+                <string
+                    name="common_google_play_services_enable_title"
+                    msgid="529078775174559253" >"Ativar serviços do Google Play"
                 </string>
                 <string
                     name="auth_client_using_bad_version_title"
@@ -3579,16 +3577,16 @@
                     msgid="3542578567569488671" >"Os serviços do Google Play, dos quais dependem algumas das suas aplicações, não são suportados pelo seu dispositivo. Contacte o fabricante para obter assistência."
                 </string>
                 <string
-                    name="auth_client_play_services_err_notification_msg"
-                    msgid="3635065018897986478" >"Erro dos serviços do Google Play"
-                </string>
-                <string
                     name="auth_client_needs_update_title"
                     msgid="6488605506794595966" >"Uma aplicação necessita da atualização dos Serviços do Google Play."
                 </string>
+                <string
+                    name="auth_client_play_services_err_notification_msg"
+                    msgid="3635065018897986478" >"Erro dos serviços do Google Play"
+                </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ro/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ro/values.xml"
                 qualifiers="ro" >
                 <string
                     name="auth_client_needs_update_title"
@@ -3642,24 +3640,24 @@
                     msgid="8515591849428043265" >"Obţineţi Servicii Google Play"
                 </string>
                 <string
-                    name="common_google_play_services_install_title"
-                    msgid="26645092511305524" >"Descărcaţi Servicii Google Play"
-                </string>
-                <string
                     name="auth_client_needs_installation_title"
                     msgid="7999585836145154206" >"O aplicație necesită instalarea Serviciilor Google Play."
+                </string>
+                <string
+                    name="common_google_play_services_install_title"
+                    msgid="26645092511305524" >"Descărcaţi Servicii Google Play"
                 </string>
                 <string
                     name="common_google_play_services_update_title"
                     msgid="6006316683626838685" >"Actualizaţi Servicii Google Play"
                 </string>
                 <string
-                    name="common_google_play_services_enable_button"
-                    msgid="4181637455539816337" >"Activaţi Servicii Google Play"
-                </string>
-                <string
                     name="common_signin_button_text_long"
                     msgid="2429381841831957106" >"Conectați-vă cu Google"
+                </string>
+                <string
+                    name="common_google_play_services_enable_button"
+                    msgid="4181637455539816337" >"Activaţi Servicii Google Play"
                 </string>
                 <string
                     name="auth_client_play_services_err_notification_msg"
@@ -3679,7 +3677,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ru/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ru/values.xml"
                 qualifiers="ru" >
                 <string
                     name="common_google_play_services_enable_text"
@@ -3733,20 +3731,20 @@
                     msgid="448354684997260580" >"Для работы этого приложения требуется обновить Сервисы Google Play."
                 </string>
                 <string
-                    name="common_google_play_services_unsupported_title"
-                    msgid="6334768798839376943" >"Сервисы Google Play"
-                </string>
-                <string
                     name="common_signin_button_text_long"
                     msgid="2429381841831957106" >"Войти в аккаунт Google"
                 </string>
                 <string
-                    name="common_google_play_services_enable_button"
-                    msgid="4181637455539816337" >"Включить"
+                    name="common_google_play_services_unsupported_title"
+                    msgid="6334768798839376943" >"Сервисы Google Play"
                 </string>
                 <string
                     name="common_google_play_services_update_button"
                     msgid="8932944190611227642" >"Обновить"
+                </string>
+                <string
+                    name="common_google_play_services_enable_button"
+                    msgid="4181637455539816337" >"Включить"
                 </string>
                 <string
                     name="auth_client_needs_enabling_title"
@@ -3757,12 +3755,12 @@
                     msgid="7999585836145154206" >"Для работы приложения требуется установить сервисы Google Play"
                 </string>
                 <string
-                    name="common_google_play_services_install_title"
-                    msgid="26645092511305524" >"Установите Сервисы Google Play"
-                </string>
-                <string
                     name="common_google_play_services_enable_title"
                     msgid="529078775174559253" >"Включите Сервисы Google Play"
+                </string>
+                <string
+                    name="common_google_play_services_install_title"
+                    msgid="26645092511305524" >"Установите Сервисы Google Play"
                 </string>
                 <string
                     name="auth_client_play_services_err_notification_msg"
@@ -3770,7 +3768,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-sk/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-sk/values.xml"
                 qualifiers="sk" >
                 <string
                     name="auth_client_play_services_err_notification_msg"
@@ -3832,24 +3830,24 @@
                     msgid="448354684997260580" >"Túto aplikáciu bude možné spustiť až po aktualizácii služieb Google Play."
                 </string>
                 <string
-                    name="common_google_play_services_enable_title"
-                    msgid="529078775174559253" >"Povoliť služby Google Play"
+                    name="common_google_play_services_update_button"
+                    msgid="8932944190611227642" >"Aktualizovať"
                 </string>
                 <string
                     name="common_google_play_services_enable_button"
                     msgid="4181637455539816337" >"Povoliť služby Google Play"
                 </string>
                 <string
-                    name="common_google_play_services_update_button"
-                    msgid="8932944190611227642" >"Aktualizovať"
-                </string>
-                <string
-                    name="common_google_play_services_install_text_phone"
-                    msgid="8685301130651051380" >"Na spustenie tejto aplikácie sa vyžadujú služby Google Play, ktoré v telefóne nemáte."
+                    name="common_google_play_services_enable_title"
+                    msgid="529078775174559253" >"Povoliť služby Google Play"
                 </string>
                 <string
                     name="common_google_play_services_update_title"
                     msgid="6006316683626838685" >"Aktualizovať služby Google Play"
+                </string>
+                <string
+                    name="common_google_play_services_install_text_phone"
+                    msgid="8685301130651051380" >"Na spustenie tejto aplikácie sa vyžadujú služby Google Play, ktoré v telefóne nemáte."
                 </string>
                 <string
                     name="common_signin_button_text_long"
@@ -3861,7 +3859,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-sl/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-sl/values.xml"
                 qualifiers="sl" >
                 <string
                     name="common_google_play_services_unknown_issue"
@@ -3920,10 +3918,6 @@
                     msgid="6334768798839376943" >"Storitve Google Play"
                 </string>
                 <string
-                    name="auth_client_using_bad_version_title"
-                    msgid="2534454398764507874" >"Aplikacija je poskusila uporabiti napačno različico Storitev Google Play."
-                </string>
-                <string
                     name="auth_client_requested_by_msg"
                     msgid="6304135633531965756" >"Zahtevala aplikacija 
 <ns1:g id="APP_NAME" >
@@ -3931,12 +3925,16 @@
                     </ns1:g>"
                 </string>
                 <string
-                    name="common_google_play_services_install_text_tablet"
-                    msgid="1589957570365247855" >"Ta aplikacija ne deluje brez storitev Google Play, ki jih ni v tabličnem računalniku."
+                    name="auth_client_using_bad_version_title"
+                    msgid="2534454398764507874" >"Aplikacija je poskusila uporabiti napačno različico Storitev Google Play."
                 </string>
                 <string
                     name="auth_client_play_services_err_notification_msg"
                     msgid="3635065018897986478" >"Napaka storitev Google Play"
+                </string>
+                <string
+                    name="common_google_play_services_install_text_tablet"
+                    msgid="1589957570365247855" >"Ta aplikacija ne deluje brez storitev Google Play, ki jih ni v tabličnem računalniku."
                 </string>
                 <string
                     name="common_google_play_services_enable_title"
@@ -3952,7 +3950,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-sr/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-sr/values.xml"
                 qualifiers="sr" >
                 <string
                     name="auth_client_needs_installation_title"
@@ -4006,36 +4004,36 @@
                     msgid="6488605506794595966" >"Апликација захтева ажурирање Google Play услуга."
                 </string>
                 <string
-                    name="common_google_play_services_enable_title"
-                    msgid="529078775174559253" >"Омогућавање Google Play услуга"
-                </string>
-                <string
                     name="common_signin_button_text"
                     msgid="9071884888741449141" >"Пријави ме"
                 </string>
                 <string
-                    name="common_google_play_services_install_button"
-                    msgid="8515591849428043265" >"Преузми Google Play услуге"
-                </string>
-                <string
-                    name="auth_client_using_bad_version_title"
-                    msgid="2534454398764507874" >"Апликација је покушала да користи лошу верзију Google Play услуга."
+                    name="common_google_play_services_enable_title"
+                    msgid="529078775174559253" >"Омогућавање Google Play услуга"
                 </string>
                 <string
                     name="auth_client_needs_enabling_title"
                     msgid="3983201110833868073" >"Апликација захтева да Google Play услуге буду омогућене."
                 </string>
                 <string
+                    name="auth_client_using_bad_version_title"
+                    msgid="2534454398764507874" >"Апликација је покушала да користи лошу верзију Google Play услуга."
+                </string>
+                <string
+                    name="common_google_play_services_install_button"
+                    msgid="8515591849428043265" >"Преузми Google Play услуге"
+                </string>
+                <string
                     name="common_google_play_services_install_text_tablet"
                     msgid="1589957570365247855" >"Ова апликација не може да се покрене без Google Play услуга, које недостају на таблету."
                 </string>
                 <string
-                    name="auth_client_play_services_err_notification_msg"
-                    msgid="3635065018897986478" >"Грешка Google Play услуга"
-                </string>
-                <string
                     name="common_signin_button_text_long"
                     msgid="2429381841831957106" >"Пријави ме преко Google-а"
+                </string>
+                <string
+                    name="auth_client_play_services_err_notification_msg"
+                    msgid="3635065018897986478" >"Грешка Google Play услуга"
                 </string>
                 <string
                     name="common_google_play_services_update_text"
@@ -4043,7 +4041,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-sv/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-sv/values.xml"
                 qualifiers="sv" >
                 <string
                     name="common_google_play_services_enable_title"
@@ -4109,20 +4107,20 @@
                     msgid="3542578567569488671" >"Några av dina appar använder Google Play-tjänster som inte stöds av din enhet. Kontakta tillverkaren om du vill ha hjälp."
                 </string>
                 <string
-                    name="common_google_play_services_install_button"
-                    msgid="8515591849428043265" >"Hämta Google Play Tjänster"
-                </string>
-                <string
-                    name="auth_client_play_services_err_notification_msg"
-                    msgid="3635065018897986478" >"Fel på Google Play Tjänster"
+                    name="common_signin_button_text_long"
+                    msgid="2429381841831957106" >"Logga in med Google"
                 </string>
                 <string
                     name="auth_client_needs_update_title"
                     msgid="6488605506794595966" >"Google Play Tjänster måste uppdateras för en app ska fungera."
                 </string>
                 <string
-                    name="common_signin_button_text_long"
-                    msgid="2429381841831957106" >"Logga in med Google"
+                    name="auth_client_play_services_err_notification_msg"
+                    msgid="3635065018897986478" >"Fel på Google Play Tjänster"
+                </string>
+                <string
+                    name="common_google_play_services_install_button"
+                    msgid="8515591849428043265" >"Hämta Google Play Tjänster"
                 </string>
                 <string
                     name="auth_client_needs_installation_title"
@@ -4134,7 +4132,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-sw/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-sw/values.xml"
                 qualifiers="sw" >
                 <string
                     name="common_google_play_services_update_title"
@@ -4212,12 +4210,12 @@
                     msgid="9071884888741449141" >"Ingia"
                 </string>
                 <string
-                    name="common_google_play_services_install_text_phone"
-                    msgid="8685301130651051380" >"Programu hii haiwezi kuendeshwa bila huduma za Google Play, ambazo hazipo kwenye simu yako."
-                </string>
-                <string
                     name="auth_client_using_bad_version_title"
                     msgid="2534454398764507874" >"Programu ilijaribu kutumia toleo baya la Huduma za Google Play."
+                </string>
+                <string
+                    name="common_google_play_services_install_text_phone"
+                    msgid="8685301130651051380" >"Programu hii haiwezi kuendeshwa bila huduma za Google Play, ambazo hazipo kwenye simu yako."
                 </string>
                 <string
                     name="common_google_play_services_unknown_issue"
@@ -4225,7 +4223,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-th/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-th/values.xml"
                 qualifiers="th" >
                 <string
                     name="auth_client_requested_by_msg"
@@ -4316,7 +4314,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-tl/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-tl/values.xml"
                 qualifiers="tl" >
                 <string
                     name="auth_client_play_services_err_notification_msg"
@@ -4371,12 +4369,12 @@
                     msgid="7999585836145154206" >"Kailangan ng application na ma-install ang Serbisyo ng Google Play."
                 </string>
                 <string
-                    name="auth_client_needs_enabling_title"
-                    msgid="3983201110833868073" >"Kailangan ng application na na-enable ang Mga Serbisyo ng Google Play."
-                </string>
-                <string
                     name="common_google_play_services_update_title"
                     msgid="6006316683626838685" >"I-update ang mga serbisyo ng Google Play"
+                </string>
+                <string
+                    name="auth_client_needs_enabling_title"
+                    msgid="3983201110833868073" >"Kailangan ng application na na-enable ang Mga Serbisyo ng Google Play."
                 </string>
                 <string
                     name="common_signin_button_text"
@@ -4394,12 +4392,12 @@
                     msgid="1589957570365247855" >"Hindi gagana ang app na ito nang wala ang mga serbisyo ng Google Play, na wala sa iyong tablet."
                 </string>
                 <string
-                    name="common_google_play_services_install_button"
-                    msgid="8515591849428043265" >"Kumuha ng Google Play services"
-                </string>
-                <string
                     name="common_google_play_services_unsupported_title"
                     msgid="6334768798839376943" >"Mga serbisyo ng Google Play"
+                </string>
+                <string
+                    name="common_google_play_services_install_button"
+                    msgid="8515591849428043265" >"Kumuha ng Google Play services"
                 </string>
                 <string
                     name="common_google_play_services_install_text_phone"
@@ -4407,7 +4405,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-tr/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-tr/values.xml"
                 qualifiers="tr" >
                 <string
                     name="common_signin_button_text"
@@ -4470,16 +4468,16 @@
                     msgid="2429381841831957106" >"Google\'da oturum aç"
                 </string>
                 <string
-                    name="common_google_play_services_enable_title"
-                    msgid="529078775174559253" >"Google Play hizmetlerini etkinleştir"
+                    name="common_google_play_services_unsupported_title"
+                    msgid="6334768798839376943" >"Google Play hizmetleri"
                 </string>
                 <string
                     name="common_google_play_services_enable_button"
                     msgid="4181637455539816337" >"Google Play hizmetlerini etkinleştir"
                 </string>
                 <string
-                    name="common_google_play_services_unsupported_title"
-                    msgid="6334768798839376943" >"Google Play hizmetleri"
+                    name="common_google_play_services_enable_title"
+                    msgid="529078775174559253" >"Google Play hizmetlerini etkinleştir"
                 </string>
                 <string
                     name="common_google_play_services_update_text"
@@ -4498,7 +4496,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-uk/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-uk/values.xml"
                 qualifiers="uk" >
                 <string
                     name="common_google_play_services_enable_text"
@@ -4552,12 +4550,12 @@
                     msgid="26645092511305524" >"Установити Google Play Послуги"
                 </string>
                 <string
-                    name="common_google_play_services_unknown_issue"
-                    msgid="4762332809710093730" >"Google Play Послуги – невідома проблема."
-                </string>
-                <string
                     name="common_signin_button_text"
                     msgid="9071884888741449141" >"Увійти"
+                </string>
+                <string
+                    name="common_google_play_services_unknown_issue"
+                    msgid="4762332809710093730" >"Google Play Послуги – невідома проблема."
                 </string>
                 <string
                     name="common_google_play_services_unsupported_text"
@@ -4568,12 +4566,12 @@
                     msgid="6488605506794595966" >"Щоб програма працювала, потрібно оновити Сервіси Google Play."
                 </string>
                 <string
-                    name="auth_client_play_services_err_notification_msg"
-                    msgid="3635065018897986478" >"Помилка Сервісів Google Play"
-                </string>
-                <string
                     name="auth_client_needs_installation_title"
                     msgid="7999585836145154206" >"Щоб програма працювала, потрібно встановити Сервіси Google Play."
+                </string>
+                <string
+                    name="auth_client_play_services_err_notification_msg"
+                    msgid="3635065018897986478" >"Помилка Сервісів Google Play"
                 </string>
                 <string
                     name="common_google_play_services_update_text"
@@ -4589,7 +4587,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-vi/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-vi/values.xml"
                 qualifiers="vi" >
                 <string
                     name="common_google_play_services_unsupported_title"
@@ -4663,12 +4661,12 @@
                     msgid="8932944190611227642" >"Cập nhật"
                 </string>
                 <string
-                    name="common_google_play_services_enable_text"
-                    msgid="7627896071867667758" >"Ứng dụng này sẽ không hoạt động trừ khi bạn bật dịch vụ của Google Play."
-                </string>
-                <string
                     name="auth_client_needs_installation_title"
                     msgid="7999585836145154206" >"Ứng dụng yêu cầu cài đặt Dịch vụ của Google Play."
+                </string>
+                <string
+                    name="common_google_play_services_enable_text"
+                    msgid="7627896071867667758" >"Ứng dụng này sẽ không hoạt động trừ khi bạn bật dịch vụ của Google Play."
                 </string>
                 <string
                     name="common_signin_button_text"
@@ -4680,7 +4678,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-zh-rCN/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-zh-rCN/values.xml"
                 qualifiers="zh-rCN" >
                 <string
                     name="common_google_play_services_enable_title"
@@ -4754,12 +4752,12 @@
                     msgid="7999585836145154206" >"某个应用要求安装 Google Play 服务。"
                 </string>
                 <string
-                    name="common_google_play_services_install_text_tablet"
-                    msgid="1589957570365247855" >"您的平板电脑中没有 Google Play 服务，您必须先安装该服务才能运行此应用。"
-                </string>
-                <string
                     name="auth_client_needs_enabling_title"
                     msgid="3983201110833868073" >"某个应用要求启用 Google Play 服务。"
+                </string>
+                <string
+                    name="common_google_play_services_install_text_tablet"
+                    msgid="1589957570365247855" >"您的平板电脑中没有 Google Play 服务，您必须先安装该服务才能运行此应用。"
                 </string>
                 <string
                     name="auth_client_using_bad_version_title"
@@ -4771,7 +4769,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-zh-rTW/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-zh-rTW/values.xml"
                 qualifiers="zh-rTW" >
                 <string
                     name="auth_client_needs_enabling_title"
@@ -4830,16 +4828,16 @@
                     msgid="3635065018897986478" >"Google Play 服務錯誤"
                 </string>
                 <string
-                    name="common_google_play_services_install_text_tablet"
-                    msgid="1589957570365247855" >"您的平板電腦並未安裝 Google Play 服務，所以無法執行這個應用程式。"
+                    name="auth_client_needs_installation_title"
+                    msgid="7999585836145154206" >"應用程式需要安裝 Google Play 服務。"
                 </string>
                 <string
                     name="common_google_play_services_enable_title"
                     msgid="529078775174559253" >"啟用 Google Play 服務"
                 </string>
                 <string
-                    name="auth_client_needs_installation_title"
-                    msgid="7999585836145154206" >"應用程式需要安裝 Google Play 服務。"
+                    name="common_google_play_services_install_text_tablet"
+                    msgid="1589957570365247855" >"您的平板電腦並未安裝 Google Play 服務，所以無法執行這個應用程式。"
                 </string>
                 <string
                     name="common_google_play_services_enable_button"
@@ -4853,16 +4851,16 @@
                     </ns1:g>"
                 </string>
                 <string
-                    name="common_google_play_services_unsupported_title"
-                    msgid="6334768798839376943" >"Google Play 服務"
-                </string>
-                <string
                     name="common_signin_button_text"
                     msgid="9071884888741449141" >"登入"
                 </string>
+                <string
+                    name="common_google_play_services_unsupported_title"
+                    msgid="6334768798839376943" >"Google Play 服務"
+                </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-zu/values.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-zu/values.xml"
                 qualifiers="zu" >
                 <string
                     name="common_google_play_services_enable_text"
@@ -4916,12 +4914,12 @@
                     </ns1:g>"
                 </string>
                 <string
-                    name="common_google_play_services_enable_title"
-                    msgid="529078775174559253" >"Nika amandla amasevisi e-Google Play"
-                </string>
-                <string
                     name="common_google_play_services_update_text"
                     msgid="448354684997260580" >"Lolu hlelo lokusebenza ngeke lusebenze ngaphandle nje kokuthi ubuyekeze amasevisi e-Google Play."
+                </string>
+                <string
+                    name="common_google_play_services_enable_title"
+                    msgid="529078775174559253" >"Nika amandla amasevisi e-Google Play"
                 </string>
                 <string
                     name="common_google_play_services_unsupported_text"
@@ -4936,12 +4934,12 @@
                     msgid="6334768798839376943" >"Amasevisi we-Google Play"
                 </string>
                 <string
-                    name="auth_client_needs_enabling_title"
-                    msgid="3983201110833868073" >"Uhlelo lokusebenza ludinga amasevisi we-Google Play ukuze anikwe amandla."
-                </string>
-                <string
                     name="common_signin_button_text_long"
                     msgid="2429381841831957106" >"Ngena ngemvume nge-Google"
+                </string>
+                <string
+                    name="auth_client_needs_enabling_title"
+                    msgid="3983201110833868073" >"Uhlelo lokusebenza ludinga amasevisi we-Google Play ukuze anikwe amandla."
                 </string>
                 <string
                     name="common_signin_button_text"
@@ -4955,94 +4953,94 @@
         </source>
     </dataSet>
     <dataSet config="main" >
-        <source path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/src/main/res" >
+        <source path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/src/main/res" >
             <file
                 name="ic_launcher"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/src/main/res/drawable-hdpi/ic_launcher.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/src/main/res/drawable-hdpi/ic_launcher.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/src/main/res/drawable-mdpi/ic_launcher.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/src/main/res/drawable-mdpi/ic_launcher.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/src/main/res/drawable-xhdpi/ic_launcher.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/src/main/res/drawable-xhdpi/ic_launcher.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="icn_audio_96"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/src/main/res/drawable-xhdpi/icn_audio_96.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/src/main/res/drawable-xhdpi/icn_audio_96.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="icn_camera_96"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/src/main/res/drawable-xhdpi/icn_camera_96.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/src/main/res/drawable-xhdpi/icn_camera_96.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="icn_magnetometer_96"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/src/main/res/drawable-xhdpi/icn_magnetometer_96.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/src/main/res/drawable-xhdpi/icn_magnetometer_96.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="icn_video_96"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/src/main/res/drawable-xhdpi/icn_video_96.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/src/main/res/drawable-xhdpi/icn_video_96.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/src/main/res/drawable-xxhdpi/ic_launcher.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="android_ar_main"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/src/main/res/layout/android_ar_main.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/src/main/res/layout/android_ar_main.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="hardware"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/src/main/res/layout/hardware.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/src/main/res/layout/hardware.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="hardware_item"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/src/main/res/layout/hardware_item.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/src/main/res/layout/hardware_item.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="hw_tester_fragment"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/src/main/res/layout/hw_tester_fragment.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/src/main/res/layout/hw_tester_fragment.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="loc_gps_fragment"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/src/main/res/layout/loc_gps_fragment.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/src/main/res/layout/loc_gps_fragment.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="loc_map_fragment"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/src/main/res/layout/loc_map_fragment.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/src/main/res/layout/loc_map_fragment.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="loc_srv_activity"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/src/main/res/layout/loc_srv_activity.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/src/main/res/layout/loc_srv_activity.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="main_list_fragment"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/src/main/res/layout/main_list_fragment.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/src/main/res/layout/main_list_fragment.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="aarmain"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/src/main/res/menu/aarmain.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/src/main/res/menu/aarmain.xml"
                 qualifiers=""
                 type="menu" />
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/src/main/res/values/dimens.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/src/main/res/values/dimens.xml"
                 qualifiers="" >
                 <dimen name="activity_horizontal_margin" >16dp
                 </dimen>
@@ -5050,7 +5048,7 @@
                 </dimen>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/src/main/res/values/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/src/main/res/values/strings.xml"
                 qualifiers="" >
                 <string name="sb_btn_txt_sat" >Satellite
                 </string>
@@ -5060,21 +5058,21 @@
                 </string>
                 <string name="app_name" >AndroidAR
                 </string>
-                <string name="hello_world" >Hello world!
-                </string>
                 <string name="th_loc_01" >Location
+                </string>
+                <string name="hello_world" >Hello world!
                 </string>
                 <string name="loc_gps_description" >Small View
                 </string>
-                <string name="loc_gps_title" >First View
+                <string name="sb_btn_txt_hyd" >Hybrid
                 </string>
                 <string name="th_map_02" >Map
                 </string>
-                <string name="sb_btn_txt_hyd" >Hybrid
+                <string name="loc_gps_title" >First View
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/src/main/res/values/styles.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/src/main/res/values/styles.xml"
                 qualifiers="" >
 
                 <style
@@ -5096,13 +5094,13 @@
                 </style>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/src/main/res/values-sw720dp-land/dimens.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/src/main/res/values-sw720dp-land/dimens.xml"
                 qualifiers="sw720dp-land" >
                 <dimen name="activity_horizontal_margin" >128dp
                 </dimen>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/src/main/res/values-v11/styles.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/src/main/res/values-v11/styles.xml"
                 qualifiers="v11" >
 
                 <style
@@ -5113,7 +5111,7 @@
                 </style>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/src/main/res/values-v14/styles.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/src/main/res/values-v14/styles.xml"
                 qualifiers="v14" >
 
                 <style
@@ -5124,10 +5122,10 @@
                 </style>
             </file>
         </source>
-        <source path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/rs/debug" />
+        <source path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/rs/debug" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/src/debug/res" />
+        <source path="/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/src/debug/res" />
     </dataSet>
 
 </merger>

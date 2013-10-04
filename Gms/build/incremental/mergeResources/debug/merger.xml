@@ -2,339 +2,339 @@
 <merger xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" >
 
     <dataSet config="main" >
-        <source path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res" >
+        <source path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res" >
             <file
                 name="common_signin_btn_text_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/color/common_signin_btn_text_dark.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/color/common_signin_btn_text_dark.xml"
                 qualifiers=""
                 type="color" />
             <file
                 name="common_signin_btn_text_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/color/common_signin_btn_text_light.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/color/common_signin_btn_text_light.xml"
                 qualifiers=""
                 type="color" />
             <file
                 name="common_signin_btn_icon_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable/common_signin_btn_icon_dark.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable/common_signin_btn_icon_dark.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable/common_signin_btn_icon_light.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable/common_signin_btn_icon_light.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="common_signin_btn_text_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable/common_signin_btn_text_dark.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable/common_signin_btn_text_dark.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="common_signin_btn_text_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable/common_signin_btn_text_light.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable/common_signin_btn_text_light.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-hdpi/common_signin_btn_icon_disabled_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-hdpi/common_signin_btn_icon_disabled_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-hdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-hdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-hdpi/common_signin_btn_icon_disabled_focus_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-hdpi/common_signin_btn_icon_disabled_focus_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-hdpi/common_signin_btn_icon_disabled_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-hdpi/common_signin_btn_icon_disabled_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-hdpi/common_signin_btn_icon_focus_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-hdpi/common_signin_btn_icon_focus_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-hdpi/common_signin_btn_icon_focus_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-hdpi/common_signin_btn_icon_focus_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-hdpi/common_signin_btn_icon_normal_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-hdpi/common_signin_btn_icon_normal_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-hdpi/common_signin_btn_icon_normal_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-hdpi/common_signin_btn_icon_normal_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-hdpi/common_signin_btn_icon_pressed_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-hdpi/common_signin_btn_icon_pressed_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-hdpi/common_signin_btn_icon_pressed_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-hdpi/common_signin_btn_icon_pressed_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-hdpi/common_signin_btn_text_disabled_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-hdpi/common_signin_btn_text_disabled_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-hdpi/common_signin_btn_text_disabled_focus_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-hdpi/common_signin_btn_text_disabled_focus_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-hdpi/common_signin_btn_text_disabled_focus_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-hdpi/common_signin_btn_text_disabled_focus_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-hdpi/common_signin_btn_text_disabled_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-hdpi/common_signin_btn_text_disabled_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-hdpi/common_signin_btn_text_focus_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-hdpi/common_signin_btn_text_focus_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-hdpi/common_signin_btn_text_focus_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-hdpi/common_signin_btn_text_focus_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-hdpi/common_signin_btn_text_normal_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-hdpi/common_signin_btn_text_normal_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-hdpi/common_signin_btn_text_normal_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-hdpi/common_signin_btn_text_normal_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-hdpi/common_signin_btn_text_pressed_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-hdpi/common_signin_btn_text_pressed_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-hdpi/common_signin_btn_text_pressed_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-hdpi/common_signin_btn_text_pressed_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-mdpi/common_signin_btn_icon_disabled_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-mdpi/common_signin_btn_icon_disabled_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-mdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-mdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-mdpi/common_signin_btn_icon_disabled_focus_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-mdpi/common_signin_btn_icon_disabled_focus_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-mdpi/common_signin_btn_icon_disabled_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-mdpi/common_signin_btn_icon_disabled_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-mdpi/common_signin_btn_icon_focus_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-mdpi/common_signin_btn_icon_focus_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-mdpi/common_signin_btn_icon_focus_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-mdpi/common_signin_btn_icon_focus_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-mdpi/common_signin_btn_icon_normal_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-mdpi/common_signin_btn_icon_normal_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-mdpi/common_signin_btn_icon_normal_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-mdpi/common_signin_btn_icon_normal_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-mdpi/common_signin_btn_icon_pressed_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-mdpi/common_signin_btn_icon_pressed_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-mdpi/common_signin_btn_icon_pressed_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-mdpi/common_signin_btn_icon_pressed_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-mdpi/common_signin_btn_text_disabled_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-mdpi/common_signin_btn_text_disabled_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-mdpi/common_signin_btn_text_disabled_focus_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-mdpi/common_signin_btn_text_disabled_focus_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-mdpi/common_signin_btn_text_disabled_focus_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-mdpi/common_signin_btn_text_disabled_focus_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-mdpi/common_signin_btn_text_disabled_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-mdpi/common_signin_btn_text_disabled_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-mdpi/common_signin_btn_text_focus_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-mdpi/common_signin_btn_text_focus_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-mdpi/common_signin_btn_text_focus_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-mdpi/common_signin_btn_text_focus_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-mdpi/common_signin_btn_text_normal_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-mdpi/common_signin_btn_text_normal_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-mdpi/common_signin_btn_text_normal_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-mdpi/common_signin_btn_text_normal_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-mdpi/common_signin_btn_text_pressed_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-mdpi/common_signin_btn_text_pressed_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-mdpi/common_signin_btn_text_pressed_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-mdpi/common_signin_btn_text_pressed_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-xhdpi/common_signin_btn_icon_disabled_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-xhdpi/common_signin_btn_icon_disabled_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-xhdpi/common_signin_btn_icon_disabled_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-xhdpi/common_signin_btn_icon_disabled_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-xhdpi/common_signin_btn_icon_focus_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-xhdpi/common_signin_btn_icon_focus_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-xhdpi/common_signin_btn_icon_focus_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-xhdpi/common_signin_btn_icon_focus_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-xhdpi/common_signin_btn_icon_normal_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-xhdpi/common_signin_btn_icon_normal_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-xhdpi/common_signin_btn_icon_normal_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-xhdpi/common_signin_btn_icon_normal_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-xhdpi/common_signin_btn_icon_pressed_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-xhdpi/common_signin_btn_icon_pressed_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-xhdpi/common_signin_btn_icon_pressed_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-xhdpi/common_signin_btn_icon_pressed_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-xhdpi/common_signin_btn_text_disabled_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-xhdpi/common_signin_btn_text_disabled_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-xhdpi/common_signin_btn_text_disabled_focus_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-xhdpi/common_signin_btn_text_disabled_focus_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-xhdpi/common_signin_btn_text_disabled_focus_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-xhdpi/common_signin_btn_text_disabled_focus_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-xhdpi/common_signin_btn_text_disabled_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-xhdpi/common_signin_btn_text_disabled_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-xhdpi/common_signin_btn_text_focus_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-xhdpi/common_signin_btn_text_focus_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-xhdpi/common_signin_btn_text_focus_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-xhdpi/common_signin_btn_text_focus_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-xhdpi/common_signin_btn_text_normal_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-xhdpi/common_signin_btn_text_normal_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-xhdpi/common_signin_btn_text_normal_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-xhdpi/common_signin_btn_text_normal_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_dark"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-xhdpi/common_signin_btn_text_pressed_dark.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-xhdpi/common_signin_btn_text_pressed_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_light"
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/drawable-xhdpi/common_signin_btn_text_pressed_light.9.png"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/drawable-xhdpi/common_signin_btn_text_pressed_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values/colors.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values/colors.xml"
                 qualifiers="" >
                 <color name="common_signin_btn_light_text_pressed" >@android:color/white
                 </color>
@@ -358,7 +358,7 @@
                 </color>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values/maps_attrs.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values/maps_attrs.xml"
                 qualifiers="" >
                 <declare-styleable name="MapAttrs" >
                     <attr
@@ -422,7 +422,7 @@
                 </declare-styleable>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values/strings.xml"
                 qualifiers="" >
                 <string name="auth_client_needs_update_title" >      An application requires an update for Google Play Services.
                 </string>
@@ -490,7 +490,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-af/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-af/strings.xml"
                 qualifiers="af" >
                 <string
                     name="auth_client_needs_update_title"
@@ -581,7 +581,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-am/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-am/strings.xml"
                 qualifiers="am" >
                 <string
                     name="common_google_play_services_install_text_phone"
@@ -672,7 +672,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-ar/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-ar/strings.xml"
                 qualifiers="ar" >
                 <string
                     name="common_google_play_services_update_text"
@@ -763,7 +763,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-be/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-be/strings.xml"
                 qualifiers="be" >
                 <string
                     name="common_google_play_services_update_title"
@@ -854,7 +854,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-bg/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-bg/strings.xml"
                 qualifiers="bg" >
                 <string
                     name="common_google_play_services_install_button"
@@ -945,7 +945,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-ca/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-ca/strings.xml"
                 qualifiers="ca" >
                 <string
                     name="auth_client_needs_installation_title"
@@ -1036,7 +1036,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-cs/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-cs/strings.xml"
                 qualifiers="cs" >
                 <string
                     name="common_signin_button_text_long"
@@ -1127,7 +1127,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-da/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-da/strings.xml"
                 qualifiers="da" >
                 <string
                     name="auth_client_play_services_err_notification_msg"
@@ -1218,7 +1218,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-de/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-de/strings.xml"
                 qualifiers="de" >
                 <string
                     name="common_google_play_services_enable_button"
@@ -1309,7 +1309,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-el/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-el/strings.xml"
                 qualifiers="el" >
                 <string
                     name="common_google_play_services_enable_text"
@@ -1400,7 +1400,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-en-rGB/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-en-rGB/strings.xml"
                 qualifiers="en-rGB" >
                 <string
                     name="common_google_play_services_unsupported_text"
@@ -1491,7 +1491,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-es/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-es/strings.xml"
                 qualifiers="es" >
                 <string
                     name="auth_client_requested_by_msg"
@@ -1582,7 +1582,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-es-rUS/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-es-rUS/strings.xml"
                 qualifiers="es-rUS" >
                 <string
                     name="common_google_play_services_install_text_phone"
@@ -1673,7 +1673,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-et/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-et/strings.xml"
                 qualifiers="et" >
                 <string
                     name="common_google_play_services_install_text_phone"
@@ -1764,7 +1764,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-fa/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-fa/strings.xml"
                 qualifiers="fa" >
                 <string
                     name="auth_client_using_bad_version_title"
@@ -1855,7 +1855,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-fi/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-fi/strings.xml"
                 qualifiers="fi" >
                 <string
                     name="common_google_play_services_unsupported_text"
@@ -1946,7 +1946,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-fr/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-fr/strings.xml"
                 qualifiers="fr" >
                 <string
                     name="common_google_play_services_install_text_phone"
@@ -2037,7 +2037,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-hi/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-hi/strings.xml"
                 qualifiers="hi" >
                 <string
                     name="common_google_play_services_install_button"
@@ -2128,7 +2128,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-hr/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-hr/strings.xml"
                 qualifiers="hr" >
                 <string
                     name="common_google_play_services_update_button"
@@ -2219,7 +2219,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-hu/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-hu/strings.xml"
                 qualifiers="hu" >
                 <string
                     name="auth_client_using_bad_version_title"
@@ -2310,7 +2310,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-in/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-in/strings.xml"
                 qualifiers="in" >
                 <string
                     name="common_google_play_services_install_button"
@@ -2401,7 +2401,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-it/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-it/strings.xml"
                 qualifiers="it" >
                 <string
                     name="auth_client_play_services_err_notification_msg"
@@ -2492,7 +2492,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-iw/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-iw/strings.xml"
                 qualifiers="iw" >
                 <string
                     name="common_google_play_services_install_text_tablet"
@@ -2583,7 +2583,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-ja/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-ja/strings.xml"
                 qualifiers="ja" >
                 <string
                     name="common_google_play_services_install_button"
@@ -2674,7 +2674,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-ko/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-ko/strings.xml"
                 qualifiers="ko" >
                 <string
                     name="common_google_play_services_install_title"
@@ -2765,7 +2765,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-lt/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-lt/strings.xml"
                 qualifiers="lt" >
                 <string
                     name="common_google_play_services_enable_button"
@@ -2856,7 +2856,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-lv/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-lv/strings.xml"
                 qualifiers="lv" >
                 <string
                     name="common_google_play_services_enable_text"
@@ -2947,7 +2947,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-ms/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-ms/strings.xml"
                 qualifiers="ms" >
                 <string
                     name="auth_client_needs_update_title"
@@ -3038,7 +3038,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-nb/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-nb/strings.xml"
                 qualifiers="nb" >
                 <string
                     name="common_google_play_services_install_text_phone"
@@ -3129,7 +3129,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-nl/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-nl/strings.xml"
                 qualifiers="nl" >
                 <string
                     name="auth_client_needs_enabling_title"
@@ -3220,7 +3220,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-pl/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-pl/strings.xml"
                 qualifiers="pl" >
                 <string
                     name="auth_client_needs_enabling_title"
@@ -3311,7 +3311,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-pt/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-pt/strings.xml"
                 qualifiers="pt" >
                 <string
                     name="auth_client_needs_update_title"
@@ -3402,7 +3402,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-pt-rBR/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-pt-rBR/strings.xml"
                 qualifiers="pt-rBR" >
                 <string
                     name="common_google_play_services_enable_text"
@@ -3493,7 +3493,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-pt-rPT/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-pt-rPT/strings.xml"
                 qualifiers="pt-rPT" >
                 <string
                     name="common_google_play_services_install_text_phone"
@@ -3584,7 +3584,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-ro/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-ro/strings.xml"
                 qualifiers="ro" >
                 <string
                     name="auth_client_needs_update_title"
@@ -3675,7 +3675,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-ru/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-ru/strings.xml"
                 qualifiers="ru" >
                 <string
                     name="common_google_play_services_enable_text"
@@ -3766,7 +3766,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-sk/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-sk/strings.xml"
                 qualifiers="sk" >
                 <string
                     name="auth_client_play_services_err_notification_msg"
@@ -3857,7 +3857,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-sl/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-sl/strings.xml"
                 qualifiers="sl" >
                 <string
                     name="common_google_play_services_enable_button"
@@ -3948,7 +3948,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-sr/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-sr/strings.xml"
                 qualifiers="sr" >
                 <string
                     name="auth_client_needs_installation_title"
@@ -4039,7 +4039,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-sv/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-sv/strings.xml"
                 qualifiers="sv" >
                 <string
                     name="common_google_play_services_enable_title"
@@ -4130,7 +4130,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-sw/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-sw/strings.xml"
                 qualifiers="sw" >
                 <string
                     name="auth_client_requested_by_msg"
@@ -4221,7 +4221,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-th/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-th/strings.xml"
                 qualifiers="th" >
                 <string
                     name="auth_client_requested_by_msg"
@@ -4312,7 +4312,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-tl/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-tl/strings.xml"
                 qualifiers="tl" >
                 <string
                     name="auth_client_play_services_err_notification_msg"
@@ -4403,7 +4403,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-tr/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-tr/strings.xml"
                 qualifiers="tr" >
                 <string
                     name="auth_client_needs_update_title"
@@ -4494,7 +4494,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-uk/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-uk/strings.xml"
                 qualifiers="uk" >
                 <string
                     name="common_google_play_services_enable_text"
@@ -4585,7 +4585,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-vi/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-vi/strings.xml"
                 qualifiers="vi" >
                 <string
                     name="common_google_play_services_install_text_phone"
@@ -4676,7 +4676,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-zh-rCN/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-zh-rCN/strings.xml"
                 qualifiers="zh-rCN" >
                 <string
                     name="common_google_play_services_enable_title"
@@ -4767,7 +4767,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-zh-rTW/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-zh-rTW/strings.xml"
                 qualifiers="zh-rTW" >
                 <string
                     name="auth_client_needs_enabling_title"
@@ -4858,7 +4858,7 @@
                 </string>
             </file>
             <file
-                path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/res/values-zu/strings.xml"
+                path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/res/values-zu/strings.xml"
                 qualifiers="zu" >
                 <string
                     name="common_google_play_services_enable_text"
@@ -4949,10 +4949,10 @@
                 </string>
             </file>
         </source>
-        <source path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/build/res/rs/debug" />
+        <source path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/build/res/rs/debug" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/debug/res" />
+        <source path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/debug/res" />
     </dataSet>
 
 </merger>
