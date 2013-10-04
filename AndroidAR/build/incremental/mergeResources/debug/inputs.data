@@ -67,7 +67,7 @@
 1380814302000 3391 06533d5c4aff5db0954adaa3a770bc872885e0ee /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-pt-rBR/values.xml
 1380814301000 2050 282c9d823a8d1322d34b216a43c13c9fddddc3c4 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_icon_normal_dark.9.png
 1380814302000 3424 245dffc6cff11b3f51f7c7c100762d4c1c8e2eb3 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ms/values.xml
-1380814219000 469 b819bbdaa87818be98dbba6960f757adbb4e9339 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/src/main/res/values/strings.xml
+1380893367000 676 eaf9532ac053d2d099cfaaa74a1b09ba949e993c /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/src/main/res/values/strings.xml
 1380814301000 2158 07a3e48614a9fdabfff9ceb299873a05ee2bec41 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_text_normal_light.9.png
 1380814302000 3354 c4fbc7c386f1689d63cf0413f2ee98ca0f4ad616 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-pl/values.xml
 1380814302000 882 6a13ee269a8af83a1d9e17837590e4aaee16b52e /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable/common_signin_btn_text_light.xml
@@ -117,7 +117,7 @@
 1380814302000 876 e75a4c9132ac4c47578ce99bd6023c1bf1782753 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable/common_signin_btn_text_dark.xml
 1380814301000 1957 dd06f70eaaf92408306c4016e8ceda39fdee9811 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_text_disabled_focus_light.9.png
 1380814302000 876 7094497ec6bd39ddb873a876f94c3fe71850be6d /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable/common_signin_btn_icon_dark.xml
-1380814219000 276 a8c32eb9e696c4e873e4c319b57bdfd12f2eecda /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/src/main/res/layout/loc_map_fragment.xml
+1380895855000 1424 0963feb109ae80c4779146671d3b5dba6c943b5c /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/src/main/res/layout/loc_map_fragment.xml
 1380814301000 2206 3e4756503036c1449763783e47ce75b06dda82ef /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable-hdpi/common_signin_btn_text_focus_dark.9.png
 1380814302000 3509 603eec8c1c52c7bf796b3f398f86f2e718a38e77 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ko/values.xml
 1380814302000 3519 08290928f026bb5914fcb2fbbff5b5089bfbaae0 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-hu/values.xml

@@ -183,19 +183,24 @@ containing a value of this type.
         public static final int icn_video_96=0x7f02001c;
     }
     public static final class id {
-        public static final int action_settings=0x7f050010;
+        public static final int action_settings=0x7f050015;
+        public static final int btnHybrid=0x7f050010;
+        public static final int btnSatellite=0x7f05000f;
+        public static final int btnStandard=0x7f05000e;
         public static final int fragment=0x7f050005;
-        public static final int gps_frag=0x7f05000d;
+        public static final int gps_frag=0x7f050012;
         public static final int gridView=0x7f050006;
         public static final int hw_fragment=0x7f050009;
         public static final int hybrid=0x7f050004;
         public static final int ivwHwItem=0x7f050007;
-        public static final int mainListView=0x7f05000f;
-        public static final int map_frag=0x7f05000e;
+        public static final int llSegBarMapViews=0x7f05000d;
+        public static final int mainListView=0x7f050014;
+        public static final int map=0x7f05000c;
+        public static final int map_frag=0x7f050013;
         public static final int none=0x7f050000;
         public static final int normal=0x7f050001;
         public static final int satellite=0x7f050002;
-        public static final int tabHost=0x7f05000c;
+        public static final int tabHost=0x7f050011;
         public static final int terrain=0x7f050003;
         public static final int tvLocDescription=0x7f05000b;
         public static final int tvLocTitle=0x7f05000a;
@@ -296,8 +301,11 @@ containing a value of this type.
         public static final int hello_world=0x7f070017;
         public static final int loc_gps_description=0x7f070018;
         public static final int loc_gps_title=0x7f070019;
-        public static final int th_loc_01=0x7f07001a;
-        public static final int th_map_02=0x7f07001b;
+        public static final int sb_btn_txt_hyd=0x7f07001a;
+        public static final int sb_btn_txt_sat=0x7f07001b;
+        public static final int sb_btn_txt_std=0x7f07001c;
+        public static final int th_loc_01=0x7f07001d;
+        public static final int th_map_02=0x7f07001e;
     }
     public static final class style {
         /**  From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/src/main/res/values/styles.xml 

@@ -1177,20 +1177,20 @@
                     msgid="4762332809710093730" >"Ukendt problem med Google Play-tjenester."
                 </string>
                 <string
-                    name="common_google_play_services_enable_button"
-                    msgid="4181637455539816337" >"Aktivér Google Play-tjenester"
-                </string>
-                <string
-                    name="common_signin_button_text_long"
-                    msgid="2429381841831957106" >"Log ind med Google"
-                </string>
-                <string
                     name="common_google_play_services_unsupported_text"
                     msgid="3542578567569488671" >"Google Play-tjenester, som nogle af dine applikationer er afhængige af, understøttes ikke af din enhed. Kontakt producenten for at få hjælp."
                 </string>
                 <string
                     name="auth_client_needs_update_title"
                     msgid="6488605506794595966" >"En applikation kræver en opdatering af Google Play."
+                </string>
+                <string
+                    name="common_google_play_services_enable_button"
+                    msgid="4181637455539816337" >"Aktivér Google Play-tjenester"
+                </string>
+                <string
+                    name="common_signin_button_text_long"
+                    msgid="2429381841831957106" >"Log ind med Google"
                 </string>
                 <string
                     name="common_google_play_services_install_button"
@@ -2630,14 +2630,6 @@
                     msgid="6006316683626838685" >"Play開発者サービスの更新"
                 </string>
                 <string
-                    name="common_google_play_services_install_title"
-                    msgid="26645092511305524" >"Play開発者サービスの入手"
-                </string>
-                <string
-                    name="common_google_play_services_unknown_issue"
-                    msgid="4762332809710093730" >"Google Play開発者サービスで原因不明の問題が発生しました。"
-                </string>
-                <string
                     name="auth_client_requested_by_msg"
                     msgid="6304135633531965756" >"
 <ns1:g id="APP_NAME" >
@@ -2647,6 +2639,14 @@
                 <string
                     name="common_google_play_services_enable_title"
                     msgid="529078775174559253" >"Play開発者サービスの有効化"
+                </string>
+                <string
+                    name="common_google_play_services_install_title"
+                    msgid="26645092511305524" >"Play開発者サービスの入手"
+                </string>
+                <string
+                    name="common_google_play_services_unknown_issue"
+                    msgid="4762332809710093730" >"Google Play開発者サービスで原因不明の問題が発生しました。"
                 </string>
                 <string
                     name="auth_client_needs_update_title"
@@ -3001,16 +3001,16 @@
                     msgid="4762332809710093730" >"Isu tidak diketahui dengan perkhidmatan Google Play."
                 </string>
                 <string
-                    name="common_google_play_services_enable_text"
-                    msgid="7627896071867667758" >"Apl ini tidak akan berfungsi kecuali anda mendayakan perkhidmatan Google Play."
-                </string>
-                <string
                     name="common_google_play_services_update_text"
                     msgid="448354684997260580" >"Apl ini tidak akan berfungsi kecuali anda mengemas kini perkhidmatan Google Play."
                 </string>
                 <string
                     name="common_google_play_services_update_button"
                     msgid="8932944190611227642" >"Kemas kini"
+                </string>
+                <string
+                    name="common_google_play_services_enable_text"
+                    msgid="7627896071867667758" >"Apl ini tidak akan berfungsi kecuali anda mendayakan perkhidmatan Google Play."
                 </string>
                 <string
                     name="common_google_play_services_unsupported_text"
@@ -4454,16 +4454,16 @@
                     msgid="7627896071867667758" >"Bu uygulama, Google Play Hizmetleri etkinleştirilmeden çalışmaz"
                 </string>
                 <string
-                    name="common_google_play_services_install_text_tablet"
-                    msgid="1589957570365247855" >"Google Play Hizmetleri tabletinizde yok ve bu uygulama Google Play Hizmetleri olmadan çalışmaz."
-                </string>
-                <string
                     name="common_google_play_services_update_button"
                     msgid="8932944190611227642" >"Güncelle"
                 </string>
                 <string
                     name="auth_client_play_services_err_notification_msg"
                     msgid="3635065018897986478" >"Google Play hizmetleri hatası"
+                </string>
+                <string
+                    name="common_google_play_services_install_text_tablet"
+                    msgid="1589957570365247855" >"Google Play Hizmetleri tabletinizde yok ve bu uygulama Google Play Hizmetleri olmadan çalışmaz."
                 </string>
                 <string
                     name="common_signin_button_text_long"
@@ -4818,16 +4818,16 @@
                     msgid="2534454398764507874" >"應用程式嘗試使用的 Google Play 服務版本有誤。"
                 </string>
                 <string
-                    name="auth_client_play_services_err_notification_msg"
-                    msgid="3635065018897986478" >"Google Play 服務錯誤"
-                </string>
-                <string
                     name="common_google_play_services_update_button"
                     msgid="8932944190611227642" >"更新"
                 </string>
                 <string
                     name="common_google_play_services_unsupported_text"
                     msgid="3542578567569488671" >"您的裝置不支援部分應用程式所需的 Google Play 服務。如需協助，請與您的裝置製造商聯絡。"
+                </string>
+                <string
+                    name="auth_client_play_services_err_notification_msg"
+                    msgid="3635065018897986478" >"Google Play 服務錯誤"
                 </string>
                 <string
                     name="common_google_play_services_install_text_tablet"
@@ -5052,7 +5052,11 @@
             <file
                 path="/Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/src/main/res/values/strings.xml"
                 qualifiers="" >
+                <string name="sb_btn_txt_sat" >Satellite
+                </string>
                 <string name="action_settings" >Settings
+                </string>
+                <string name="sb_btn_txt_std" >Standard
                 </string>
                 <string name="app_name" >AndroidAR
                 </string>
@@ -5065,6 +5069,8 @@
                 <string name="loc_gps_title" >First View
                 </string>
                 <string name="th_map_02" >Map
+                </string>
+                <string name="sb_btn_txt_hyd" >Hybrid
                 </string>
             </file>
             <file

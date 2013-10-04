@@ -67,6 +67,9 @@
     <string name="hello_world">Hello world!</string>
     <string name="loc_gps_description">Small View</string>
     <string name="loc_gps_title">First View</string>
+    <string name="sb_btn_txt_hyd">Hybrid</string>
+    <string name="sb_btn_txt_sat">Satellite</string>
+    <string name="sb_btn_txt_std">Standard</string>
     <string name="th_loc_01">Location</string>
     <string name="th_map_02">Map</string>
     <!-- From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/src/main/res/values/styles.xml -->

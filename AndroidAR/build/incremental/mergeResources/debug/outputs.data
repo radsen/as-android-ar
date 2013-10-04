@@ -28,7 +28,7 @@
 1380814219000 3233 52c63e73b8d2452d5fd5a121d07804f35f3bacb2 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/common_signin_btn_icon_pressed_light.9.png
 1380814303000 1059 f932f466a9ad5e4ab76b101f75b0744834f4883d /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable/common_signin_btn_icon_dark.xml
 1380814219000 2426 fe9b3d94b3ce7437700edd98c86451c8691108cc /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/common_signin_btn_text_disabled_focus_light.9.png
-1380814303000 402 83fb6cd2a6c641e6245551f59da2160ea8632ed4 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/layout/loc_map_fragment.xml
+1380895871000 1550 d1c7d1625256ed5828392a4e3311272d4da197cd /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/layout/loc_map_fragment.xml
 1380814303000 1027 c36c079855edfb102da1c136dc90608aa2e122d4 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/color/common_signin_btn_text_light.xml
 1380814219000 1403 e724c564b66d08fa5e89516d42fa46d8ae310dd1 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/common_signin_btn_icon_normal_dark.9.png
 1380814219000 2911 1d85015487cc382ec190e057e0b2c5411cbb115f /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/icn_audio_96.png
@@ -122,7 +122,7 @@
 1380814304000 4267 600f60e6bb43a4886f38afdf4cbae4b53b63365a /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-el/values.xml
 1380814304000 3440 58af93f70b322e4da46228f4c5bc5750ce571e65 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-pt-rBR/values.xml
 1380814219000 2006 a2c95d75abe36b14f47fc538327f0f1bd67e8cd3 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/common_signin_btn_icon_focus_light.9.png
-1380814303000 6388 0200848024826b6778e6d853f0fef00f5d916d32 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values/values.xml
+1380895499000 6543 d14f82b91c827c4f560924148e267369b1f374cb /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values/values.xml
 1380814304000 3869 fdc13250091941ef66a332cb0c9d12ab5279b2aa /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-ru/values.xml
 1380814304000 3363 b613be607ffe3be4733b58847a4e037caaa09caf /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-sl/values.xml
 1380814304000 3473 2de716dfe044c4ed86602b02f32dd6e2f7aea293 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-ms/values.xml

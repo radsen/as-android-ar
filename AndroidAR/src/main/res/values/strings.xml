@@ -12,4 +12,9 @@
     <string name="th_loc_01">Location</string>
     <string name="th_map_02">Map</string>
 
+    <!-- Segementation Bar Excersice Chapter 3 -->
+    <string name="sb_btn_txt_std">Standard</string>
+    <string name="sb_btn_txt_sat">Satellite</string>
+    <string name="sb_btn_txt_hyd">Hybrid</string>
+
 </resources>
