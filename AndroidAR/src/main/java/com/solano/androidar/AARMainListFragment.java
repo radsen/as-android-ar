@@ -22,7 +22,8 @@ public class AARMainListFragment extends Fragment{
 
     String[] options = new String[] {
             "Check HW availability",
-            "Location services"
+            "Location services",
+            "Sensors"
     };
 
     private ArrayAdapter<String> arrayAdapter = null;

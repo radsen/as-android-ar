@@ -129,7 +129,7 @@ containing a value of this type.
         public static final int zOrderOnTop=0x7f01000d;
     }
     public static final class color {
-        /**  From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values/values.xml 
+        /**  From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values/values.xml 
          */
         public static final int common_action_bar_splitter=0x7f040000;
         public static final int common_signin_btn_dark_text_default=0x7f040001;
@@ -145,8 +145,8 @@ containing a value of this type.
         public static final int common_signin_btn_text_light=0x7f04000b;
     }
     public static final class dimen {
-        /**  From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/src/main/res/values/dimens.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/src/main/res/values-sw720dp-land/dimens.xml 
+        /**  From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/src/main/res/values/dimens.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/src/main/res/values-sw720dp-land/dimens.xml 
          */
         public static final int activity_horizontal_margin=0x7f060000;
         public static final int activity_vertical_margin=0x7f060001;
@@ -183,27 +183,31 @@ containing a value of this type.
         public static final int icn_video_96=0x7f02001c;
     }
     public static final class id {
-        public static final int action_settings=0x7f050015;
+        public static final int action_settings=0x7f050019;
         public static final int btnHybrid=0x7f050010;
         public static final int btnSatellite=0x7f05000f;
         public static final int btnStandard=0x7f05000e;
         public static final int fragment=0x7f050005;
-        public static final int gps_frag=0x7f050012;
         public static final int gridView=0x7f050006;
         public static final int hw_fragment=0x7f050009;
         public static final int hybrid=0x7f050004;
         public static final int ivwHwItem=0x7f050007;
         public static final int llSegBarMapViews=0x7f05000d;
-        public static final int mainListView=0x7f050014;
+        public static final int mainListView=0x7f050011;
         public static final int map=0x7f05000c;
-        public static final int map_frag=0x7f050013;
         public static final int none=0x7f050000;
         public static final int normal=0x7f050001;
+        public static final int pbXAxis=0x7f050016;
+        public static final int pbYAxis=0x7f050014;
+        public static final int pbZAxis=0x7f050012;
         public static final int satellite=0x7f050002;
-        public static final int tabHost=0x7f050011;
+        public static final int tabHost=0x7f050018;
         public static final int terrain=0x7f050003;
         public static final int tvLocDescription=0x7f05000b;
         public static final int tvLocTitle=0x7f05000a;
+        public static final int tvXAxis=0x7f050017;
+        public static final int tvYAxis=0x7f050015;
+        public static final int tvZAxis=0x7f050013;
         public static final int tvwHwItem=0x7f050008;
     }
     public static final class layout {
@@ -213,67 +217,68 @@ containing a value of this type.
         public static final int hw_tester_fragment=0x7f030003;
         public static final int loc_gps_fragment=0x7f030004;
         public static final int loc_map_fragment=0x7f030005;
-        public static final int loc_srv_activity=0x7f030006;
-        public static final int main_list_fragment=0x7f030007;
+        public static final int main_list_fragment=0x7f030006;
+        public static final int sensor_accel_fragment=0x7f030007;
+        public static final int tab_host_activity=0x7f030008;
     }
     public static final class menu {
         public static final int aarmain=0x7f090000;
     }
     public static final class string {
-        /**  From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/src/main/res/values/strings.xml 
+        /**  From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/src/main/res/values/strings.xml 
          */
         public static final int action_settings=0x7f070000;
         public static final int app_name=0x7f070001;
-        /**  From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-af/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-am/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ar/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-be/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-bg/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ca/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-cs/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-da/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-de/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-el/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-en-rGB/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-es/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-es-rUS/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-et/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-fa/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-fi/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-fr/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-hi/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-hr/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-hu/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-in/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-it/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-iw/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ja/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ko/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-lt/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-lv/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ms/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-nb/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-nl/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-pl/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-pt/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-pt-rBR/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-pt-rPT/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ro/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ru/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-sk/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-sl/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-sr/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-sv/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-sw/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-th/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-tl/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-tr/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-uk/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-vi/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-zh-rCN/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-zh-rTW/values.xml 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-zu/values.xml 
+        /**  From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-af/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-am/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ar/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-be/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-bg/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ca/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-cs/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-da/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-de/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-el/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-en-rGB/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-es/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-es-rUS/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-et/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-fa/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-fi/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-fr/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-hi/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-hr/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-hu/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-in/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-it/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-iw/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ja/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ko/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-lt/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-lv/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ms/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-nb/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-nl/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-pl/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-pt/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-pt-rBR/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-pt-rPT/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ro/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ru/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-sk/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-sl/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-sr/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-sv/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-sw/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-th/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-tl/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-tr/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-uk/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-vi/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-zh-rCN/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-zh-rTW/values.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-zu/values.xml 
          */
         public static final int auth_client_needs_enabling_title=0x7f070002;
         public static final int auth_client_needs_installation_title=0x7f070003;
@@ -296,7 +301,7 @@ containing a value of this type.
         public static final int common_google_play_services_update_title=0x7f070014;
         public static final int common_signin_button_text=0x7f070015;
         public static final int common_signin_button_text_long=0x7f070016;
-        /**  From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/src/main/res/values/strings.xml 
+        /**  From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/src/main/res/values/strings.xml 
          */
         public static final int hello_world=0x7f070017;
         public static final int loc_gps_description=0x7f070018;
@@ -304,19 +309,23 @@ containing a value of this type.
         public static final int sb_btn_txt_hyd=0x7f07001a;
         public static final int sb_btn_txt_sat=0x7f07001b;
         public static final int sb_btn_txt_std=0x7f07001c;
-        public static final int th_loc_01=0x7f07001d;
-        public static final int th_map_02=0x7f07001e;
+        public static final int sensor_tab_01=0x7f07001d;
+        public static final int sensor_tab_02=0x7f07001e;
+        public static final int sensor_tab_03=0x7f07001f;
+        public static final int th_loc_01=0x7f070020;
+        public static final int th_map_02=0x7f070021;
+        public static final int tv_default=0x7f070022;
     }
     public static final class style {
-        /**  From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/src/main/res/values/styles.xml 
+        /**  From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/src/main/res/values/styles.xml 
 
             Theme customizations available in newer API levels can go in
             res/values-vXX/styles.xml, while customizations related to
             backward-compatibility can go here.
         
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/src/main/res/values-v11/styles.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/src/main/res/values-v11/styles.xml 
  API 11 theme customizations can go here. 
- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/src/main/res/values-v14/styles.xml 
+ From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/src/main/res/values-v14/styles.xml 
  API 14 theme customizations can go here. 
          */
         public static final int AppBaseTheme=0x7f080000;

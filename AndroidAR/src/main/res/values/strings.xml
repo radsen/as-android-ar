@@ -8,9 +8,15 @@
     <string name="loc_gps_title">First View</string>
     <string name="loc_gps_description">Small View</string>
 
+    <string name="tv_default">Label</string>
+
     <!-- TabHost Location Services headers -->
     <string name="th_loc_01">Location</string>
     <string name="th_map_02">Map</string>
+
+    <string name="sensor_tab_01">First</string>
+    <string name="sensor_tab_02">Second</string>
+    <string name="sensor_tab_03">Third</string>
 
     <!-- Segementation Bar Excersice Chapter 3 -->
     <string name="sb_btn_txt_std">Standard</string>

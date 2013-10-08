@@ -2,7 +2,9 @@ package com.solano.androidar.location;
 
 import com.solano.androidar.R;
 
+import android.nfc.Tag;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
@@ -16,6 +18,8 @@ import android.support.v4.app.Fragment;
  */
 public class AARLocationFragment extends Fragment{
 
+    private static final String TAG = AARLocationFragment.class.getSimpleName();
+
     private TextView tvLocTitle;
     private TextView tvLocDesc;
 
@@ -26,6 +30,8 @@ public class AARLocationFragment extends Fragment{
 
         tvLocTitle = (TextView) relativeLayout.findViewById(R.id.tvLocTitle);
         tvLocDesc = (TextView) relativeLayout.findViewById(R.id.tvLocDescription);
+
+        Log.d(TAG, "Title: " + tvLocTitle.toString() + " Description: " + tvLocDesc.toString());
 
         return relativeLayout;
     }

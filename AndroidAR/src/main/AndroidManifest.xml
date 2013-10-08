@@ -48,6 +48,9 @@
         <activity
                 android:name="com.solano.androidar.location.AARLocationActivity" >
         </activity>
+        <activity
+            android:name="com.solano.androidar.sensors.AARSensorsActivity" >
+        </activity>
     </application>
 
 </manifest>

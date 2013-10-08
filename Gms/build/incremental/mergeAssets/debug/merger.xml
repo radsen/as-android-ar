@@ -2,10 +2,10 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/main/assets" />
+        <source path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/main/assets" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/Users/Radsen/AndroidStudioProjects/as-android-ar/Gms/src/debug/assets" />
+        <source path="/Users/pfhats0/Documents/Android Studio/as-android-ar/Gms/src/debug/assets" />
     </dataSet>
 
 </merger>

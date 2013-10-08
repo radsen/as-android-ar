@@ -10,6 +10,7 @@ import android.content.Intent;
 import com.solano.androidar.hardware.AARHwTesterActivity;
 import com.solano.androidar.interfaces.OnSelectedListener;
 import com.solano.androidar.location.AARLocationActivity;
+import com.solano.androidar.sensors.AARSensorsActivity;
 import com.solano.androidar.utils.AARMainMenu;
 
 public class AARMainActivity extends FragmentActivity implements OnSelectedListener {
@@ -40,6 +41,9 @@ public class AARMainActivity extends FragmentActivity implements OnSelectedListe
                 break;
             case AARMainMenu.LOCATION_MENU:
                 intent = new Intent(getApplicationContext(), AARLocationActivity.class);
+                break;
+            case AARMainMenu.SENSORS_MENU:
+                intent = new Intent(getApplicationContext(), AARSensorsActivity.class);
                 break;
         }
 

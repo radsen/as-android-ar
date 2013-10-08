@@ -6,4 +6,5 @@ package com.solano.androidar.utils;
 public abstract class AARMainMenu {
     public static final int HARDWARE_MENU = 0;
     public static final int LOCATION_MENU = 1;
+    public static final int SENSORS_MENU = 2;
 }

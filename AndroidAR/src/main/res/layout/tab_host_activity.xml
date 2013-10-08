@@ -27,20 +27,6 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent">
 
-                <fragment
-                        android:id="@+id/gps_frag"
-                        class="com.solano.androidar.location.AARLocationFragment"
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent">
-                </fragment>
-
-                <fragment
-                        android:id="@+id/map_frag"
-                        class="com.solano.androidar.location.AARMapFragment"
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent">
-                </fragment>
-
             </FrameLayout>
         </LinearLayout>
     </TabHost>

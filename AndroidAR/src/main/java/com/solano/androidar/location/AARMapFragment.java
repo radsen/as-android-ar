@@ -6,6 +6,8 @@ import java.util.List;
 import android.location.Location;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
+import android.support.v4.app.FragmentManager;
+import android.support.v4.app.FragmentTransaction;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -30,6 +32,7 @@ public class AARMapFragment extends Fragment implements View.OnClickListener{
 
     private static final String TAG = AARMapFragment.class.getSimpleName();
 
+    SupportMapFragment supportMapFragment;
     GoogleMap mMap = null;
 
     @Override
@@ -44,7 +47,8 @@ public class AARMapFragment extends Fragment implements View.OnClickListener{
         Button btnHybrid = (Button) relativeLayout.findViewById(R.id.btnHybrid);
         btnHybrid.setOnClickListener(this);
 
-        mMap = ((SupportMapFragment) getActivity().getSupportFragmentManager().findFragmentById(R.id.map)).getMap();
+        supportMapFragment = (SupportMapFragment) getActivity().getSupportFragmentManager().findFragmentById(R.id.map);
+        mMap = supportMapFragment.getMap();
 
         return relativeLayout;
     }
@@ -104,5 +108,17 @@ public class AARMapFragment extends Fragment implements View.OnClickListener{
                 .build();
 
         mMap.moveCamera(CameraUpdateFactory.newCameraPosition(cameraPosition));
+    }
+
+    @Override
+    public void onDestroyView(){
+        if(supportMapFragment != null){
+            FragmentManager fm = getActivity().getSupportFragmentManager();
+            FragmentTransaction ft = fm.beginTransaction();
+            ft.remove(supportMapFragment);
+            ft.commit();
+        }
+
+        super.onDestroyView();
     }
 }
