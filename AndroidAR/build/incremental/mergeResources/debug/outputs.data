@@ -1,140 +1,140 @@
 # incremental data. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
-1381280876000 1471 013f70e6b4803165b4ba844e104e0efc3c97423e /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/common_signin_btn_text_normal_dark.9.png
-1381280876000 1215 51478629f99680997faeeb6ba0f5cfe7b2e99285 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/common_signin_btn_icon_disabled_dark.9.png
-1381280876000 1997 b910320e91f4ec7f6d6b318f8fea6abb1128fb85 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/common_signin_btn_icon_normal_dark.9.png
-1381284496000 1054 c8342ddc04054ee718981bf82832d14f78e2b3c3 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable/common_signin_btn_text_light.xml
-1381284496000 665 824d13417a07aa37595385b65b87b1857191ca75 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/layout/hw_tester_fragment.xml
-1381280874000 1409 b1ae8c40415af30871aba86e83ecef73325af12b /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/common_signin_btn_icon_focus_dark.9.png
-1381284495000 3552 667af911db2fee12202f93e9ee3964facbdd6354 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-ko/values.xml
-1381280877000 2320 d479e9be3d94cca0ef3d9bf5ef948505fa741a7f /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/common_signin_btn_icon_disabled_light.9.png
-1381280876000 2133 09d4b625870ed9a60c44fb3cb84eb3d3e84add20 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/common_signin_btn_text_focus_dark.9.png
-1381284495000 3743 c27d50a7acfef4bbb6d1f10d207be2bd035ea8f7 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-ar/values.xml
-1381280875000 1840 d67076f608a590c1b6d54d9cd54cd6cf9bed8e97 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/common_signin_btn_text_disabled_light.9.png
-1381284495000 3590 7855c33dceb5c07b8006d371ea3d2ef16841772f /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-fr/values.xml
-1381284495000 3537 2f534e09b4704240f553ab3259d2283c65b9f61c /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-tl/values.xml
-1381284495000 3373 3baeb6f086ee7d66604167e53b0b7b125b881895 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-sw/values.xml
-1381284495000 3515 48f2f9332af925f5913dfe5b689e9f486b470d74 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-ca/values.xml
-1381280875000 1713 643a2049d96055e92614801b2a0baf8a0efe5c68 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/common_signin_btn_icon_disabled_dark.9.png
-1381280875000 1403 e724c564b66d08fa5e89516d42fa46d8ae310dd1 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/common_signin_btn_icon_normal_dark.9.png
-1381280877000 1713 643a2049d96055e92614801b2a0baf8a0efe5c68 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/common_signin_btn_icon_disabled_light.9.png
-1381280875000 2423 5b1ffddf1465e1f106ae4003a953c7e9286cc1f5 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/common_signin_btn_text_pressed_light.9.png
-1381284495000 1242 f8452dee75156ff89051b263549941fe08f39157 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/layout/tab_host_activity.xml
-1381280874000 3283 cd797880e6159b6da919b9060b88bcdb02c83328 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/common_signin_btn_text_pressed_light.9.png
-1381280875000 2426 fe9b3d94b3ce7437700edd98c86451c8691108cc /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/common_signin_btn_text_disabled_focus_light.9.png
-1381284495000 4012 ef259e6ba2f8198859601f599fe67bef8cb61e34 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-be/values.xml
-1381280876000 2911 1d85015487cc382ec190e057e0b2c5411cbb115f /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/icn_audio_96.png
-1381280877000 2840 ae4e3e46b2e170fea54e186bb0b86ec7ab0e696d /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/common_signin_btn_text_normal_light.9.png
-1381280875000 2026 be8e48111e5a60fd387ecf5656135ff191bc87a8 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/common_signin_btn_icon_focus_dark.9.png
-1381280875000 1283 be04e7fa91108522dae5bb9a0aa8c3777c375165 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/common_signin_btn_text_disabled_light.9.png
-1381284496000 1054 503e20ec88d12b0381a1895f894e9351f4b5accd /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable/common_signin_btn_icon_light.xml
-1381284495000 3863 b6bd51e10646b6fafcf15cbc705b6e503ad57f95 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-ru/values.xml
-1381280876000 1215 51478629f99680997faeeb6ba0f5cfe7b2e99285 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/common_signin_btn_icon_disabled_light.9.png
-1381284495000 3374 d3b6fb6d9b9eec0c5899bd09ea3020808d9e854b /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-fi/values.xml
-1381280875000 3852 8e7331231b9533a0f77b9497635cc6da8b4d7221 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/icn_magnetometer_96.png
-1381280876000 1445 08570a1823425dd125811c86dc6535711ecba5c9 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/common_signin_btn_text_normal_light.9.png
-1381284495000 4659 3be4712eade59160133b5e4fe673f11f80769162 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-hi/values.xml
-1381284495000 1195 bccfc4e537e07ee44bfc34cbfc49205d31ae1d93 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/layout/loc_gps_fragment.xml
-1381280877000 2097 04f3bbad9522cdc35032759e46c5b63829d6807e /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/common_signin_btn_text_normal_light.9.png
-1381280877000 2829 755dc5d12cfb3314ecf93ae17b8b97a7b43b692b /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/common_signin_btn_text_normal_dark.9.png
-1381280875000 2920 8b0c81ff82d13f0d9d723a8c66f18594311fb843 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/icn_camera_96.png
-1381280874000 1439 745e68421585cf6b33bb27b850241e187e021519 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/common_signin_btn_text_focus_dark.9.png
-1381280876000 1386 29459cacff6fec5391bb8a23463cd54a7d09662a /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/common_signin_btn_icon_focus_light.9.png
-1381284497000 995 1157bd41e3b173e1cfe9175b2edd4f3dec1a0899 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/layout/hardware_item.xml
-1381284495000 3397 b4bfc881ae90edbbd16a63a91c6a2aa6f4166bd5 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-pl/values.xml
-1381284495000 4261 1abcbef2e30cee962e600bb9bdc2bea3b5f38170 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-el/values.xml
-1381284495000 3374 b06c875d091042e9190981cc5b8e30c10afd19d1 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-sv/values.xml
-1381284495000 3321 7823db7f19a446b015da72335a2c9893cc307b26 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-da/values.xml
-1381284495000 3430 c3c472a721e98d8b9170ac6b6e92f147deeb4847 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-pt/values.xml
-1381284495000 3367 31a558ff22c8b0ff037df537aa762c405d6bc0f2 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-it/values.xml
-1381284495000 612 c025b7fb7d6b759219fc534bc8d6f1e081243104 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/layout/main_list_fragment.xml
-1381284495000 4630 73e55b942f0c3042eeb3f6a05968c54212a4795c /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-th/values.xml
-1381280877000 3067 81fd7110ea3755fa5c8ee0a91ba72e7aaf0e9a24 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/ic_launcher.png
-1381284495000 3289 720af8137f222817b3837359a1871cb6c4730bcd /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-zh-rTW/values.xml
-1381284496000 3874 b26fa765ef04252e50ec45033b4c5be7c3354304 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-ja/values.xml
-1381280874000 2118 732ae83c1c0d371973e715ead6e499b0ec619c7d /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/common_signin_btn_text_focus_light.9.png
-1381280874000 1244 217aa6606e3adb86de7fb0e73f1146f94c31d5a9 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/common_signin_btn_icon_disabled_focus_dark.9.png
-1381280876000 2006 a2c95d75abe36b14f47fc538327f0f1bd67e8cd3 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/common_signin_btn_icon_focus_light.9.png
-1381284496000 1015 8e7c56cff1b5346b5bd73d3e9ae77c1761918aca /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/color/common_signin_btn_text_light.xml
-1381280876000 1978 5aa405df2fef0ef974737b65a4240c52500647dd /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/common_signin_btn_icon_normal_light.9.png
-1381280877000 2441 51b5ea330337d070658ee1e7fa56b4e143f30756 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/common_signin_btn_text_disabled_light.9.png
-1381280875000 3190 3fba56067cf4cb706bcf9ea580e84bf0017fac46 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/icn_video_96.png
-1381280877000 2822 4c79d0f6bfe84ee3c1eb46a33985ef2b51ab52c1 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/common_signin_btn_icon_focus_light.9.png
-1381284495000 3375 c4386cab7dbbf8bd21ec12a582972a58ab0be9e7 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-in/values.xml
-1381284495000 3395 3c03bf0858c18b22c7b01874f745f8d7e8740563 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-es-rUS/values.xml
-1381284495000 3438 e537218aa0b4460f93a23753b4d253e10315b7a9 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-hr/values.xml
-1381280875000 2426 fe9b3d94b3ce7437700edd98c86451c8691108cc /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/common_signin_btn_text_disabled_focus_dark.9.png
-1381284495000 3980 452dc04afc6ef939caf2df65ddfd96ed155d52ae /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-sr/values.xml
-1381280876000 6544 df73c614212bdd19a17818cba92264e67ebe5cb3 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/ic_launcher.png
-1381284496000 3405 b0dd145332647a97659a218f7c4f50cc9050a7f3 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-nl/values.xml
-1381284495000 3634 ae9bee88a95582b8c9e38983b4e9a943373692e2 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-iw/values.xml
-1381284496000 3535 a193b7ae33f970770e7d2f4cf613627f9bd983a6 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-es/values.xml
-1381280876000 1280 dbd8e5a70698a3cc800c5be0e7795135d55bbedd /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/common_signin_btn_text_disabled_focus_dark.9.png
-1381280876000 1734 d24cbb8495ba7cdb1aea6dad9a386596a1d71df8 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/common_signin_btn_icon_disabled_focus_dark.9.png
-1381284495000 3448 b33cfaffc3fcad6326bfb18976c2878091d840fd /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-de/values.xml
-1381280877000 2771 bc689cb52fd4605997f2d6f3ec31bf04a5a50350 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/common_signin_btn_icon_normal_dark.9.png
-1381284495000 353 ee538c60725e41c98f34c58bf284ac29dda3d729 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/menu/aarmain.xml
-1381284495000 3467 27db9adafb5ace61b8b18c5068f861ab8451dd29 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-ms/values.xml
-1381284495000 3779 9a9d3adc6b705939c9039267dcf0e62385b66b21 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-vi/values.xml
-1381280877000 2804 164c714e231991931719799e31f774d93b4a2fae /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/common_signin_btn_icon_normal_light.9.png
-1381280875000 2126 ff0fdbe4085debdd918551f8c0e21a84231347db /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/common_signin_btn_text_normal_dark.9.png
-1381280876000 2346 e6d7b7c339cf05562d64c8d58f8f4560de589510 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/common_signin_btn_icon_disabled_focus_dark.9.png
-1381284495000 3481 bd8fb99ec5c3aa911b8562910cf11202eb937468 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-tr/values.xml
-1381280875000 1734 d24cbb8495ba7cdb1aea6dad9a386596a1d71df8 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/common_signin_btn_icon_disabled_focus_light.9.png
-1381284495000 3999 71df89019a601ebf123e3d72961c8d7e92beea02 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-uk/values.xml
-1381280877000 2292 c3f2fe9ca0c359a743970883c9b0be266a5ba9a2 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/common_signin_btn_icon_pressed_light.9.png
-1381280875000 2846 adefb32c584f50c4a906877ffbc0276e2385f791 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/common_signin_btn_text_focus_light.9.png
-1381284496000 3363 35aa25c867fe9cb2c416c51f2604e118f699e227 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-af/values.xml
-1381284495000 1047 12907f603ea2a529172dc1b3377b7970892e228c /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable/common_signin_btn_icon_dark.xml
-1381284496000 934 1b42a61ae8b7e726a38ee131d2434738c5a69409 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/layout/android_ar_main.xml
-1381280874000 1283 be04e7fa91108522dae5bb9a0aa8c3777c375165 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/common_signin_btn_text_disabled_dark.9.png
-1381280877000 2812 42f0ac0c79874c2785b4a2b6df3d0745eb694492 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/common_signin_btn_icon_focus_dark.9.png
-1381284495000 3466 2740db2dce1c5051359793b1e5456eced183776e /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-lv/values.xml
-1381280876000 1545 310b23ef7aeaa3119d16f35810f90a2593ea5c15 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/common_signin_btn_text_pressed_dark.9.png
-1381284497000 1047 7e3660a6fdcb2f435c0eff0af743b3dff462a6aa /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable/common_signin_btn_text_dark.xml
-1381284495000 3471 3699903735d222dadc7ab63f0049c5eb585d522b /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-lt/values.xml
-1381284496000 1544 6dd3d4b4c71d419f13ff34b2e895127a583ff4ab /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/layout/loc_map_fragment.xml
-1381284495000 3437 28f70dcc9bbefd414d2667df7981f3270ee383a1 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-ro/values.xml
-1381280875000 2822 f985c338a728c2c8251ca60bbe0591ae22827502 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/common_signin_btn_text_focus_dark.9.png
-1381280876000 3053 56e1c95ae4ffea28a5bd269bdc5efcfe36d2f154 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/common_signin_btn_icon_pressed_dark.9.png
-1381280877000 1495 2243a3236f540de126ae23badb43564116100503 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/common_signin_btn_icon_pressed_dark.9.png
-1381284495000 3366 c99508bcff2db0ee52b8d92d49f60a8aed023810 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-nb/values.xml
-1381280876000 3122 6c43568bc66e8300fcf04721fb76442cd702fcac /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/common_signin_btn_text_pressed_dark.9.png
-1381284495000 3544 c10213fdeb32c01af3938d492b483f2d376e2594 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-pt-rPT/values.xml
-1381284495000 3434 ec4a09c8f5c64f0e4d0cba9c62e1c11b356959b7 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-pt-rBR/values.xml
-1381280874000 1280 dbd8e5a70698a3cc800c5be0e7795135d55bbedd /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/common_signin_btn_text_disabled_focus_light.9.png
-1381284495000 3357 3dafe6b3009651fce5add5e926ca872a339cbf67 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-sl/values.xml
-1381280877000 1552 a6944051be1ef007cc63e8624e053161e5fc6c3c /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/common_signin_btn_icon_pressed_light.9.png
-1381284495000 4158 3c96c891631ad6403ce902ac3ab7920ab7418b3a /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-bg/values.xml
-1381284495000 3319 b78cd41e3e2bfd48187eae7354e7b8325f566052 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-en-rGB/values.xml
-1381280876000 2161 dfec76b7f5999839d6a51b068a1c466f5c237ca9 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/common_signin_btn_icon_pressed_dark.9.png
-1381280877000 2320 d479e9be3d94cca0ef3d9bf5ef948505fa741a7f /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/common_signin_btn_icon_disabled_dark.9.png
-1381284495000 253 2403e819596159c1112a6e5c6d4d10c5fbf1dbdf /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-sw720dp-land/values.xml
-1381280875000 2307 541748b7cda2a2264ed109abeff27ef2c3e7a29f /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/common_signin_btn_text_pressed_dark.9.png
-1381280876000 2346 e6d7b7c339cf05562d64c8d58f8f4560de589510 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/common_signin_btn_icon_disabled_focus_light.9.png
-1381284495000 3268 e8c4df2e2008df3b8f8bed79eee02e97691277d0 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-zh-rCN/values.xml
-1381284495000 3418 8c7b2c56ba8d0379071fd876bd0420fb27982bc3 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-sk/values.xml
-1381280877000 1601 552c3b977827e979ab7e9e944a25b8b7a40998fc /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/common_signin_btn_text_pressed_light.9.png
-1381284495000 3363 f033083900c8f8a4930e7aaa1115df25aacffe2a /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-et/values.xml
-1381280876000 11182 eef7a3b8645d9a0a8193737adf7fc1bfcfd866d0 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
-1381280875000 1244 217aa6606e3adb86de7fb0e73f1146f94c31d5a9 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/common_signin_btn_icon_disabled_focus_light.9.png
-1381284495000 3400 ab781167d5e5b686c47223bd2346a161b204ce72 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-cs/values.xml
-1381280876000 3233 52c63e73b8d2452d5fd5a121d07804f35f3bacb2 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/common_signin_btn_icon_pressed_light.9.png
-1381280877000 1840 d67076f608a590c1b6d54d9cd54cd6cf9bed8e97 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/common_signin_btn_text_disabled_dark.9.png
-1381284495000 3528 b3990433ea6a7801b6666ae3483d5269a8d3fa41 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-zu/values.xml
-1381280874000 1863 6265a7b8b153b31b2ec1106dbd0890e98e8a9ec2 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/common_signin_btn_text_disabled_focus_light.9.png
-1381280876000 1863 6265a7b8b153b31b2ec1106dbd0890e98e8a9ec2 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/common_signin_btn_text_disabled_focus_dark.9.png
-1381284495000 639 0ba88728adda67d59979cbd45fb28b399a090de0 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/layout/hardware.xml
-1381280876000 2441 51b5ea330337d070658ee1e7fa56b4e143f30756 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/common_signin_btn_text_disabled_dark.9.png
-1381280877000 1375 85ed129486332e564284183a777f2185e2f3067b /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/common_signin_btn_icon_normal_light.9.png
-1381284495000 322 9bf87ab1d0efe2c64e8b71548d88e78980192e83 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-v11/values.xml
-1381284495000 1008 b73ac0a78d1fc829a3b4e8ee5dea1c4b1e1196e0 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/color/common_signin_btn_text_dark.xml
-1381280877000 4836 d50eaed199e60ebc85bbee368d3ef5bd68b82402 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/ic_launcher.png
-1381284495000 3928 f5012fc6508f1e91ffaa1fd9bebdf6aab3fbb867 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-am/values.xml
-1381280875000 1446 eef2c0a5ccc1ea611ec77c42721c283d58b33fcc /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/common_signin_btn_text_focus_light.9.png
-1381284495000 6697 b53999089bb23c26487ffe1d9984f7c79bd3542b /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values/values.xml
-1381284497000 2731 166c46d2008eb8f908bdbb11d68a2a788a134773 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/layout/sensor_accel_fragment.xml
-1381284495000 336 72f74e754bda9b601fd7ade64dd00a05383c423c /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-v14/values.xml
-1381284495000 3562 643b9f6a9e8b0dadb2da8ae39ea93953b2da0491 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-hu/values.xml
-1381284495000 3921 d981532d5dc2563e6e8d3ee2eb3528b23e169fe0 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/res/all/debug/values-fa/values.xml
+1381241622000 1863 6265a7b8b153b31b2ec1106dbd0890e98e8a9ec2 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/common_signin_btn_text_disabled_focus_dark.9.png
+1381325066000 3543 606463b3f26f463538e21c90b7bcb97d946829e7 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-tl/values.xml
+1381241621000 2307 541748b7cda2a2264ed109abeff27ef2c3e7a29f /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/common_signin_btn_text_pressed_dark.9.png
+1381241622000 1386 29459cacff6fec5391bb8a23463cd54a7d09662a /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/common_signin_btn_icon_focus_light.9.png
+1381241622000 2320 d479e9be3d94cca0ef3d9bf5ef948505fa741a7f /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/common_signin_btn_icon_disabled_light.9.png
+1381241622000 2161 dfec76b7f5999839d6a51b068a1c466f5c237ca9 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/common_signin_btn_icon_pressed_dark.9.png
+1381241622000 4836 d50eaed199e60ebc85bbee368d3ef5bd68b82402 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/ic_launcher.png
+1381241622000 1375 85ed129486332e564284183a777f2185e2f3067b /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/common_signin_btn_icon_normal_light.9.png
+1381241622000 2441 51b5ea330337d070658ee1e7fa56b4e143f30756 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/common_signin_btn_text_disabled_dark.9.png
+1381241621000 1446 eef2c0a5ccc1ea611ec77c42721c283d58b33fcc /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/common_signin_btn_text_focus_light.9.png
+1381325067000 3406 9fdb8947ae79c3e1833249a63b60a2d586fe4462 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-cs/values.xml
+1381325067000 3403 252c6790037a420dcbfc9dee8a0c3e4c0e4dc10a /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-pl/values.xml
+1381241622000 1840 d67076f608a590c1b6d54d9cd54cd6cf9bed8e97 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/common_signin_btn_text_disabled_dark.9.png
+1381325066000 3379 c4870b4ca232f987d38c8cacd8566a183042b6a0 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-sw/values.xml
+1381241621000 1409 b1ae8c40415af30871aba86e83ecef73325af12b /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/common_signin_btn_icon_focus_dark.9.png
+1381325067000 3274 1e1d9dbce0ccf8d88152de063f695165146a3b76 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-zh-rCN/values.xml
+1381241621000 1244 217aa6606e3adb86de7fb0e73f1146f94c31d5a9 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/common_signin_btn_icon_disabled_focus_light.9.png
+1381325066000 1001 4c8cff732d65733465c908afd859dc78ee0b4a1c /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/layout/hardware_item.xml
+1381325066000 645 29cfbf875d7e4469717781c95242c41d66298403 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/layout/hardware.xml
+1381241622000 1734 d24cbb8495ba7cdb1aea6dad9a386596a1d71df8 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/common_signin_btn_icon_disabled_focus_dark.9.png
+1381325066000 671 7e0b7e06ce0998d0545f41271dcfc1e409a48740 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/layout/hw_tester_fragment.xml
+1381241621000 1280 dbd8e5a70698a3cc800c5be0e7795135d55bbedd /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/common_signin_btn_text_disabled_focus_light.9.png
+1381241621000 1244 217aa6606e3adb86de7fb0e73f1146f94c31d5a9 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/common_signin_btn_icon_disabled_focus_dark.9.png
+1381241621000 3233 52c63e73b8d2452d5fd5a121d07804f35f3bacb2 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/common_signin_btn_icon_pressed_light.9.png
+1381325066000 2737 e09a0b7007535842edaed1973849d5caf7db72d4 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/layout/sensor_accel_fragment.xml
+1381325066000 1059 f932f466a9ad5e4ab76b101f75b0744834f4883d /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable/common_signin_btn_icon_dark.xml
+1381241621000 2426 fe9b3d94b3ce7437700edd98c86451c8691108cc /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/common_signin_btn_text_disabled_focus_light.9.png
+1381325066000 1550 d1c7d1625256ed5828392a4e3311272d4da197cd /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/layout/loc_map_fragment.xml
+1381325066000 1027 c36c079855edfb102da1c136dc90608aa2e122d4 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/color/common_signin_btn_text_light.xml
+1381241621000 1403 e724c564b66d08fa5e89516d42fa46d8ae310dd1 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/common_signin_btn_icon_normal_dark.9.png
+1381241622000 2911 1d85015487cc382ec190e057e0b2c5411cbb115f /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/icn_audio_96.png
+1381241622000 1280 dbd8e5a70698a3cc800c5be0e7795135d55bbedd /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/common_signin_btn_text_disabled_focus_dark.9.png
+1381325067000 3325 58dc6fa66ede4d168d0e2d670b549b53a6987a4d /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-en-rGB/values.xml
+1381241622000 1215 51478629f99680997faeeb6ba0f5cfe7b2e99285 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/common_signin_btn_icon_disabled_dark.9.png
+1381241622000 1552 a6944051be1ef007cc63e8624e053161e5fc6c3c /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/common_signin_btn_icon_pressed_light.9.png
+1381241621000 2822 f985c338a728c2c8251ca60bbe0591ae22827502 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/common_signin_btn_text_focus_dark.9.png
+1381325066000 3380 331f7b394492ba421ddb334b61f82f23b91714e4 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-fi/values.xml
+1381325066000 3521 c659761993bad3911e2d1eaea048901ca1c94705 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-ca/values.xml
+1381325067000 3443 7ab9f4f17fbfc672b8ae8964670f1daeceeb2b59 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-ro/values.xml
+1381325067000 3369 6df331199fa9925ac85a358c516aed36a181ccc4 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-af/values.xml
+1381241622000 1215 51478629f99680997faeeb6ba0f5cfe7b2e99285 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/common_signin_btn_icon_disabled_light.9.png
+1381325066000 342 546764a2778ac32b59a7752d48ebfe7ca1920328 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-v14/values.xml
+1381241622000 1601 552c3b977827e979ab7e9e944a25b8b7a40998fc /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/common_signin_btn_text_pressed_light.9.png
+1381325067000 3785 8ce5902369bde5df988b8d32ae682e5fdb2d4967 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-vi/values.xml
+1381241622000 1545 310b23ef7aeaa3119d16f35810f90a2593ea5c15 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/common_signin_btn_text_pressed_dark.9.png
+1381241621000 2426 fe9b3d94b3ce7437700edd98c86451c8691108cc /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/common_signin_btn_text_disabled_focus_dark.9.png
+1381241622000 3053 56e1c95ae4ffea28a5bd269bdc5efcfe36d2f154 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/common_signin_btn_icon_pressed_dark.9.png
+1381325067000 3424 0e32bd3b40ee78ce9a9ffdd3a8cf78c444338df2 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-sk/values.xml
+1381241622000 2829 755dc5d12cfb3314ecf93ae17b8b97a7b43b692b /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/common_signin_btn_text_normal_dark.9.png
+1381241622000 2133 09d4b625870ed9a60c44fb3cb84eb3d3e84add20 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/common_signin_btn_text_focus_dark.9.png
+1381325067000 3934 adc720febf9824a49f2233310b88f278ca5fd2fc /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-am/values.xml
+1381325066000 1066 31772c86fa7e2a39d58cc301cd6cef70108dd289 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable/common_signin_btn_text_light.xml
+1381325066000 1066 7c9fd094982b681c2cdbcb689065ab70023896d6 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable/common_signin_btn_icon_light.xml
+1381325067000 3927 41da7faf42c580794be493e789bdaa65fde387eb /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-fa/values.xml
+1381325067000 3640 34de4dc063c87e33e7fe15cae895502aa37a0161 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-iw/values.xml
+1381325067000 3381 e535465153ef3d976eab974d8a4bbd3d1a180836 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-in/values.xml
+1381325066000 4018 f3c36e7f12f5cc60570d804567308198b36b5ffa /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-be/values.xml
+1381241621000 2423 5b1ffddf1465e1f106ae4003a953c7e9286cc1f5 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/common_signin_btn_text_pressed_light.9.png
+1381241621000 1283 be04e7fa91108522dae5bb9a0aa8c3777c375165 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/common_signin_btn_text_disabled_dark.9.png
+1381241622000 2771 bc689cb52fd4605997f2d6f3ec31bf04a5a50350 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/common_signin_btn_icon_normal_dark.9.png
+1381325067000 3749 a36ff0e8854ac71a1c17ac9162fbc72c6384ebe6 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-ar/values.xml
+1381325066000 259 d941b2628f24bc5f9360de6adc2ca2eb01ea6df9 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-sw720dp-land/values.xml
+1381325067000 3534 0f6d098b80c1a0be22a7656d43577702fcb3a0e9 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-zu/values.xml
+1381241621000 2026 be8e48111e5a60fd387ecf5656135ff191bc87a8 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/common_signin_btn_icon_focus_dark.9.png
+1381241621000 1734 d24cbb8495ba7cdb1aea6dad9a386596a1d71df8 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/common_signin_btn_icon_disabled_focus_light.9.png
+1381241621000 2346 e6d7b7c339cf05562d64c8d58f8f4560de589510 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/common_signin_btn_icon_disabled_focus_dark.9.png
+1381241621000 1445 08570a1823425dd125811c86dc6535711ecba5c9 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/common_signin_btn_text_normal_light.9.png
+1381241621000 1840 d67076f608a590c1b6d54d9cd54cd6cf9bed8e97 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/common_signin_btn_text_disabled_light.9.png
+1381325067000 3295 3f0793103c62dae44ca9a2775e2cc8327e649cc6 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-zh-rTW/values.xml
+1381325067000 4005 e3015239b0f62930aec8943de602a8ffbe32e871 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-uk/values.xml
+1381241621000 3190 3fba56067cf4cb706bcf9ea580e84bf0017fac46 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/icn_video_96.png
+1381325066000 618 939a1bf1809429f227724ad16792a7cd41a54f7c /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/layout/main_list_fragment.xml
+1381241621000 2118 732ae83c1c0d371973e715ead6e499b0ec619c7d /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/common_signin_btn_text_focus_light.9.png
+1381326525000 1316 7c3aa2f5507bc96bf1fb16bb882edebdfdbcbd7e /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/layout/tab_host_activity.xml
+1381241622000 2840 ae4e3e46b2e170fea54e186bb0b86ec7ab0e696d /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/common_signin_btn_text_normal_light.9.png
+1381241622000 2320 d479e9be3d94cca0ef3d9bf5ef948505fa741a7f /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/common_signin_btn_icon_disabled_dark.9.png
+1381325067000 3436 d2317c654a8e61247a6e0e2959ede093f239da93 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-pt/values.xml
+1381241622000 2822 4c79d0f6bfe84ee3c1eb46a33985ef2b51ab52c1 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/common_signin_btn_icon_focus_light.9.png
+1381241622000 2292 c3f2fe9ca0c359a743970883c9b0be266a5ba9a2 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/common_signin_btn_icon_pressed_light.9.png
+1381325066000 359 edd770d2293aa98bd5500383aaa82b8258138ea7 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/menu/aarmain.xml
+1381325067000 3550 13763f2d26457e441bd4e1cb6b13aabde1b665dc /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-pt-rPT/values.xml
+1381325066000 3380 7f1acb718a99fb0a9a21557b2d7f9989d21c5326 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-sv/values.xml
+1381325067000 4665 83f6986d9913ea2c9ea9b86229ef3476d95975a5 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-hi/values.xml
+1381241621000 3283 cd797880e6159b6da919b9060b88bcdb02c83328 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/common_signin_btn_text_pressed_light.9.png
+1381325067000 3372 116ba68e3e905cda09eba3cf575d792fc5b1e5d9 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-nb/values.xml
+1381325066000 940 9b612597ad369e4ce2ca7bc4fbcf12eeb9a8c015 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/layout/android_ar_main.xml
+1381241621000 2920 8b0c81ff82d13f0d9d723a8c66f18594311fb843 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/icn_camera_96.png
+1381241622000 2346 e6d7b7c339cf05562d64c8d58f8f4560de589510 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/common_signin_btn_icon_disabled_focus_light.9.png
+1381241621000 1863 6265a7b8b153b31b2ec1106dbd0890e98e8a9ec2 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/common_signin_btn_text_disabled_focus_light.9.png
+1381241622000 2804 164c714e231991931719799e31f774d93b4a2fae /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/common_signin_btn_icon_normal_light.9.png
+1381325066000 4636 42f62bd6f86f39cb4d3ce6078bdd67b6db3234ac /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-th/values.xml
+1381325067000 3454 b9d1ca1216cc925d07207a850b20a88348f6b4c9 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-de/values.xml
+1381241622000 6544 df73c614212bdd19a17818cba92264e67ebe5cb3 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/ic_launcher.png
+1381325066000 3487 59b6815e0193634eba109c7629453828c9629f0e /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-tr/values.xml
+1381325067000 3472 84b27001393ce1e781ca64c7797cd5312de31b9f /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-lv/values.xml
+1381241621000 1439 745e68421585cf6b33bb27b850241e187e021519 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/common_signin_btn_text_focus_dark.9.png
+1381325066000 3596 ddad39578174190f50adf67322d3162378718278 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-fr/values.xml
+1381325067000 3327 e673e370d4139bb9aaa5c1258ec7246c1488a1a5 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-da/values.xml
+1381241622000 2812 42f0ac0c79874c2785b4a2b6df3d0745eb694492 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/common_signin_btn_icon_focus_dark.9.png
+1381325067000 3568 719e646b6dd0be02df09f195651c4e9fb2a1c2df /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-hu/values.xml
+1381241622000 1713 643a2049d96055e92614801b2a0baf8a0efe5c68 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/common_signin_btn_icon_disabled_light.9.png
+1381241621000 1283 be04e7fa91108522dae5bb9a0aa8c3777c375165 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/common_signin_btn_text_disabled_light.9.png
+1381241621000 1713 643a2049d96055e92614801b2a0baf8a0efe5c68 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/common_signin_btn_icon_disabled_dark.9.png
+1381325067000 3558 6104a1e30a96b29ac10bb58299f5aaee6bdbf8bb /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-ko/values.xml
+1381241621000 3852 8e7331231b9533a0f77b9497635cc6da8b4d7221 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/icn_magnetometer_96.png
+1381325066000 1020 9ac311ae5f6e9932edcf88dbc2fb4268722ae66e /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/color/common_signin_btn_text_dark.xml
+1381325066000 4164 db16e1ca7588c6025c72471688ed8fb710493d9a /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-bg/values.xml
+1381241622000 1997 b910320e91f4ec7f6d6b318f8fea6abb1128fb85 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/common_signin_btn_icon_normal_dark.9.png
+1381241622000 2097 04f3bbad9522cdc35032759e46c5b63829d6807e /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/common_signin_btn_text_normal_light.9.png
+1381241622000 1471 013f70e6b4803165b4ba844e104e0efc3c97423e /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/common_signin_btn_text_normal_dark.9.png
+1381241622000 11182 eef7a3b8645d9a0a8193737adf7fc1bfcfd866d0 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
+1381241622000 1495 2243a3236f540de126ae23badb43564116100503 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/common_signin_btn_icon_pressed_dark.9.png
+1381325067000 3986 c2620af218e2e7ccbe20a5a9f96b327539bf2999 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-sr/values.xml
+1381241621000 2846 adefb32c584f50c4a906877ffbc0276e2385f791 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/common_signin_btn_text_focus_light.9.png
+1381325067000 3411 25532981b4d68d80f551f39e5c27e2294927a7f2 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-nl/values.xml
+1381325067000 3444 a3c666e3e4e06f4a730e2e29ce9e2fa5ea371bde /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-hr/values.xml
+1381241622000 3067 81fd7110ea3755fa5c8ee0a91ba72e7aaf0e9a24 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-mdpi/ic_launcher.png
+1381325066000 1201 a36df547b3d0c7201336055ff733ac57aa874464 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/layout/loc_gps_fragment.xml
+1381241622000 2441 51b5ea330337d070658ee1e7fa56b4e143f30756 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/common_signin_btn_text_disabled_light.9.png
+1381325067000 4267 600f60e6bb43a4886f38afdf4cbae4b53b63365a /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-el/values.xml
+1381325067000 3440 58af93f70b322e4da46228f4c5bc5750ce571e65 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-pt-rBR/values.xml
+1381241622000 2006 a2c95d75abe36b14f47fc538327f0f1bd67e8cd3 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/common_signin_btn_icon_focus_light.9.png
+1381325066000 6733 ff1cd571b73039d263457bc31f42b7603c6bd230 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values/values.xml
+1381325067000 3869 fdc13250091941ef66a332cb0c9d12ab5279b2aa /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-ru/values.xml
+1381325066000 3363 b613be607ffe3be4733b58847a4e037caaa09caf /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-sl/values.xml
+1381325067000 3473 2de716dfe044c4ed86602b02f32dd6e2f7aea293 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-ms/values.xml
+1381325066000 328 20575d0de588102df9066dbbdd41cba8bc251846 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-v11/values.xml
+1381325067000 3373 2c2847aa031f49371c40651efde141efb9d3420d /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-it/values.xml
+1381325067000 3880 8b9d2561ed5117dedfce2e31404c7e634d1ac4cc /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-ja/values.xml
+1381325067000 3477 07cb42d831ce98ea4d1fafedf008f11564592181 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-lt/values.xml
+1381325067000 3401 89294b47bf071ec3250b219e8c417a3c3903a233 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-es-rUS/values.xml
+1381325067000 3541 b7c551ec4be8e91e9718019230037572b509ad56 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-es/values.xml
+1381241621000 2126 ff0fdbe4085debdd918551f8c0e21a84231347db /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/common_signin_btn_text_normal_dark.9.png
+1381241622000 1978 5aa405df2fef0ef974737b65a4240c52500647dd /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-hdpi/common_signin_btn_icon_normal_light.9.png
+1381325066000 1059 c144026291fa233c9f7b9a041f0fe734afef8250 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable/common_signin_btn_text_dark.xml
+1381325067000 3369 cd42d60cfcbe7eb077806dc92bf16d8110b84bfd /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/values-et/values.xml
+1381241621000 3122 6c43568bc66e8300fcf04721fb76442cd702fcac /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/res/all/debug/drawable-xhdpi/common_signin_btn_text_pressed_dark.9.png

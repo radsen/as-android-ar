@@ -35,6 +35,8 @@ public class AARMapFragment extends Fragment implements View.OnClickListener{
     SupportMapFragment supportMapFragment;
     GoogleMap mMap = null;
 
+    private LocationGps mGps;
+
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)
     {
@@ -51,6 +53,14 @@ public class AARMapFragment extends Fragment implements View.OnClickListener{
         mMap = supportMapFragment.getMap();
 
         return relativeLayout;
+    }
+
+    @Override
+    public void onActivityCreated(Bundle savedInstanceState){
+        super.onActivityCreated(savedInstanceState);
+
+        AARLocationActivity activity = (AARLocationActivity) getActivity();
+        setLocation(activity.getLocationFromGps().getLocation());
     }
 
     @Override
@@ -71,7 +81,7 @@ public class AARMapFragment extends Fragment implements View.OnClickListener{
         }
     }
 
-    public void setLocation(Location location){
+    private void setLocation(Location location){
         LatLng latLng = new LatLng(location.getLatitude(), location.getLongitude());
 
         Geocoder geocoder = new Geocoder(getActivity());

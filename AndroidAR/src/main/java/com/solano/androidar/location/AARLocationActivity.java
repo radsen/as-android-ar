@@ -38,6 +38,7 @@ public class AARLocationActivity extends AARTabActivity implements TabHost.OnTab
         FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
         fragmentTransaction.add(android.R.id.tabcontent, locationFragment);
         fragmentTransaction.add(android.R.id.tabcontent, mapFragment);
+        showFragment(0);
 
         addTab(createTabSpec(getString(R.string.th_loc_01), locationFragment.getId()));
         addTab(createTabSpec(getString(R.string.th_map_02), mapFragment.getId()));
@@ -71,4 +72,7 @@ public class AARLocationActivity extends AARTabActivity implements TabHost.OnTab
         ft.commit();
     }
 
+    public LocationGps getLocationFromGps(){
+        return mGps;
+    }
 }

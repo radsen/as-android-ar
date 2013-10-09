@@ -2,6 +2,7 @@ package com.solano.androidar.location;
 
 import com.solano.androidar.R;
 
+import android.app.Activity;
 import android.nfc.Tag;
 import android.os.Bundle;
 import android.util.Log;
@@ -31,12 +32,19 @@ public class AARLocationFragment extends Fragment{
         tvLocTitle = (TextView) relativeLayout.findViewById(R.id.tvLocTitle);
         tvLocDesc = (TextView) relativeLayout.findViewById(R.id.tvLocDescription);
 
-        Log.d(TAG, "Title: " + tvLocTitle.toString() + " Description: " + tvLocDesc.toString());
-
         return relativeLayout;
     }
 
-    public void setLocation(Location location){
+    @Override
+    public void onActivityCreated(Bundle savedInstanceState){
+        super.onActivityCreated(savedInstanceState);
+        Log.d(TAG, "Activity: " + getActivity().toString());
+
+        AARLocationActivity activity = (AARLocationActivity) getActivity();
+        setLocation(activity.getLocationFromGps().getLocation());
+    }
+
+    private void setLocation(Location location){
         tvLocTitle.setText("First View");
         tvLocDesc.setText(String.format("Latitude: %f, Longitude: %f", location.getLatitude(), location.getLongitude()));
     }
