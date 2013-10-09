@@ -16,21 +16,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d26ac188-32ef-4a3c-9a33-604741a22469" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/sensors/AARSensorAccelFragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/sensors/AARSensorsActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/AARTabActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AndroidAR/src/main/res/layout/sensor_accel_fragment.xml" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/layout/loc_srv_activity.xml" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/AndroidAR/src/main/res/layout/loc_srv_activity.xml" afterPath="$PROJECT_DIR$/AndroidAR/src/main/res/layout/tab_host_activity.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/classes.jar" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/classes.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/location/AARLocationActivity.java" afterPath="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/location/AARLocationActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/location/AARLocationFragment.java" afterPath="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/location/AARLocationFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/AARMainActivity.java" afterPath="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/AARMainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/AARMainListFragment.java" afterPath="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/AARMainListFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/utils/AARMainMenu.java" afterPath="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/utils/AARMainMenu.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/location/AARMapFragment.java" afterPath="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/location/AARMapFragment.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/AndroidAR.iml" afterPath="$PROJECT_DIR$/AndroidAR/AndroidAR.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidAR/src/main/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/Gms.iml" afterPath="$PROJECT_DIR$/Gms/Gms.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/source/r/debug/com/solano/androidar/R.java" afterPath="$PROJECT_DIR$/AndroidAR/build/source/r/debug/com/solano/androidar/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/source/r/debug/com/google/android/gms/R.java" afterPath="$PROJECT_DIR$/Gms/build/source/r/debug/com/google/android/gms/R.java" />
@@ -68,7 +56,8 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/layout/loc_map_fragment.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/layout/loc_map_fragment.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/layout/main_list_fragment.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/layout/main_list_fragment.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/AndroidAR/src/main/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/layout/sensor_accel_fragment.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/layout/sensor_accel_fragment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/layout/tab_host_activity.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/layout/tab_host_activity.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values/values.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-af/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-af/values.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-am/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-am/values.xml" />
@@ -295,6 +284,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -332,7 +322,6 @@
       </breakpoint>
     </breakpoint_any>
     <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -342,15 +331,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="AARMapFragment.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="AARMapFragment.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/location/AARMapFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="120" column="0" selection-start="4124" selection-end="4124" vertical-scroll-proportion="0.7076023" vertical-offset="1092" max-vertical-offset="1605">
-              <folding>
-                <element signature="e#2210#2244#0" expanded="true" />
-                <element signature="e#2357#2391#0" expanded="true" />
-                <element signature="e#2507#2541#0" expanded="true" />
-              </folding>
+            <state line="76" column="0" selection-start="2802" selection-end="2802" vertical-scroll-proportion="0.0" vertical-offset="610" max-vertical-offset="1605">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -358,11 +343,8 @@
       <file leaf-file-name="AARSensorsActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/sensors/AARSensorsActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="0" selection-start="1138" selection-end="1138" vertical-scroll-proportion="0.0" vertical-offset="184" max-vertical-offset="765">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#938#971#0" expanded="true" />
-              </folding>
+            <state line="35" column="0" selection-start="1138" selection-end="1138" vertical-scroll-proportion="0.0" vertical-offset="525" max-vertical-offset="675">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -371,9 +353,7 @@
         <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/location/AARLocationFragment.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="33" column="96" selection-start="1038" selection-end="1126" vertical-scroll-proportion="0.0" vertical-offset="132" max-vertical-offset="735">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -382,17 +362,15 @@
         <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/AARTabActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="26" column="0" selection-start="687" selection-end="687" vertical-scroll-proportion="0.0" vertical-offset="207" max-vertical-offset="720">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AARLocationActivity.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="AARLocationActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/location/AARLocationActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="0" selection-start="1336" selection-end="1336" vertical-scroll-proportion="0.0" vertical-offset="132" max-vertical-offset="1065">
+            <state line="66" column="65" selection-start="2152" selection-end="2152" vertical-scroll-proportion="1.0" vertical-offset="298" max-vertical-offset="1065">
               <folding>
                 <element signature="e#1366#1395#0" expanded="true" />
                 <element signature="e#1454#1483#0" expanded="true" />
@@ -1114,7 +1092,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="1380814221000" />
+        <entry key="$PROJECT_DIR$" value="1374722917000" />
       </map>
     </option>
   </component>
@@ -1135,8 +1113,8 @@
         <option value="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/sensors/AARSensorsActivity.java" />
         <option value="$PROJECT_DIR$/AndroidAR/src/main/res/layout/tab_host_activity.xml" />
         <option value="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/location/AARLocationFragment.java" />
-        <option value="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/location/AARLocationActivity.java" />
         <option value="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/location/AARMapFragment.java" />
+        <option value="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/location/AARLocationActivity.java" />
       </list>
     </option>
   </component>
@@ -1146,7 +1124,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1440" />
-    <option name="height" value="816" />
+    <option name="height" value="874" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -1179,25 +1157,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Default">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-        <subPane subId="Problems" />
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1472,6 +1431,25 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope">
+        <subPane subId="Default">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="Problems" />
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="PackagesPane">
         <subPane>
           <PATH>
@@ -1501,7 +1479,7 @@
     <property name="options.searchVisible" value="true" />
     <property name="recentsLimit" value="5" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="eb11ae93" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Android7" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Android_Device_1" />
     <property name="FullScreen" value="false" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -1553,19 +1531,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -1591,6 +1556,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -1726,34 +1704,34 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="816" extended-state="6" />
+    <frame x="0" y="22" width="1440" height="874" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32777777" sideWeight="0.7503467" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32871014" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39889196" sideWeight="0.5143472" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32228118" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2496361" sideWeight="0.28648648" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32871014" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24965326" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24903722" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969433" sideWeight="0.67027026" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2496361" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969433" sideWeight="0.67027026" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24583334" sideWeight="0.7503467" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24583334" sideWeight="0.7509628" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3259362" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32777777" sideWeight="0.7503467" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32871014" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1863,48 +1841,37 @@
     <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/location/AARLocationFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="96" selection-start="1038" selection-end="1126" vertical-scroll-proportion="0.0" vertical-offset="132" max-vertical-offset="735">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/sensors/AARSensorsActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="35" column="0" selection-start="1138" selection-end="1138" vertical-scroll-proportion="0.0" vertical-offset="184" max-vertical-offset="765">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#938#971#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/AARTabActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="0" selection-start="687" selection-end="687" vertical-scroll-proportion="0.0" vertical-offset="207" max-vertical-offset="720">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/location/AARLocationActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="0" selection-start="1336" selection-end="1336" vertical-scroll-proportion="0.0" vertical-offset="132" max-vertical-offset="1065">
-          <folding>
-            <element signature="e#1366#1395#0" expanded="true" />
-            <element signature="e#1454#1483#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/location/AARMapFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="120" column="0" selection-start="4124" selection-end="4124" vertical-scroll-proportion="0.7076023" vertical-offset="1092" max-vertical-offset="1605">
+        <state line="76" column="0" selection-start="2802" selection-end="2802" vertical-scroll-proportion="0.0" vertical-offset="610" max-vertical-offset="1605">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/location/AARLocationActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="65" selection-start="2152" selection-end="2152" vertical-scroll-proportion="1.0" vertical-offset="298" max-vertical-offset="1065">
           <folding>
-            <element signature="e#2210#2244#0" expanded="true" />
-            <element signature="e#2357#2391#0" expanded="true" />
-            <element signature="e#2507#2541#0" expanded="true" />
+            <element signature="e#1366#1395#0" expanded="true" />
+            <element signature="e#1454#1483#0" expanded="true" />
           </folding>
         </state>
       </provider>
