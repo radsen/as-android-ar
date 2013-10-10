@@ -16,254 +16,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d26ac188-32ef-4a3c-9a33-604741a22469" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/sensors/AARSensorGyroFragment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AndroidAR/src/main/res/layout/sensor_gyro_fragment.xml" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/layout/loc_srv_activity.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/classes.jar" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/classes.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/location/AARLocationActivity.java" afterPath="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/location/AARLocationActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/location/AARLocationFragment.java" afterPath="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/location/AARLocationFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/location/AARMapFragment.java" afterPath="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/location/AARMapFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/AndroidAR.iml" afterPath="$PROJECT_DIR$/AndroidAR/AndroidAR.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/Gms.iml" afterPath="$PROJECT_DIR$/Gms/Gms.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/source/r/debug/com/solano/androidar/R.java" afterPath="$PROJECT_DIR$/AndroidAR/build/source/r/debug/com/solano/androidar/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/source/r/debug/com/google/android/gms/R.java" afterPath="$PROJECT_DIR$/Gms/build/source/r/debug/com/google/android/gms/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/source/r/release/com/google/android/gms/R.java" afterPath="$PROJECT_DIR$/Gms/build/source/r/release/com/google/android/gms/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/menu/aarmain.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/menu/aarmain.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/layout/android_ar_main.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/layout/android_ar_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable/common_signin_btn_icon_dark.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable/common_signin_btn_icon_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/drawable/common_signin_btn_icon_dark.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/drawable/common_signin_btn_icon_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/drawable/common_signin_btn_icon_dark.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/drawable/common_signin_btn_icon_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/drawable/common_signin_btn_icon_dark.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/drawable/common_signin_btn_icon_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable/common_signin_btn_icon_light.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable/common_signin_btn_icon_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/drawable/common_signin_btn_icon_light.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/drawable/common_signin_btn_icon_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/drawable/common_signin_btn_icon_light.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/drawable/common_signin_btn_icon_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/drawable/common_signin_btn_icon_light.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/drawable/common_signin_btn_icon_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/color/common_signin_btn_text_dark.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/color/common_signin_btn_text_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable/common_signin_btn_text_dark.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable/common_signin_btn_text_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/color/common_signin_btn_text_dark.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/color/common_signin_btn_text_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/drawable/common_signin_btn_text_dark.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/drawable/common_signin_btn_text_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/color/common_signin_btn_text_dark.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/color/common_signin_btn_text_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/drawable/common_signin_btn_text_dark.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/drawable/common_signin_btn_text_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/color/common_signin_btn_text_dark.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/color/common_signin_btn_text_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/drawable/common_signin_btn_text_dark.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/drawable/common_signin_btn_text_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/color/common_signin_btn_text_light.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/color/common_signin_btn_text_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable/common_signin_btn_text_light.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/drawable/common_signin_btn_text_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/color/common_signin_btn_text_light.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/color/common_signin_btn_text_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/drawable/common_signin_btn_text_light.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/drawable/common_signin_btn_text_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/color/common_signin_btn_text_light.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/color/common_signin_btn_text_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/drawable/common_signin_btn_text_light.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/drawable/common_signin_btn_text_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/color/common_signin_btn_text_light.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/color/common_signin_btn_text_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/drawable/common_signin_btn_text_light.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/drawable/common_signin_btn_text_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/layout/hardware.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/layout/hardware.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/layout/hardware_item.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/layout/hardware_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/layout/hw_tester_fragment.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/layout/hw_tester_fragment.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/layout/loc_gps_fragment.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/layout/loc_gps_fragment.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/layout/loc_map_fragment.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/layout/loc_map_fragment.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/layout/main_list_fragment.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/layout/main_list_fragment.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/layout/sensor_accel_fragment.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/layout/sensor_accel_fragment.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/layout/tab_host_activity.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/layout/tab_host_activity.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/src/main/res/layout/tab_host_activity.xml" afterPath="$PROJECT_DIR$/AndroidAR/src/main/res/layout/tab_host_activity.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-af/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-af/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-am/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-am/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ar/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ar/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-be/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-be/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-bg/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-bg/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ca/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ca/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-cs/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-cs/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-da/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-da/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-de/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-de/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-el/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-el/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-en-rGB/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-en-rGB/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-es/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-es/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-es-rUS/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-es-rUS/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-et/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-et/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-fa/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-fa/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-fi/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-fi/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-fr/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-fr/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-hi/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-hi/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-hr/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-hr/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-hu/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-hu/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-in/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-in/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-it/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-it/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-iw/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-iw/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ja/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ja/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ko/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ko/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-lt/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-lt/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-lv/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-lv/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ms/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ms/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-nb/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-nb/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-nl/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-nl/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-pl/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-pl/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-pt/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-pt/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-pt-rBR/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-pt-rBR/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-pt-rPT/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-pt-rPT/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ro/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ro/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ru/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-ru/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-sk/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-sk/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-sl/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-sl/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-sr/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-sr/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-sv/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-sv/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-sw/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-sw/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-th/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-th/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-tl/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-tl/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-tr/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-tr/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-uk/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-uk/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-vi/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-vi/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-zh-rCN/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-zh-rCN/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-zh-rTW/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-zh-rTW/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-zu/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/res/values-zu/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-af/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-af/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-am/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-am/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-ar/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-ar/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-be/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-be/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-bg/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-bg/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-ca/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-ca/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-cs/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-cs/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-da/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-da/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-de/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-de/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-el/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-el/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-en-rGB/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-en-rGB/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-es/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-es/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-es-rUS/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-es-rUS/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-et/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-et/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-fa/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-fa/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-fi/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-fi/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-fr/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-fr/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-hi/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-hi/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-hr/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-hr/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-hu/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-hu/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-in/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-in/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-it/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-it/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-iw/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-iw/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-ja/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-ja/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-ko/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-ko/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-lt/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-lt/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-lv/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-lv/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-ms/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-ms/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-nb/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-nb/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-nl/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-nl/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-pl/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-pl/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-pt/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-pt/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-pt-rBR/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-pt-rBR/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-pt-rPT/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-pt-rPT/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-ro/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-ro/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-ru/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-ru/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-sk/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-sk/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-sl/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-sl/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-sr/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-sr/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-sv/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-sv/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-sw/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-sw/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-sw720dp-land/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-sw720dp-land/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-th/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-th/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-tl/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-tl/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-tr/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-tr/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-uk/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-uk/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-v11/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-v11/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-v14/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-v14/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-vi/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-vi/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-zh-rCN/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-zh-rCN/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-zh-rTW/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-zh-rTW/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-zu/values.xml" afterPath="$PROJECT_DIR$/AndroidAR/build/res/all/debug/values-zu/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-af/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-af/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-am/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-am/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-ar/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-ar/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-be/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-be/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-bg/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-bg/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-ca/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-ca/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-cs/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-cs/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-da/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-da/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-de/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-de/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-el/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-el/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-en-rGB/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-en-rGB/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-es/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-es/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-es-rUS/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-es-rUS/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-et/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-et/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-fa/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-fa/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-fi/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-fi/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-fr/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-fr/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-hi/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-hi/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-hr/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-hr/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-hu/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-hu/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-in/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-in/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-it/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-it/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-iw/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-iw/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-ja/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-ja/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-ko/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-ko/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-lt/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-lt/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-lv/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-lv/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-ms/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-ms/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-nb/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-nb/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-nl/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-nl/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-pl/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-pl/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-pt/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-pt/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-pt-rBR/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-pt-rBR/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-pt-rPT/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-pt-rPT/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-ro/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-ro/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-ru/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-ru/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-sk/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-sk/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-sl/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-sl/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-sr/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-sr/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-sv/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-sv/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-sw/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-sw/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-th/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-th/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-tl/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-tl/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-tr/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-tr/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-uk/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-uk/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-vi/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-vi/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-zh-rCN/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-zh-rCN/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-zh-rTW/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-zh-rTW/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/debug/values-zu/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/debug/values-zu/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-af/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-af/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-am/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-am/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-ar/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-ar/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-be/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-be/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-bg/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-bg/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-ca/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-ca/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-cs/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-cs/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-da/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-da/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-de/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-de/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-el/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-el/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-en-rGB/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-en-rGB/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-es/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-es/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-es-rUS/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-es-rUS/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-et/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-et/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-fa/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-fa/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-fi/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-fi/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-fr/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-fr/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-hi/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-hi/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-hr/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-hr/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-hu/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-hu/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-in/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-in/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-it/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-it/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-iw/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-iw/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-ja/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-ja/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-ko/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-ko/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-lt/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-lt/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-lv/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-lv/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-ms/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-ms/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-nb/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-nb/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-nl/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-nl/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-pl/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-pl/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-pt/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-pt/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-pt-rBR/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-pt-rBR/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-pt-rPT/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-pt-rPT/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-ro/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-ro/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-ru/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-ru/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-sk/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-sk/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-sl/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-sl/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-sr/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-sr/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-sv/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-sv/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-sw/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-sw/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-th/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-th/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-tl/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-tl/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-tr/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-tr/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-uk/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-uk/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-vi/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-vi/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-zh-rCN/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-zh-rCN/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-zh-rTW/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-zh-rTW/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gms/build/res/all/release/values-zu/values.xml" afterPath="$PROJECT_DIR$/Gms/build/res/all/release/values-zu/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/AARMainActivity.java" afterPath="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/AARMainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/sensors/AARSensorAccelFragment.java" afterPath="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/sensors/AARSensorAccelFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/sensors/AARSensorsActivity.java" afterPath="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/sensors/AARSensorsActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidAR/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/AndroidAR/src/main/res/values/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="AndroidAR.iws" />
@@ -287,8 +46,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -325,6 +82,8 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -334,65 +93,69 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="AARMapFragment.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/location/AARMapFragment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="62" column="65" selection-start="2169" selection-end="2302" vertical-scroll-proportion="0.0" vertical-offset="387" max-vertical-offset="1755">
-              <folding>
-                <element signature="e#2520#2554#0" expanded="true" />
-                <element signature="e#2667#2701#0" expanded="true" />
-                <element signature="e#2817#2851#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="AARSensorsActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/sensors/AARSensorsActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="0" selection-start="1138" selection-end="1138" vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="585">
+            <state line="89" column="8" selection-start="2873" selection-end="2873" vertical-scroll-proportion="0.0" vertical-offset="477" max-vertical-offset="1485">
               <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#938#971#0" expanded="false" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#1791#1824#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AARLocationFragment.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/location/AARLocationFragment.java">
+      <file leaf-file-name="sensor_gyro_fragment.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/res/layout/sensor_gyro_fragment.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="82" selection-start="1057" selection-end="1057" vertical-scroll-proportion="0.26900584" vertical-offset="162" max-vertical-offset="675">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AARTabActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/AARTabActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="0" selection-start="687" selection-end="687" vertical-scroll-proportion="0.0" vertical-offset="207" max-vertical-offset="720">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AARLocationActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/location/AARLocationActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="73" column="0" selection-start="2239" selection-end="2239" vertical-scroll-proportion="0.0" vertical-offset="567" max-vertical-offset="1125">
+            <state line="54" column="40" selection-start="2131" selection-end="2131" vertical-scroll-proportion="-27.777779" vertical-offset="60" max-vertical-offset="1110">
               <folding>
-                <element signature="e#1391#1420#0" expanded="true" />
-                <element signature="e#1479#1508#0" expanded="true" />
+                <element signature="e#762#791#0" expanded="true" />
+                <element signature="e#1562#1593#0" expanded="true" />
+                <element signature="e#2369#2399#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AARSensorGyroFragment.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/sensors/AARSensorGyroFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="102" selection-start="586" selection-end="586" vertical-scroll-proportion="0.5263158" vertical-offset="0" max-vertical-offset="513">
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tab_host_activity.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/res/layout/tab_host_activity.xml">
+      <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="454" selection-end="454" vertical-scroll-proportion="-3.5555556" vertical-offset="84" max-vertical-offset="585">
+            <state line="0" column="38" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AARSensorAccelFragment.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/sensors/AARSensorAccelFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="123" selection-start="812" selection-end="927" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="915">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sensor_accel_fragment.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/res/layout/sensor_accel_fragment.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="66" column="44" selection-start="198" selection-end="2588" vertical-scroll-proportion="-16.333334" vertical-offset="549" max-vertical-offset="1095">
               <folding />
             </state>
           </provider>
@@ -1121,22 +884,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/AndroidAR/build.gradle" />
-        <option value="$PROJECT_DIR$/AndroidAR/src/main/res/layout/loc_map_fragment.xml" />
         <option value="$PROJECT_DIR$/AndroidAR/src/main/res/layout/loc_srv_activity.xml" />
         <option value="$PROJECT_DIR$/AndroidAR/src/main/res/layout/sensor_accel_fragment.xml" />
-        <option value="$PROJECT_DIR$/AndroidAR/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/AARMainListFragment.java" />
         <option value="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/utils/AARMainMenu.java" />
-        <option value="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/AARMainActivity.java" />
         <option value="$PROJECT_DIR$/AndroidAR/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/sensors/AARSensorAccelFragment.java" />
         <option value="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/AARTabActivity.java" />
-        <option value="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/sensors/AARSensorsActivity.java" />
         <option value="$PROJECT_DIR$/AndroidAR/src/main/res/layout/tab_host_activity.xml" />
         <option value="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/location/AARLocationActivity.java" />
         <option value="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/location/AARMapFragment.java" />
         <option value="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/location/AARLocationFragment.java" />
+        <option value="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/AARMainActivity.java" />
+        <option value="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/sensors/AARSensorAccelFragment.java" />
+        <option value="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/sensors/AARSensorsActivity.java" />
+        <option value="$PROJECT_DIR$/AndroidAR/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/AndroidAR/src/main/res/layout/sensor_gyro_fragment.xml" />
+        <option value="$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/sensors/AARSensorGyroFragment.java" />
       </list>
     </option>
   </component>
@@ -1179,6 +942,39 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AndroidAR" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AndroidAR" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Default">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="Problems" />
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1453,39 +1249,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AndroidAR" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AndroidAR" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Default">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-        <subPane subId="Problems" />
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1553,6 +1316,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -1578,19 +1354,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -1726,7 +1489,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="816" extended-state="0" />
+    <frame x="0" y="22" width="1440" height="816" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1774,36 +1537,9 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/res/layout/loc_map_fragment.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="7" selection-start="1414" selection-end="1414" vertical-scroll-proportion="0.0" vertical-offset="615" max-vertical-offset="705">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/sdk/platforms/android-17/android.jar!/android/widget/TextView.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="289" column="34" selection-start="11859" selection-end="11859" vertical-scroll-proportion="0.0" vertical-offset="4189" max-vertical-offset="7890" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/ic_launcher-web.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/AARMainListFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="0" selection-start="710" selection-end="710" vertical-scroll-proportion="0.46783626" vertical-offset="0" max-vertical-offset="870">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/AARMainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="79" selection-start="1466" selection-end="1466" vertical-scroll-proportion="0.90643275" vertical-offset="0" max-vertical-offset="750">
           <folding />
         </state>
       </provider>
@@ -1824,32 +1560,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/res/layout/sensor_accel_fragment.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="43" selection-start="1659" selection-end="1659" vertical-scroll-proportion="1.0" vertical-offset="144" max-vertical-offset="1095">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="47" selection-start="549" selection-end="549" vertical-scroll-proportion="0.46783626" vertical-offset="0" max-vertical-offset="513">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/sensors/AARSensorAccelFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="5" selection-start="678" selection-end="678" vertical-scroll-proportion="0.64327484" vertical-offset="0" max-vertical-offset="513">
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/AARTabActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="0" selection-start="687" selection-end="687" vertical-scroll-proportion="0.0" vertical-offset="207" max-vertical-offset="720">
@@ -1857,19 +1567,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/sensors/AARSensorsActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="0" selection-start="1138" selection-end="1138" vertical-scroll-proportion="0.0" vertical-offset="184" max-vertical-offset="765">
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#938#971#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/res/layout/tab_host_activity.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="454" selection-end="454" vertical-scroll-proportion="-3.5555556" vertical-offset="84" max-vertical-offset="585">
+        <state line="12" column="0" selection-start="454" selection-end="454" vertical-scroll-proportion="0.0" vertical-offset="84" max-vertical-offset="585">
           <folding />
         </state>
       </provider>
@@ -1880,28 +1580,94 @@
     <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/location/AARLocationActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="73" column="0" selection-start="2239" selection-end="2239" vertical-scroll-proportion="0.0" vertical-offset="567" max-vertical-offset="1125">
-          <folding>
-            <element signature="e#1391#1420#0" expanded="true" />
-            <element signature="e#1479#1508#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/location/AARMapFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="65" selection-start="2169" selection-end="2302" vertical-scroll-proportion="0.0" vertical-offset="387" max-vertical-offset="1755">
-          <folding>
-            <element signature="e#2520#2554#0" expanded="true" />
-            <element signature="e#2667#2701#0" expanded="true" />
-            <element signature="e#2817#2851#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/location/AARLocationFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="82" selection-start="1057" selection-end="1057" vertical-scroll-proportion="0.26900584" vertical-offset="162" max-vertical-offset="675">
+        <state line="32" column="82" selection-start="1057" selection-end="1057" vertical-scroll-proportion="0.5847953" vertical-offset="0" max-vertical-offset="675">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/location/AARMapFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="65" selection-start="2169" selection-end="2302" vertical-scroll-proportion="0.76608187" vertical-offset="192" max-vertical-offset="1755">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/utils/AARValidationHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="41" selection-start="172" selection-end="191" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/AARMainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="47" selection-start="104" selection-end="104" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="900">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/res/layout/sensor_accel_fragment.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="44" selection-start="198" selection-end="2588" vertical-scroll-proportion="-16.333334" vertical-offset="549" max-vertical-offset="1095">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="38" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/sensors/AARSensorAccelFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="123" selection-start="812" selection-end="927" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="915">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/res/layout/sensor_gyro_fragment.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="40" selection-start="2131" selection-end="2131" vertical-scroll-proportion="-27.777779" vertical-offset="60" max-vertical-offset="1110">
+          <folding>
+            <element signature="e#762#791#0" expanded="true" />
+            <element signature="e#1562#1593#0" expanded="true" />
+            <element signature="e#2369#2399#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/sensors/AARSensorsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="89" column="8" selection-start="2873" selection-end="2873" vertical-scroll-proportion="0.0" vertical-offset="477" max-vertical-offset="1485">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1791#1824#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidAR/src/main/java/com/solano/androidar/sensors/AARSensorGyroFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="102" selection-start="586" selection-end="586" vertical-scroll-proportion="0.5263158" vertical-offset="0" max-vertical-offset="513">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
