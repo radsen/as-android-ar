@@ -176,14 +176,15 @@ containing a value of this type.
         public static final int common_signin_btn_text_normal_light=0x7f020015;
         public static final int common_signin_btn_text_pressed_dark=0x7f020016;
         public static final int common_signin_btn_text_pressed_light=0x7f020017;
-        public static final int ic_launcher=0x7f020018;
-        public static final int icn_audio_96=0x7f020019;
-        public static final int icn_camera_96=0x7f02001a;
-        public static final int icn_magnetometer_96=0x7f02001b;
-        public static final int icn_video_96=0x7f02001c;
+        public static final int ic_figher_jet=0x7f020018;
+        public static final int ic_launcher=0x7f020019;
+        public static final int icn_audio_96=0x7f02001a;
+        public static final int icn_camera_96=0x7f02001b;
+        public static final int icn_magnetometer_96=0x7f02001c;
+        public static final int icn_video_96=0x7f02001d;
     }
     public static final class id {
-        public static final int action_settings=0x7f050019;
+        public static final int action_settings=0x7f050023;
         public static final int btnHybrid=0x7f050010;
         public static final int btnSatellite=0x7f05000f;
         public static final int btnStandard=0x7f05000e;
@@ -191,22 +192,32 @@ containing a value of this type.
         public static final int gridView=0x7f050006;
         public static final int hw_fragment=0x7f050009;
         public static final int hybrid=0x7f050004;
+        public static final int imageView=0x7f050021;
         public static final int ivwHwItem=0x7f050007;
         public static final int llSegBarMapViews=0x7f05000d;
         public static final int mainListView=0x7f050011;
         public static final int map=0x7f05000c;
         public static final int none=0x7f050000;
         public static final int normal=0x7f050001;
+        public static final int pbPitch=0x7f05001a;
+        public static final int pbRoll=0x7f05001c;
         public static final int pbXAxis=0x7f050016;
         public static final int pbYAxis=0x7f050014;
+        public static final int pbYaw=0x7f050018;
         public static final int pbZAxis=0x7f050012;
         public static final int satellite=0x7f050002;
-        public static final int tabHost=0x7f050018;
+        public static final int tabHost=0x7f050022;
         public static final int terrain=0x7f050003;
         public static final int tvLocDescription=0x7f05000b;
         public static final int tvLocTitle=0x7f05000a;
+        public static final int tvPitch=0x7f05001b;
+        public static final int tvPitchVal=0x7f05001f;
+        public static final int tvRoll=0x7f05001d;
+        public static final int tvRollVal=0x7f05001e;
         public static final int tvXAxis=0x7f050017;
         public static final int tvYAxis=0x7f050015;
+        public static final int tvYaw=0x7f050019;
+        public static final int tvYawVal=0x7f050020;
         public static final int tvZAxis=0x7f050013;
         public static final int tvwHwItem=0x7f050008;
     }
@@ -219,7 +230,8 @@ containing a value of this type.
         public static final int loc_map_fragment=0x7f030005;
         public static final int main_list_fragment=0x7f030006;
         public static final int sensor_accel_fragment=0x7f030007;
-        public static final int tab_host_activity=0x7f030008;
+        public static final int sensor_gyro_fragment=0x7f030008;
+        public static final int tab_host_activity=0x7f030009;
     }
     public static final class menu {
         public static final int aarmain=0x7f090000;
@@ -309,12 +321,15 @@ containing a value of this type.
         public static final int sb_btn_txt_hyd=0x7f07001a;
         public static final int sb_btn_txt_sat=0x7f07001b;
         public static final int sb_btn_txt_std=0x7f07001c;
-        public static final int sensor_tab_01=0x7f07001d;
-        public static final int sensor_tab_02=0x7f07001e;
-        public static final int sensor_tab_03=0x7f07001f;
-        public static final int th_loc_01=0x7f070020;
-        public static final int th_map_02=0x7f070021;
-        public static final int tv_default=0x7f070022;
+        public static final int sensor_gyro_txt_pitch=0x7f07001d;
+        public static final int sensor_gyro_txt_roll=0x7f07001e;
+        public static final int sensor_gyro_txt_yaw=0x7f07001f;
+        public static final int sensor_tab_01=0x7f070020;
+        public static final int sensor_tab_02=0x7f070021;
+        public static final int sensor_tab_03=0x7f070022;
+        public static final int th_loc_01=0x7f070023;
+        public static final int th_map_02=0x7f070024;
+        public static final int tv_default=0x7f070025;
     }
     public static final class style {
         /**  From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/src/main/res/values/styles.xml 

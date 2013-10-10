@@ -104,4 +104,4 @@
         android:layout_above="@+id/tvRoll"
         android:layout_alignParentTop="true" />
 
-</RelativeLayout>
+</RelativeLayout><!-- From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/src/main/res/layout/sensor_gyro_fragment.xml -->

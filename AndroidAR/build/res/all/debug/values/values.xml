@@ -70,6 +70,9 @@
     <string name="sb_btn_txt_hyd">Hybrid</string>
     <string name="sb_btn_txt_sat">Satellite</string>
     <string name="sb_btn_txt_std">Standard</string>
+    <string name="sensor_gyro_txt_pitch">Pitch</string>
+    <string name="sensor_gyro_txt_roll">Roll</string>
+    <string name="sensor_gyro_txt_yaw">Yaw</string>
     <string name="sensor_tab_01">First</string>
     <string name="sensor_tab_02">Second</string>
     <string name="sensor_tab_03">Third</string>

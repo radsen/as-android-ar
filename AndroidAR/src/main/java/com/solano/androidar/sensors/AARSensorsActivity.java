@@ -24,9 +24,11 @@ public class AARSensorsActivity extends AARTabActivity implements TabHost.OnTabC
 
     private SensorManager sensorManager;
     private Sensor accelerometer;
+    private Sensor gyroscope;
 
     private FragmentManager fragmentManager;
     private AARSensorAccelFragment accelFragment;
+    private AARSensorGyroFragment gyroFragment;
 
     @Override
     public void onCreate(Bundle savedInstanceState){
@@ -40,21 +42,34 @@ public class AARSensorsActivity extends AARTabActivity implements TabHost.OnTabC
             // No accelerometer was found, bad news you need a newer phone.
         }
 
+        if (AARValidationHelper.isSensorAvailable(this, Sensor.TYPE_GYROSCOPE)){
+            gyroscope = sensorManager.getDefaultSensor(Sensor.TYPE_GYROSCOPE);
+        }else{
+            // No accelerometer was found, bad news you need a newer phone.
+        }
+
         accelFragment = new AARSensorAccelFragment();
+        gyroFragment = new AARSensorGyroFragment();
 
         fragmentManager = getSupportFragmentManager();
-        FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
-        fragmentTransaction.add(android.R.id.tabcontent, accelFragment);
-        fragmentTransaction.commit();
+        FragmentTransaction ft = fragmentManager.beginTransaction();
+        ft.add(android.R.id.tabcontent, accelFragment);
+        ft.add(android.R.id.tabcontent, gyroFragment);
 
         // Creates the accelerometer tab
         addTab(createTabSpec(getString(R.string.sensor_tab_01), accelFragment.getId()));
+        // Creates the gyroscope tab
+        addTab(createTabSpec(getString(R.string.sensor_tab_02), gyroFragment.getId()));
+        setOnTabChangedListener(this);
+
+        showFragment(0);
     }
 
     @Override
     public void onResume(){
         super.onResume();
         sensorManager.registerListener(this, accelerometer, SensorManager.SENSOR_DELAY_NORMAL);
+        sensorManager.registerListener(this, gyroscope, SensorManager.SENSOR_DELAY_NORMAL);
     }
 
     @Override
@@ -65,13 +80,7 @@ public class AARSensorsActivity extends AARTabActivity implements TabHost.OnTabC
 
     @Override
     public void onTabChanged(String tabId){
-        FragmentTransaction ft = fragmentManager.beginTransaction();
-
-        if(getCurrentTab() == 0){
-            ft.replace(android.R.id.tabcontent, accelFragment);
-        }else if(getCurrentTab() == 1){
-
-        }
+        showFragment(getCurrentTab());
     }
 
     @Override
@@ -81,13 +90,37 @@ public class AARSensorsActivity extends AARTabActivity implements TabHost.OnTabC
 
     @Override
     public void onSensorChanged(SensorEvent event){
-        if(Math.abs(event.values[0]) > kThreshold ||
-                Math.abs(event.values[1]) > kThreshold ||
-                Math.abs(event.values[2]) > kThreshold ){
+        if((getCurrentTab() == 0) &&
+                (Math.abs(event.values[0]) > kThreshold || Math.abs(event.values[1]) > kThreshold ||
+                        Math.abs(event.values[2]) > kThreshold )
+                ){
             Log.d(TAG, "Shake Detected!");
         }
 
-        accelFragment.setAccelerometer(event);
+        if((getCurrentTab() == 0) &&
+                (event.sensor.getType() == Sensor.TYPE_ACCELEROMETER)){
+            accelFragment.setAccelerometer(event);
+        }else if(getCurrentTab() == 1 &&
+                event.sensor.getType() == Sensor.TYPE_GYROSCOPE){
+            gyroFragment.setGyroscope(event);
+        }
+    }
+
+    private void showFragment(int fragment){
+        FragmentTransaction ft = fragmentManager.beginTransaction();
+
+        switch (fragment){
+            case 0:
+                Log.d(TAG, "Accelerometer Tab");
+                ft.replace(android.R.id.tabcontent, accelFragment);
+                break;
+            case 1:
+                Log.d(TAG, "Gyroscope Tab");
+                ft.replace(android.R.id.tabcontent, gyroFragment);
+                break;
+        }
+
+        ft.commit();
     }
 
 }
