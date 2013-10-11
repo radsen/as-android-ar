@@ -103,6 +103,7 @@ public class AARSensorsActivity extends AARTabActivity implements TabHost.OnTabC
         }else if(getCurrentTab() == 1 &&
                 event.sensor.getType() == Sensor.TYPE_GYROSCOPE){
             gyroFragment.setGyroscope(event);
+            gyroFragment.setRotation((float)Math.toDegrees(event.values[2]));
         }
     }
 

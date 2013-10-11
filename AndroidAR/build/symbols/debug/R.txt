@@ -64,7 +64,7 @@ int id fragment 0x7f050005
 int id gridView 0x7f050006
 int id hw_fragment 0x7f050009
 int id hybrid 0x7f050004
-int id imageView 0x7f050021
+int id ivFigtherJet 0x7f050021
 int id ivwHwItem 0x7f050007
 int id llSegBarMapViews 0x7f05000d
 int id mainListView 0x7f050011

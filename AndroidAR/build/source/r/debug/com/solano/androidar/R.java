@@ -192,7 +192,7 @@ containing a value of this type.
         public static final int gridView=0x7f050006;
         public static final int hw_fragment=0x7f050009;
         public static final int hybrid=0x7f050004;
-        public static final int imageView=0x7f050021;
+        public static final int ivFigtherJet=0x7f050021;
         public static final int ivwHwItem=0x7f050007;
         public static final int llSegBarMapViews=0x7f05000d;
         public static final int mainListView=0x7f050011;
