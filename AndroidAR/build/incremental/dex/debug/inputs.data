@@ -1,45 +1,45 @@
 # incremental data. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
-1381520381000 437 e867cd68fa9d23d23be22079c969302f9a2fc8c3 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/R$style.class
-1381520381000 2327 83af2e1615d92f723368c6d914cd586d6a8d693d /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/R$string.class
-1381520381000 1262 921cd9db44fc11ffba49b2d5c24d74faa82e2355 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/R$styleable.class
-1381520380000 551 0fdb7998e9d5eeaef049bc653fdb70b93bfb5079 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/hardware/AARHwTesterAdapter$ViewHolder.class
-1381520381000 1690 5b0a3ad2e5780f844a9dd4e9bcdc39ae92e653a8 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/classes/debug/com/google/android/gms/R$string.class
-1381520380000 181 b52285cb047cb26c5f73182936c6a5e359fda621 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/interfaces/OnSelectedListener.class
-1381520380000 3228 9fde4b8fc677a83226310aa96b8725b66e942e79 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/location/AARLocationActivity.class
-1381520380000 879 4144e8c2f5d55f16ca4583b22cf85cdd4c0c04d5 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/hardware/AARHwTesterActivity.class
-1381520381000 6452 9dc478c830e67f83ce295ec216d72c6478f07e03 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/location/AARMapFragment.class
-1381520381000 397 94a4cf01c7726739d3bc242898f0a3594ee337db /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/R$menu.class
-1381520381000 774 1604f0ecee90aff549df7249b5fd0aa536dce5e2 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/R$layout.class
-1381520381000 1208 87fc2738e30d99e327753a3c208e52a9c1b99513 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/utils/AARValidationHelper.class
-1381520380000 2900 010b4bc7b0c62667683b8681fcd4e5b132f61b56 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/AARMainListFragment.class
-1381520381000 1800 ad6eafac99e342ff3cd9fca89352dc108e01b618 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/classes/debug/com/google/android/gms/R$drawable.class
-1381520381000 467 05ec2c6afe1793e8ae8555e0ffc7f0ae4e18ece3 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/R$dimen.class
-1380814219000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/libs/android-support-v4.jar
-1381520380000 1433 4be764bbd9d3aab97f92b17e7a3f94d2ca00f7f3 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/AARMainListFragment$1.class
-1381520381000 518 7faaf5717d8c53502857385057e3dcac7f7be390 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/classes/debug/com/google/android/gms/R$id.class
-1381520380000 2467 d9f687ac98b45c6766a91f9aef0d77f1e17ddfe5 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/hardware/AARHwTestFragment.class
-1381520380000 2741 46ffd0373becdafbd1cf6ed40babf9d3f0b7ddef /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/hardware/AARHwTesterAdapter.class
-1381520380000 2015 22d567d0219809d102216ca76268ef2f9ff629e0 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/AARMainActivity.class
-1381520381000 4508 573d81936ccc0dedb7ab82fa28b7a479cb5c9fae /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/sensors/AARSensorsActivity.class
-1381520381000 621 f4a2ae95cbe38ca7c21c9792816192ec4e0f5593 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/classes/debug/com/google/android/gms/R.class
-1381520381000 3031 9dd2ed29e0f1f8ac627f71d9646f8732e092e2ca /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/sensors/AARSensorGyroFragment.class
-1381520381000 888 a7a11d7675474dffdabc82565883cd1ce68ff85b /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/classes/debug/com/google/android/gms/R$attr.class
-1381520381000 1066 a80d2deca37fb10827b40ee3aa4d203badc41a70 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/classes/debug/com/google/android/gms/R$color.class
-1381520381000 470 6cd57cf7e787665e1f69e8e547b4aa86c285d2b9 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/BuildConfig.class
-1381520381000 2018 d478837af40087f0f9fe4f723e08d4643121b0f6 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/R$drawable.class
-1381520380000 1861 0f45ea8f368815158a8cd8e14c161ec43b267251 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/AARTabActivity.class
-1381520381000 3331 08d243f0e6ef0bfa34d14b3ba200a8e492107d3c /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/location/LocationGps.class
-1381520381000 1060 6518e481b8a2ba33d58b0798bf0e44ca64915f79 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/R$color.class
-1381520381000 442 645a438b15b452d1c811bf32fecd8caf365b81e4 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/utils/AARMainMenu.class
-1381520380000 1008 f8ba37f5a27cca7a438b41d78ab8bd775ebce43d /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/model/Hardware.class
-1381520377000 592225 2dd7b1a9ea65bb03d9cd16df777eeaf537a1fc81 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/libs/google-play-services.jar
-1381499141000 110746 59f19e43354d32de831379c23ce03bb259a4c2b7 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/libs/nineoldandroids-2.4.0.jar
-1381520381000 2415 7bcf4896bab21ca5bb8611961e9cf3446d4ed5bb /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/sensors/AARSensorAccelFragment.class
-1381520381000 882 8f6bbbb227a55e51366ab883b423bb7044ee0c2d /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/R$attr.class
-1381520377000 687 5a4a2e5ee69dbfc403536be46a9897e937db5e70 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/classes.jar
-1381520381000 1529 770d9b83bec6b676f64e26cb0c90185c0fb5ba20 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/R$id.class
-1381520381000 2680 ec605b74910d22fe3238149e001ff757fb6dc6c8 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/location/AARLocationFragment.class
-1381520381000 1268 54bdb1b557a375fddbde8b35597667bbd09ad9fc /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/classes/debug/com/google/android/gms/R$styleable.class
-1381520381000 801 11d8cdbd22ac0544918d6a0349ef0079c41400e7 /Users/pfhats0/Documents/Android Studio/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/R.class
+1381590903000 3031 9dd2ed29e0f1f8ac627f71d9646f8732e092e2ca /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/sensors/AARSensorGyroFragment.class
+1381590903000 1268 54bdb1b557a375fddbde8b35597667bbd09ad9fc /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/classes/debug/com/google/android/gms/R$styleable.class
+1381590897000 687 bc2d7ce42ee10e81f5ec78b17b54c2a5ec616bf4 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/classes.jar
+1381590903000 2900 010b4bc7b0c62667683b8681fcd4e5b132f61b56 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/AARMainListFragment.class
+1381539559000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/libs/android-support-v4.jar
+1381590903000 1800 ad6eafac99e342ff3cd9fca89352dc108e01b618 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/classes/debug/com/google/android/gms/R$drawable.class
+1381590897000 592225 2dd7b1a9ea65bb03d9cd16df777eeaf537a1fc81 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/exploded-bundles/AsAndroidArGmsUnspecified.aar/libs/google-play-services.jar
+1381590903000 397 94a4cf01c7726739d3bc242898f0a3594ee337db /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/R$menu.class
+1381595611000 2374 f3b2baf8fc6e1c6c074457e18c23b3caed4a262d /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/R$string.class
+1381590903000 2015 22d567d0219809d102216ca76268ef2f9ff629e0 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/AARMainActivity.class
+1381590903000 774 1604f0ecee90aff549df7249b5fd0aa536dce5e2 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/R$layout.class
+1381595611000 1262 f84234ed9043b43e47fe2013b87e6f762b41d393 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/R$styleable.class
+1381590903000 2680 ec605b74910d22fe3238149e001ff757fb6dc6c8 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/location/AARLocationFragment.class
+1381590903000 1066 a80d2deca37fb10827b40ee3aa4d203badc41a70 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/classes/debug/com/google/android/gms/R$color.class
+1381673470000 1839 dfc626ecce9a8a8cad6624d1dc33adb1717f00d1 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/AARTabActivity.class
+1381590903000 1060 6518e481b8a2ba33d58b0798bf0e44ca64915f79 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/R$color.class
+1381590903000 518 7faaf5717d8c53502857385057e3dcac7f7be390 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/classes/debug/com/google/android/gms/R$id.class
+1381590903000 1208 87fc2738e30d99e327753a3c208e52a9c1b99513 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/utils/AARValidationHelper.class
+1381590903000 1433 4be764bbd9d3aab97f92b17e7a3f94d2ca00f7f3 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/AARMainListFragment$1.class
+1381539559000 110746 59f19e43354d32de831379c23ce03bb259a4c2b7 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/libs/nineoldandroids-2.4.0.jar
+1381590903000 621 f4a2ae95cbe38ca7c21c9792816192ec4e0f5593 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/classes/debug/com/google/android/gms/R.class
+1381590903000 888 a7a11d7675474dffdabc82565883cd1ce68ff85b /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/classes/debug/com/google/android/gms/R$attr.class
+1381590903000 879 4144e8c2f5d55f16ca4583b22cf85cdd4c0c04d5 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/hardware/AARHwTesterActivity.class
+1381590903000 2018 d478837af40087f0f9fe4f723e08d4643121b0f6 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/R$drawable.class
+1381595611000 6452 cad37c53830d6c3c5772e9258e87ad4d0ebfb2a9 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/location/AARMapFragment.class
+1381590903000 470 6cd57cf7e787665e1f69e8e547b4aa86c285d2b9 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/BuildConfig.class
+1381590903000 181 b52285cb047cb26c5f73182936c6a5e359fda621 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/interfaces/OnSelectedListener.class
+1381595611000 1690 410e43e475a8562c57e6b7258aae5e38dce47f25 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/classes/debug/com/google/android/gms/R$string.class
+1381625679000 3516 79189342f5813497e4114b1c94d3baf64b01ac39 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/location/LocationGps.class
+1381595611000 437 b08f60d5dcc19ab330f4261cf184c46e390b77ec /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/R$style.class
+1381590903000 801 11d8cdbd22ac0544918d6a0349ef0079c41400e7 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/R.class
+1381673470000 3510 ba830c96f84424494db3fd720d08ce0603656117 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/location/AARLocationActivity.class
+1381590903000 2497 44893fe079df9f5e6b70e25b22773bad35274182 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/hardware/AARHwTesterAdapter.class
+1381672966000 4642 bfdbd6ccbc873111557f042e06e5c7ab273c011f /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/sensors/AARSensorsActivity.class
+1381590903000 882 8f6bbbb227a55e51366ab883b423bb7044ee0c2d /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/R$attr.class
+1381590903000 467 05ec2c6afe1793e8ae8555e0ffc7f0ae4e18ece3 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/R$dimen.class
+1381590903000 2641 44959d185e2cfa48daaaad7518fa4edf2d02d6c6 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/hardware/AARHwTestFragment.class
+1381590903000 442 645a438b15b452d1c811bf32fecd8caf365b81e4 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/utils/AARMainMenu.class
+1381590903000 504 5f0713409a4cad218e390aa3e04870b1ed516858 /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/hardware/AARHwTesterAdapter$ViewHolder.class
+1381590903000 1008 f8ba37f5a27cca7a438b41d78ab8bd775ebce43d /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/model/Hardware.class
+1381590903000 2415 7bcf4896bab21ca5bb8611961e9cf3446d4ed5bb /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/sensors/AARSensorAccelFragment.class
+1381590903000 1530 580b00da75dae97c26927b384ffcf1775efda39c /Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/build/classes/debug/com/solano/androidar/R$id.class

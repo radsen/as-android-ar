@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">AndroidAR</string>
+    <string name="app_name">Android AR</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
 
@@ -26,5 +26,8 @@
     <string name="sb_btn_txt_std">Standard</string>
     <string name="sb_btn_txt_sat">Satellite</string>
     <string name="sb_btn_txt_hyd">Hybrid</string>
+
+    <!-- Titles For Activities -->
+    <string name="avail_sensors_txt_title">Available Sensors</string>
 
 </resources>

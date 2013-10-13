@@ -33,6 +33,7 @@ public class AARSensorsActivity extends AARTabActivity implements TabHost.OnTabC
     @Override
     public void onCreate(Bundle savedInstanceState){
         super.onCreate(savedInstanceState);
+        setTitle(getString(R.string.avail_sensors_txt_title));
 
         sensorManager = (SensorManager) getSystemService(SENSOR_SERVICE);
 
@@ -80,7 +81,7 @@ public class AARSensorsActivity extends AARTabActivity implements TabHost.OnTabC
 
     @Override
     public void onTabChanged(String tabId){
-        showFragment(getCurrentTab());
+        showFragment(getTabHost().getCurrentTab());
     }
 
     @Override
@@ -90,17 +91,17 @@ public class AARSensorsActivity extends AARTabActivity implements TabHost.OnTabC
 
     @Override
     public void onSensorChanged(SensorEvent event){
-        if((getCurrentTab() == 0) &&
+        if((getTabHost().getCurrentTab() == 0) &&
                 (Math.abs(event.values[0]) > kThreshold || Math.abs(event.values[1]) > kThreshold ||
                         Math.abs(event.values[2]) > kThreshold )
                 ){
             Log.d(TAG, "Shake Detected!");
         }
 
-        if((getCurrentTab() == 0) &&
+        if((getTabHost().getCurrentTab() == 0) &&
                 (event.sensor.getType() == Sensor.TYPE_ACCELEROMETER)){
             accelFragment.setAccelerometer(event);
-        }else if(getCurrentTab() == 1 &&
+        }else if(getTabHost().getCurrentTab() == 1 &&
                 event.sensor.getType() == Sensor.TYPE_GYROSCOPE){
             gyroFragment.setGyroscope(event);
             gyroFragment.setRotation((float)Math.toDegrees(event.values[2]));

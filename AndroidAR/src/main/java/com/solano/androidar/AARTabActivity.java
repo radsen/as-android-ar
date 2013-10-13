@@ -36,7 +36,8 @@ public class AARTabActivity extends FragmentActivity {
         tabHost.setOnTabChangedListener(onTabChangedListener);
     }
 
-    protected int getCurrentTab(){
-        return tabHost.getCurrentTab();
+    protected TabHost getTabHost(){
+        return tabHost;
     }
+
 }

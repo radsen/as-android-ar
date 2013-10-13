@@ -29,7 +29,6 @@ public class AARLocationActivity extends AARTabActivity implements TabHost.OnTab
         super.onCreate(savedInstanceState);
 
         mGps = new LocationGps(this);
-        mGps.start();
 
         locationFragment = new AARLocationFragment();
         mapFragment = new AARMapFragment();
@@ -38,12 +37,24 @@ public class AARLocationActivity extends AARTabActivity implements TabHost.OnTab
         FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
         fragmentTransaction.add(android.R.id.tabcontent, locationFragment);
         fragmentTransaction.add(android.R.id.tabcontent, mapFragment);
-        showFragment(0);
 
         addTab(createTabSpec(getString(R.string.th_loc_01), locationFragment.getId()));
         addTab(createTabSpec(getString(R.string.th_map_02), mapFragment.getId()));
 
         setOnTabChangedListener(this);
+        showFragment(0);
+    }
+
+    @Override
+    public void onStart(){
+        super.onStart();
+        mGps.start();
+    }
+
+    @Override
+    public void onPause(){
+        super.onPause();
+        mGps.stop();
     }
 
     @Override
@@ -54,7 +65,7 @@ public class AARLocationActivity extends AARTabActivity implements TabHost.OnTab
 
     @Override
     public void onTabChanged(String tabId){
-        showFragment (getCurrentTab());
+        showFragment (getTabHost().getCurrentTab());
     }
 
     private void showFragment(int fragment){

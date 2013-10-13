@@ -16,6 +16,8 @@ import android.location.LocationListener;
 public class LocationGps implements LocationListener {
 
     private static final String TAG = LocationGps.class.getSimpleName();
+    private final int LOC_MIN_TIME = 300000; // Request updates every 5 minutes.
+    private final int LOC_MIN_DISTANCE = 25; // Request updates every 25 meters.
 
     private Context context;
     private Location location;
@@ -31,7 +33,12 @@ public class LocationGps implements LocationListener {
         locationManager = (LocationManager) ctx.getSystemService(Context.LOCATION_SERVICE);
 
         Criteria criteria = new Criteria();
-        bestProvider = locationManager.getBestProvider(criteria, false);
+        criteria.setAccuracy(Criteria.ACCURACY_LOW);
+        criteria.setPowerRequirement(Criteria.POWER_LOW);
+        criteria.setAltitudeRequired(false);
+        criteria.setBearingRequired(false);
+
+        bestProvider = locationManager.getBestProvider(criteria, true);
         location = locationManager.getLastKnownLocation(bestProvider);
 
         if(location != null){
@@ -49,11 +56,11 @@ public class LocationGps implements LocationListener {
                 location.getLongitude(),
                 location.getAltitude(),
                 location.getBearing());
+        this.location = location;
     }
 
     public void onStatusChanged(String provider, int status, Bundle extras){
-        String locChanged = String.format("Provider:\t %@\nStatus:\t %d\nExtras:\t %@", provider, status, extras.toString());
-        Log.d(TAG, "onStatusChanged with location " + locChanged);
+        Log.d(TAG, "onStatusChanged:" + provider + ", " + status);
     }
 
     public void onProviderEnabled(String provider){
@@ -65,7 +72,7 @@ public class LocationGps implements LocationListener {
     }
 
     public void start(){
-        locationManager.requestLocationUpdates(bestProvider, 0, 0, this);
+        locationManager.requestLocationUpdates(bestProvider, LOC_MIN_TIME, LOC_MIN_DISTANCE, this);
     }
 
     public void stop(){

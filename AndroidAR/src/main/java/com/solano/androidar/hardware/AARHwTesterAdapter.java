@@ -1,6 +1,7 @@
 package com.solano.androidar.hardware;
 
 import android.content.Context;
+import android.hardware.Sensor;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -19,10 +20,10 @@ import java.util.ArrayList;
 public class AARHwTesterAdapter extends BaseAdapter {
 
     private Context ctx = null;
-    private ArrayList<Hardware> hwList = null;
+    private ArrayList<Sensor> hwList = null;
     LayoutInflater inflater = null;
 
-    public AARHwTesterAdapter(Context ctx, ArrayList<Hardware> hwList){
+    public AARHwTesterAdapter(Context ctx, ArrayList<Sensor> hwList){
         this.ctx = ctx;
         this.hwList = hwList;
 
@@ -44,28 +45,25 @@ public class AARHwTesterAdapter extends BaseAdapter {
     public View getView(int position, View convertView, ViewGroup parent){
 
         ViewHolder holder;
-        Hardware hw = (Hardware)getItem(position);
+        Sensor sensor = (Sensor)getItem(position);
 
         if(convertView == null){
             convertView = inflater.inflate(R.layout.hardware_item, null);
             holder = new ViewHolder();
 
-            holder.imgView = (ImageView) convertView.findViewById(R.id.ivwHwItem);
             holder.tvName = (TextView) convertView.findViewById(R.id.tvwHwItem);
             convertView.setTag(holder);
         }else{
             holder = (ViewHolder)convertView.getTag();
         }
 
-        holder.imgView.setImageResource(hw.getHardwareImageResource());
-        holder.tvName.setText(hw.getHardwareName());
+        holder.tvName.setText(sensor.getName());
 
         return convertView;
     }
 
     static class ViewHolder
     {
-        ImageView imgView;
         TextView tvName;
     }
 }

@@ -5,11 +5,9 @@
               android:layout_width="match_parent"
               android:layout_height="match_parent">
 
-    <GridView
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:id="@+id/gridView"
-            android:layout_gravity="center"
-            android:numColumns="auto_fit"
-            />
-</LinearLayout><!-- From: file:/Users/pfhats0/Documents/Android%20Studio/as-android-ar/AndroidAR/src/main/res/layout/hardware.xml -->
+    <ListView
+        android:id="@+id/lvSensors"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</LinearLayout><!-- From: file:/Users/Radsen/AndroidStudioProjects/as-android-ar/AndroidAR/src/main/res/layout/hardware.xml -->
